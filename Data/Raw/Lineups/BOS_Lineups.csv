@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-25,,,Box Score,@,New York Knicks,W,,108,104,1,0,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+2,2023-10-27,,,Box Score,,Miami Heat,W,,119,111,2,0,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+3,2023-10-30,,,Box Score,@,Washington Wizards,W,,126,107,3,0,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+4,2023-11-01,,,Box Score,,Indiana Pacers,W,,155,104,4,0,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+5,2023-11-04,,,Box Score,@,Brooklyn Nets,W,,124,114,5,0,J. Brown · J. Holiday · A. Horford · K. Porziņģis · J. Tatum
+6,2023-11-06,,,Box Score,@,Minnesota Timberwolves,L,OT,109,114,5,1,J. Brown · J. Holiday · A. Horford · K. Porziņģis · J. Tatum
+7,2023-11-08,,,Box Score,@,Philadelphia 76ers,L,,103,106,5,2,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+8,2023-11-10,,,Box Score,,Brooklyn Nets,W,,121,107,6,2,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+9,2023-11-11,,,Box Score,,Toronto Raptors,W,,117,94,7,2,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+10,2023-11-13,,,Box Score,,New York Knicks,W,,114,98,8,2,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+11,2023-11-15,,,Box Score,@,Philadelphia 76ers,W,,117,107,9,2,S. Hauser · J. Holiday · A. Horford · J. Tatum · D. White
+12,2023-11-17,,,Box Score,@,Toronto Raptors,W,,108,105,10,2,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+13,2023-11-19,,,Box Score,@,Memphis Grizzlies,W,,102,100,11,2,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+14,2023-11-20,,,Box Score,@,Charlotte Hornets,L,OT,118,121,11,3,J. Brown · S. Hauser · J. Holiday · K. Porziņģis · J. Tatum
+15,2023-11-22,,,Box Score,,Milwaukee Bucks,W,,119,116,12,3,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+16,2023-11-24,,,Box Score,@,Orlando Magic,L,,96,113,12,4,J. Brown · A. Horford · K. Porziņģis · J. Tatum · D. White
+17,2023-11-26,,,Box Score,,Atlanta Hawks,W,,113,103,13,4,D. Banton · J. Brown · A. Horford · J. Tatum · D. White
+18,2023-11-28,,,Box Score,,Chicago Bulls,W,,124,97,14,4,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+19,2023-12-01,,,Box Score,,Philadelphia 76ers,W,,125,119,15,4,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+20,2023-12-04,,,Box Score,@,Indiana Pacers,L,,112,122,15,5,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+21,2023-12-08,,,Box Score,,New York Knicks,W,,133,123,16,5,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+22,2023-12-12,,,Box Score,,Cleveland Cavaliers,W,,120,113,17,5,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+23,2023-12-14,,,Box Score,,Cleveland Cavaliers,W,,116,107,18,5,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+24,2023-12-15,,,Box Score,,Orlando Magic,W,,128,111,19,5,J. Brown · J. Holiday · L. Stevens · J. Tatum · D. White
+25,2023-12-17,,,Box Score,,Orlando Magic,W,,114,97,20,5,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+26,2023-12-19,,,Box Score,@,Golden State Warriors,L,OT,126,132,20,6,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+27,2023-12-20,,,Box Score,@,Sacramento Kings,W,,144,119,21,6,J. Brown · S. Hauser · J. Holiday · K. Porziņģis · D. White
+28,2023-12-23,,,Box Score,@,Los Angeles Clippers,W,,145,108,22,6,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+29,2023-12-25,,,Box Score,@,Los Angeles Lakers,W,,126,115,23,6,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+30,2023-12-28,,,Box Score,,Detroit Pistons,W,OT,128,122,24,6,J. Holiday · A. Horford · K. Porziņģis · J. Tatum · D. White
+31,2023-12-29,,,Box Score,,Toronto Raptors,W,,120,118,25,6,J. Brown · S. Hauser · J. Holiday · L. Kornet · D. White
+32,2023-12-31,,,Box Score,@,San Antonio Spurs,W,,134,101,26,6,J. Brown · A. Horford · K. Porziņģis · J. Tatum · D. White
+33,2024-01-02,,,Box Score,@,Oklahoma City Thunder,L,,123,127,26,7,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+34,2024-01-05,,,Box Score,,Utah Jazz,W,,126,97,27,7,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+35,2024-01-06,,,Box Score,@,Indiana Pacers,W,,118,101,28,7,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+36,2024-01-08,,,Box Score,@,Indiana Pacers,L,,131,133,28,8,J. Brown · J. Holiday · A. Horford · K. Porziņģis · D. White
+37,2024-01-10,,,Box Score,,Minnesota Timberwolves,W,OT,127,120,29,8,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+38,2024-01-11,,,Box Score,@,Milwaukee Bucks,L,,102,135,29,9,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+39,2024-01-13,,,Box Score,,Houston Rockets,W,,145,113,30,9,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+40,2024-01-15,,,Box Score,@,Toronto Raptors,W,,105,96,31,9,J. Holiday · A. Horford · K. Porziņģis · J. Tatum · D. White
+41,2024-01-17,,,Box Score,,San Antonio Spurs,W,,117,98,32,9,J. Brown · J. Holiday · A. Horford · L. Kornet · J. Tatum
+42,2024-01-19,,,Box Score,,Denver Nuggets,L,,100,102,32,10,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+43,2024-01-21,,,Box Score,@,Houston Rockets,W,,116,107,33,10,J. Brown · S. Hauser · K. Porziņģis · J. Tatum · D. White
+44,2024-01-22,,,Box Score,@,Dallas Mavericks,W,,119,110,34,10,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+45,2024-01-25,,,Box Score,@,Miami Heat,W,,143,110,35,10,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+46,2024-01-27,,,Box Score,,Los Angeles Clippers,L,,96,115,35,11,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+47,2024-01-29,,,Box Score,,New Orleans Pelicans,W,,118,112,36,11,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+48,2024-01-30,,,Box Score,,Indiana Pacers,W,,129,124,37,11,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+49,2024-02-01,,,Box Score,,Los Angeles Lakers,L,,105,114,37,12,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+50,2024-02-04,,,Box Score,,Memphis Grizzlies,W,,131,91,38,12,J. Holiday · A. Horford · K. Porziņģis · J. Tatum · D. White
+51,2024-02-07,,,Box Score,,Atlanta Hawks,W,,125,117,39,12,J. Brown · A. Horford · K. Porziņģis · J. Tatum · D. White
+52,2024-02-09,,,Box Score,,Washington Wizards,W,,133,129,40,12,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+53,2024-02-11,,,Box Score,@,Miami Heat,W,,110,106,41,12,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+54,2024-02-13,,,Box Score,@,Brooklyn Nets,W,,118,110,42,12,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+55,2024-02-14,,,Box Score,,Brooklyn Nets,W,,136,86,43,12,S. Hauser · J. Holiday · K. Porziņģis · J. Tatum · D. White
+56,2024-02-22,,,Box Score,@,Chicago Bulls,W,,129,112,44,12,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+57,2024-02-24,,,Box Score,@,New York Knicks,W,,116,102,45,12,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+58,2024-02-27,,,Box Score,,Philadelphia 76ers,W,,117,99,46,12,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+59,2024-03-01,,,Box Score,,Dallas Mavericks,W,,138,110,47,12,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+60,2024-03-03,,,Box Score,,Golden State Warriors,W,,140,88,48,12,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+61,2024-03-05,,,Box Score,@,Cleveland Cavaliers,L,,104,105,48,13,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+62,2024-03-07,,,Box Score,@,Denver Nuggets,L,,109,115,48,14,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+63,2024-03-09,,,Box Score,@,Phoenix Suns,W,,117,107,49,14,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+64,2024-03-11,,,Box Score,@,Portland Trail Blazers,W,,121,99,50,14,J. Brown · A. Horford · P. Pritchard · J. Tatum · D. White
+65,2024-03-12,,,Box Score,@,Utah Jazz,W,,123,107,51,14,S. Hauser · J. Holiday · L. Kornet · J. Tatum · D. White
+66,2024-03-14,,,Box Score,,Phoenix Suns,W,,127,112,52,14,J. Brown · J. Holiday · A. Horford · J. Tatum · D. White
+67,2024-03-17,,,Box Score,@,Washington Wizards,W,,130,104,53,14,O. Brissett · S. Hauser · J. Holiday · A. Horford · J. Tatum
+68,2024-03-18,,,Box Score,,Detroit Pistons,W,,119,94,54,14,J. Brown · L. Kornet · K. Porziņģis · P. Pritchard · D. White
+69,2024-03-20,,,Box Score,,Milwaukee Bucks,W,,122,119,55,14,J. Brown · A. Horford · K. Porziņģis · J. Tatum · D. White
+70,2024-03-22,,,Box Score,@,Detroit Pistons,W,,129,102,56,14,J. Brown · K. Porziņģis · P. Pritchard · X. Tillman · D. White
+71,2024-03-23,,,Box Score,@,Chicago Bulls,W,,124,113,57,14,S. Hauser · A. Horford · L. Kornet · J. Tatum · D. White
+72,2024-03-25,,,Box Score,@,Atlanta Hawks,L,,118,120,57,15,J. Brown · S. Hauser · A. Horford · K. Porziņģis · J. Tatum
+73,2024-03-28,,,Box Score,@,Atlanta Hawks,L,OT,122,123,57,16,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+74,2024-03-30,,,Box Score,@,New Orleans Pelicans,W,,104,92,58,16,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+75,2024-04-01,,,Box Score,@,Charlotte Hornets,W,,118,104,59,16,J. Holiday · A. Horford · K. Porziņģis · J. Tatum · D. White
+76,2024-04-03,,,Box Score,,Oklahoma City Thunder,W,,135,100,60,16,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+77,2024-04-05,,,Box Score,,Sacramento Kings,W,,101,100,61,16,S. Hauser · J. Holiday · A. Horford · K. Porziņģis · J. Tatum
+78,2024-04-07,,,Box Score,,Portland Trail Blazers,W,,124,107,62,16,J. Brown · J. Holiday · A. Horford · K. Porziņģis · D. White
+79,2024-04-09,,,Box Score,@,Milwaukee Bucks,L,,91,104,62,17,J. Brown · J. Holiday · J. Tatum · X. Tillman · D. White
+80,2024-04-11,,,Box Score,,New York Knicks,L,,109,118,62,18,J. Brown · J. Holiday · K. Porziņģis · J. Tatum · D. White
+81,2024-04-12,,,Box Score,,Charlotte Hornets,W,,131,98,63,18,S. Hauser · L. Kornet · S. Mykhailiuk · P. Pritchard · J. Springer
+82,2024-04-14,,,Box Score,,Washington Wizards,W,,132,122,64,18,S. Hauser · L. Kornet · S. Mykhailiuk · P. Pritchard · J. Walsh

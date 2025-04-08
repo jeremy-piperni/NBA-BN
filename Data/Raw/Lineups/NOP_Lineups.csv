@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-25,,,Box Score,@,Memphis Grizzlies,W,,111,104,1,0,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+2,2023-10-28,,,Box Score,,New York Knicks,W,,96,87,2,0,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+3,2023-10-30,,,Box Score,,Golden State Warriors,L,,102,130,2,1,J. Hawkins · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+4,2023-11-01,,,Box Score,@,Oklahoma City Thunder,W,,110,106,3,1,J. Hawkins · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+5,2023-11-02,,,Box Score,,Detroit Pistons,W,,125,116,4,1,J. Hawkins · H. Jones · C. McCollum · M. Ryan · J. Valančiūnas
+6,2023-11-04,,,Box Score,,Atlanta Hawks,L,,105,123,4,2,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+7,2023-11-06,,,Box Score,@,Denver Nuggets,L,,116,134,4,3,J. Hawkins · B. Ingram · H. Jones · J. Valančiūnas · Z. Williamson
+8,2023-11-08,,,Box Score,@,Minnesota Timberwolves,L,,101,122,4,4,D. Daniels · J. Hawkins · B. Ingram · J. Robinson-Earl · J. Valančiūnas
+9,2023-11-10,,,Box Score,@,Houston Rockets,L,,101,104,4,5,D. Daniels · J. Hawkins · B. Ingram · J. Valančiūnas · Z. Williamson
+10,2023-11-12,,,Box Score,,Dallas Mavericks,L,,124,136,4,6,D. Daniels · J. Hawkins · B. Ingram · J. Valančiūnas · Z. Williamson
+11,2023-11-14,,,Box Score,,Dallas Mavericks,W,,131,110,5,6,D. Daniels · B. Ingram · H. Jones · J. Valančiūnas · Z. Williamson
+12,2023-11-17,,,Box Score,,Denver Nuggets,W,,115,110,6,6,D. Daniels · B. Ingram · H. Jones · J. Valančiūnas · Z. Williamson
+13,2023-11-18,,,Box Score,,Minnesota Timberwolves,L,,120,121,6,7,D. Daniels · J. Hawkins · B. Ingram · H. Jones · J. Valančiūnas
+14,2023-11-20,,,Box Score,,Sacramento Kings,W,,129,93,7,7,D. Daniels · B. Ingram · H. Jones · J. Valančiūnas · Z. Williamson
+15,2023-11-22,,,Box Score,,Sacramento Kings,W,,117,112,8,7,D. Daniels · B. Ingram · H. Jones · J. Valančiūnas · Z. Williamson
+16,2023-11-24,,,Box Score,@,Los Angeles Clippers,W,,116,106,9,7,D. Daniels · B. Ingram · H. Jones · J. Valančiūnas · Z. Williamson
+17,2023-11-25,,,Box Score,@,Utah Jazz,L,,100,105,9,8,D. Daniels · J. Hawkins · B. Ingram · H. Jones · J. Valančiūnas
+18,2023-11-27,,,Box Score,@,Utah Jazz,L,,112,114,9,9,D. Daniels · B. Ingram · H. Jones · J. Valančiūnas · Z. Williamson
+19,2023-11-29,,,Box Score,,Philadelphia 76ers,W,,124,114,10,9,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+20,2023-12-01,,,Box Score,,San Antonio Spurs,W,,121,106,11,9,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+21,2023-12-02,,,Box Score,@,Chicago Bulls,L,,118,124,11,10,D. Daniels · B. Ingram · H. Jones · J. Valančiūnas · Z. Williamson
+22,2023-12-04,,,Box Score,@,Sacramento Kings,W,,127,117,12,10,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+23,2023-12-07,,,Box Score,@,Los Angeles Lakers,L,,89,133,12,11,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+24,2023-12-11,,,Box Score,,Minnesota Timberwolves,W,,121,107,13,11,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+25,2023-12-13,,,Box Score,@,Washington Wizards,W,,142,122,14,11,D. Daniels · B. Ingram · H. Jones · C. McCollum · J. Valančiūnas
+26,2023-12-15,,,Box Score,@,Charlotte Hornets,W,,112,107,15,11,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+27,2023-12-17,,,Box Score,@,San Antonio Spurs,W,,146,110,16,11,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+28,2023-12-19,,,Box Score,,Memphis Grizzlies,L,,113,115,16,12,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+29,2023-12-21,,,Box Score,@,Cleveland Cavaliers,W,,123,104,17,12,B. Ingram · H. Jones · C. McCollum · T. Murphy · J. Valančiūnas
+30,2023-12-23,,,Box Score,,Houston Rockets,L,,104,106,17,13,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+31,2023-12-26,,,Box Score,,Memphis Grizzlies,L,OT,115,116,17,14,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+32,2023-12-28,,,Box Score,,Utah Jazz,W,,112,105,18,14,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+33,2023-12-31,,,Box Score,,Los Angeles Lakers,W,,129,109,19,14,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+34,2024-01-02,,,Box Score,,Brooklyn Nets,W,,112,85,20,14,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+35,2024-01-03,,,Box Score,@,Minnesota Timberwolves,W,,117,106,21,14,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+36,2024-01-05,,,Box Score,,Los Angeles Clippers,L,,95,111,21,15,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+37,2024-01-07,,,Box Score,@,Sacramento Kings,W,,133,100,22,15,B. Ingram · H. Jones · C. McCollum · T. Murphy · J. Valančiūnas
+38,2024-01-10,,,Box Score,@,Golden State Warriors,W,,141,105,23,15,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+39,2024-01-12,,,Box Score,@,Denver Nuggets,L,,113,125,23,16,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+40,2024-01-13,,,Box Score,@,Dallas Mavericks,W,,118,108,24,16,D. Daniels · J. Hawkins · H. Jones · N. Marshall · J. Valančiūnas
+41,2024-01-15,,,Box Score,@,Dallas Mavericks,L,,120,125,24,17,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+42,2024-01-17,,,Box Score,,Charlotte Hornets,W,,132,112,25,17,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+43,2024-01-19,,,Box Score,,Phoenix Suns,L,,109,123,25,18,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+44,2024-01-23,,,Box Score,,Utah Jazz,W,,153,124,26,18,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+45,2024-01-26,,,Box Score,,Oklahoma City Thunder,L,,83,107,26,19,B. Ingram · H. Jones · C. McCollum · T. Murphy · J. Valančiūnas
+46,2024-01-27,,,Box Score,@,Milwaukee Bucks,L,,117,141,26,20,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+47,2024-01-29,,,Box Score,@,Boston Celtics,L,,112,118,26,21,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+48,2024-01-31,,,Box Score,@,Houston Rockets,W,,110,99,27,21,D. Daniels · B. Ingram · C. McCollum · T. Murphy · J. Valančiūnas
+49,2024-02-02,,,Box Score,@,San Antonio Spurs,W,,114,113,28,21,B. Ingram · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+50,2024-02-05,,,Box Score,,Toronto Raptors,W,,138,100,29,21,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+51,2024-02-07,,,Box Score,@,Los Angeles Clippers,W,,117,106,30,21,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+52,2024-02-09,,,Box Score,@,Los Angeles Lakers,L,,122,139,30,22,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+53,2024-02-10,,,Box Score,@,Portland Trail Blazers,W,,93,84,31,22,B. Ingram · H. Jones · C. McCollum · T. Murphy · J. Valančiūnas
+54,2024-02-12,,,Box Score,@,Memphis Grizzlies,W,,96,87,32,22,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+55,2024-02-14,,,Box Score,,Washington Wizards,W,,133,126,33,22,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+56,2024-02-22,,,Box Score,,Houston Rockets,W,,127,105,34,22,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+57,2024-02-23,,,Box Score,,Miami Heat,L,,95,106,34,23,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+58,2024-02-25,,,Box Score,,Chicago Bulls,L,,106,114,34,24,B. Ingram · H. Jones · T. Murphy · J. Valančiūnas · Z. Williamson
+59,2024-02-27,,,Box Score,@,New York Knicks,W,,115,92,35,24,B. Ingram · H. Jones · T. Murphy · J. Valančiūnas · Z. Williamson
+60,2024-02-28,,,Box Score,@,Indiana Pacers,L,,114,123,35,25,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+61,2024-03-01,,,Box Score,,Indiana Pacers,W,,129,102,36,25,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+62,2024-03-05,,,Box Score,@,Toronto Raptors,W,,139,98,37,25,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+63,2024-03-08,,,Box Score,@,Philadelphia 76ers,W,,103,95,38,25,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+64,2024-03-10,,,Box Score,@,Atlanta Hawks,W,,116,103,39,25,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+65,2024-03-13,,,Box Score,,Cleveland Cavaliers,L,,95,116,39,26,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+66,2024-03-15,,,Box Score,,Los Angeles Clippers,W,,112,104,40,26,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+67,2024-03-16,,,Box Score,,Portland Trail Blazers,W,,126,107,41,26,B. Ingram · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+68,2024-03-19,,,Box Score,@,Brooklyn Nets,W,,104,91,42,26,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+69,2024-03-21,,,Box Score,@,Orlando Magic,L,,106,121,42,27,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson
+70,2024-03-22,,,Box Score,@,Miami Heat,W,,111,88,43,27,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+71,2024-03-24,,,Box Score,@,Detroit Pistons,W,,114,101,44,27,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+72,2024-03-26,,,Box Score,,Oklahoma City Thunder,L,,112,119,44,28,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+73,2024-03-28,,,Box Score,,Milwaukee Bucks,W,,107,100,45,28,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+74,2024-03-30,,,Box Score,,Boston Celtics,L,,92,104,45,29,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+75,2024-04-01,,,Box Score,,Phoenix Suns,L,,111,124,45,30,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+76,2024-04-03,,,Box Score,,Orlando Magic,L,,108,117,45,31,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+77,2024-04-05,,,Box Score,,San Antonio Spurs,L,,109,111,45,32,D. Daniels · H. Jones · C. McCollum · T. Murphy · J. Valančiūnas
+78,2024-04-07,,,Box Score,@,Phoenix Suns,W,,113,105,46,32,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+79,2024-04-09,,,Box Score,@,Portland Trail Blazers,W,,110,100,47,32,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+80,2024-04-11,,,Box Score,@,Sacramento Kings,W,,135,123,48,32,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+81,2024-04-12,,,Box Score,@,Golden State Warriors,W,,114,109,49,32,H. Jones · C. McCollum · T. Murphy · J. Valančiūnas · Z. Williamson
+82,2024-04-14,,,Box Score,,Los Angeles Lakers,L,,108,124,49,33,B. Ingram · H. Jones · C. McCollum · J. Valančiūnas · Z. Williamson

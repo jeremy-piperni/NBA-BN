@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-24,,,Box Score,,Phoenix Suns,L,,104,108,0,1,S. Curry · K. Looney · C. Paul · K. Thompson · A. Wiggins
+2,2023-10-27,,,Box Score,@,Sacramento Kings,W,,122,114,1,1,S. Curry · K. Looney · C. Paul · K. Thompson · A. Wiggins
+3,2023-10-29,,,Box Score,@,Houston Rockets,W,,106,95,2,1,S. Curry · D. Green · K. Looney · K. Thompson · A. Wiggins
+4,2023-10-30,,,Box Score,@,New Orleans Pelicans,W,,130,102,3,1,S. Curry · D. Green · K. Looney · M. Moody · A. Wiggins
+5,2023-11-01,,,Box Score,,Sacramento Kings,W,,102,101,4,1,S. Curry · D. Green · K. Looney · K. Thompson · A. Wiggins
+6,2023-11-03,,,Box Score,@,Oklahoma City Thunder,W,,141,139,5,1,S. Curry · D. Green · K. Looney · K. Thompson · A. Wiggins
+7,2023-11-05,,,Box Score,@,Cleveland Cavaliers,L,,104,115,5,2,S. Curry · D. Green · K. Looney · K. Thompson · A. Wiggins
+8,2023-11-06,,,Box Score,@,Detroit Pistons,W,,120,109,6,2,S. Curry · D. Green · K. Looney · K. Thompson · A. Wiggins
+9,2023-11-08,,,Box Score,@,Denver Nuggets,L,,105,108,6,3,S. Curry · K. Looney · D. Šarić · K. Thompson · A. Wiggins
+10,2023-11-11,,,Box Score,,Cleveland Cavaliers,L,,110,118,6,4,S. Curry · D. Green · K. Looney · K. Thompson · A. Wiggins
+11,2023-11-12,,,Box Score,,Minnesota Timberwolves,L,,110,116,6,5,S. Curry · D. Green · K. Looney · K. Thompson · A. Wiggins
+12,2023-11-14,,,Box Score,,Minnesota Timberwolves,L,,101,104,6,6,D. Green · C. Paul · D. Šarić · K. Thompson · A. Wiggins
+13,2023-11-16,,,Box Score,,Oklahoma City Thunder,L,,109,128,6,7,J. Kuminga · C. Paul · D. Šarić · K. Thompson · A. Wiggins
+14,2023-11-18,,,Box Score,,Oklahoma City Thunder,L,OT,123,130,6,8,S. Curry · K. Looney · C. Paul · K. Thompson · A. Wiggins
+15,2023-11-20,,,Box Score,,Houston Rockets,W,,121,116,7,8,S. Curry · K. Looney · C. Paul · K. Thompson · A. Wiggins
+16,2023-11-22,,,Box Score,@,Phoenix Suns,L,,115,123,7,9,S. Curry · K. Looney · C. Paul · K. Thompson · A. Wiggins
+17,2023-11-24,,,Box Score,,San Antonio Spurs,W,,118,112,8,9,S. Curry · K. Looney · M. Moody · K. Thompson · A. Wiggins
+18,2023-11-28,,,Box Score,@,Sacramento Kings,L,,123,124,8,10,S. Curry · D. Green · K. Looney · K. Thompson · A. Wiggins
+19,2023-11-30,,,Box Score,,Los Angeles Clippers,W,,120,114,9,10,S. Curry · D. Green · K. Looney · M. Moody · K. Thompson
+20,2023-12-02,,,Box Score,@,Los Angeles Clippers,L,,112,113,9,11,S. Curry · D. Green · M. Moody · D. Šarić · K. Thompson
+21,2023-12-06,,,Box Score,,Portland Trail Blazers,W,,110,106,10,11,S. Curry · D. Green · K. Looney · K. Thompson · A. Wiggins
+22,2023-12-08,,,Box Score,@,Oklahoma City Thunder,L,OT,136,138,10,12,S. Curry · D. Green · K. Looney · K. Thompson · A. Wiggins
+23,2023-12-12,,,Box Score,@,Phoenix Suns,L,,116,119,10,13,S. Curry · D. Green · K. Looney · K. Thompson · A. Wiggins
+24,2023-12-14,,,Box Score,@,Los Angeles Clippers,L,,113,121,10,14,S. Curry · J. Kuminga · K. Looney · B. Podziemski · K. Thompson
+25,2023-12-16,,,Box Score,,Brooklyn Nets,W,,124,120,11,14,S. Curry · J. Kuminga · K. Looney · B. Podziemski · K. Thompson
+26,2023-12-17,,,Box Score,@,Portland Trail Blazers,W,,118,114,12,14,S. Curry · J. Kuminga · K. Looney · B. Podziemski · K. Thompson
+27,2023-12-19,,,Box Score,,Boston Celtics,W,OT,132,126,13,14,S. Curry · J. Kuminga · K. Looney · B. Podziemski · K. Thompson
+28,2023-12-22,,,Box Score,,Washington Wizards,W,,129,118,14,14,S. Curry · J. Kuminga · K. Looney · B. Podziemski · K. Thompson
+29,2023-12-23,,,Box Score,,Portland Trail Blazers,W,,126,106,15,14,S. Curry · J. Kuminga · K. Looney · B. Podziemski · K. Thompson
+30,2023-12-25,,,Box Score,@,Denver Nuggets,L,,114,120,15,15,S. Curry · J. Kuminga · K. Looney · B. Podziemski · K. Thompson
+31,2023-12-28,,,Box Score,,Miami Heat,L,,102,114,15,16,S. Curry · J. Kuminga · K. Looney · B. Podziemski · K. Thompson
+32,2023-12-30,,,Box Score,,Dallas Mavericks,L,,122,132,15,17,S. Curry · T. Jackson-Davis · J. Kuminga · C. Paul · K. Thompson
+33,2024-01-02,,,Box Score,,Orlando Magic,W,,121,115,16,17,S. Curry · T. Jackson-Davis · J. Kuminga · C. Paul · K. Thompson
+34,2024-01-04,,,Box Score,,Denver Nuggets,L,,127,130,16,18,S. Curry · J. Kuminga · K. Looney · C. Paul · K. Thompson
+35,2024-01-05,,,Box Score,,Detroit Pistons,W,,113,109,17,18,S. Curry · J. Kuminga · K. Looney · C. Paul · K. Thompson
+36,2024-01-07,,,Box Score,,Toronto Raptors,L,,118,133,17,19,S. Curry · T. Jackson-Davis · J. Kuminga · K. Thompson · A. Wiggins
+37,2024-01-10,,,Box Score,,New Orleans Pelicans,L,,105,141,17,20,S. Curry · J. Kuminga · K. Looney · B. Podziemski · K. Thompson
+38,2024-01-12,,,Box Score,@,Chicago Bulls,W,,140,131,18,20,S. Curry · K. Looney · D. Šarić · K. Thompson · A. Wiggins
+39,2024-01-13,,,Box Score,@,Milwaukee Bucks,L,,118,129,18,21,K. Looney · B. Podziemski · D. Šarić · K. Thompson · A. Wiggins
+40,2024-01-15,,,Box Score,@,Memphis Grizzlies,L,,107,116,18,22,S. Curry · K. Looney · D. Šarić · K. Thompson · A. Wiggins
+41,2024-01-24,,,Box Score,,Atlanta Hawks,W,,134,112,19,22,S. Curry · K. Looney · D. Šarić · K. Thompson · A. Wiggins
+42,2024-01-25,,,Box Score,,Sacramento Kings,L,,133,134,19,23,S. Curry · K. Looney · D. Šarić · K. Thompson · A. Wiggins
+43,2024-01-27,,,Box Score,,Los Angeles Lakers,L,2OT,144,145,19,24,S. Curry · D. Green · J. Kuminga · K. Thompson · A. Wiggins
+44,2024-01-30,,,Box Score,,Philadelphia 76ers,W,,119,107,20,24,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+45,2024-02-02,,,Box Score,@,Memphis Grizzlies,W,,121,101,21,24,S. Curry · D. Green · J. Kuminga · K. Thompson · A. Wiggins
+46,2024-02-03,,,Box Score,@,Atlanta Hawks,L,OT,134,141,21,25,S. Curry · D. Green · J. Kuminga · K. Thompson · A. Wiggins
+47,2024-02-05,,,Box Score,@,Brooklyn Nets,W,,109,98,22,25,S. Curry · D. Green · J. Kuminga · B. Podziemski · K. Thompson
+48,2024-02-07,,,Box Score,@,Philadelphia 76ers,W,,127,104,23,25,S. Curry · D. Green · J. Kuminga · K. Thompson · A. Wiggins
+49,2024-02-08,,,Box Score,@,Indiana Pacers,W,,131,109,24,25,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+50,2024-02-10,,,Box Score,,Phoenix Suns,W,,113,112,25,25,S. Curry · D. Green · J. Kuminga · K. Thompson · A. Wiggins
+51,2024-02-12,,,Box Score,@,Utah Jazz,W,,129,107,26,25,S. Curry · D. Green · J. Kuminga · K. Thompson · A. Wiggins
+52,2024-02-14,,,Box Score,,Los Angeles Clippers,L,,125,130,26,26,S. Curry · D. Green · J. Kuminga · K. Thompson · A. Wiggins
+53,2024-02-15,,,Box Score,@,Utah Jazz,W,,140,137,27,26,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+54,2024-02-22,,,Box Score,,Los Angeles Lakers,W,,128,110,28,26,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+55,2024-02-23,,,Box Score,,Charlotte Hornets,W,,97,84,29,26,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+56,2024-02-25,,,Box Score,,Denver Nuggets,L,,103,119,29,27,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+57,2024-02-27,,,Box Score,@,Washington Wizards,W,,123,112,30,27,S. Curry · D. Green · J. Kuminga · M. Moody · B. Podziemski
+58,2024-02-29,,,Box Score,@,New York Knicks,W,,110,99,31,27,S. Curry · D. Green · J. Kuminga · M. Moody · B. Podziemski
+59,2024-03-01,,,Box Score,@,Toronto Raptors,W,,120,105,32,27,S. Curry · D. Green · J. Kuminga · M. Moody · K. Thompson
+60,2024-03-03,,,Box Score,@,Boston Celtics,L,,88,140,32,28,S. Curry · D. Green · J. Kuminga · M. Moody · K. Thompson
+61,2024-03-06,,,Box Score,,Milwaukee Bucks,W,,125,90,33,28,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+62,2024-03-07,,,Box Score,,Chicago Bulls,L,,122,125,33,29,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+63,2024-03-09,,,Box Score,,San Antonio Spurs,L,,113,126,33,30,D. Green · T. Jackson-Davis · J. Kuminga · C. Paul · B. Podziemski
+64,2024-03-11,,,Box Score,@,San Antonio Spurs,W,,112,102,34,30,D. Green · J. Kuminga · C. Paul · K. Thompson · A. Wiggins
+65,2024-03-13,,,Box Score,@,Dallas Mavericks,L,,99,109,34,31,T. Jackson-Davis · J. Kuminga · C. Paul · K. Thompson · A. Wiggins
+66,2024-03-16,,,Box Score,@,Los Angeles Lakers,W,,128,121,35,31,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+67,2024-03-18,,,Box Score,,New York Knicks,L,,112,119,35,32,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+68,2024-03-20,,,Box Score,,Memphis Grizzlies,W,,137,116,36,32,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+69,2024-03-22,,,Box Score,,Indiana Pacers,L,,111,123,36,33,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+70,2024-03-24,,,Box Score,@,Minnesota Timberwolves,L,,110,114,36,34,S. Curry · D. Green · J. Kuminga · B. Podziemski · A. Wiggins
+71,2024-03-26,,,Box Score,@,Miami Heat,W,,113,92,37,34,S. Curry · D. Green · J. Kuminga · K. Thompson · A. Wiggins
+72,2024-03-27,,,Box Score,@,Orlando Magic,W,,101,93,38,34,S. Curry · D. Green · T. Jackson-Davis · K. Thompson · A. Wiggins
+73,2024-03-29,,,Box Score,@,Charlotte Hornets,W,,115,97,39,34,S. Curry · D. Green · T. Jackson-Davis · C. Paul · A. Wiggins
+74,2024-03-31,,,Box Score,@,San Antonio Spurs,W,,117,113,40,34,S. Curry · D. Green · T. Jackson-Davis · K. Thompson · A. Wiggins
+75,2024-04-02,,,Box Score,,Dallas Mavericks,W,,104,100,41,34,S. Curry · D. Green · T. Jackson-Davis · K. Thompson · A. Wiggins
+76,2024-04-04,,,Box Score,@,Houston Rockets,W,,133,110,42,34,S. Curry · D. Green · T. Jackson-Davis · K. Thompson · A. Wiggins
+77,2024-04-05,,,Box Score,@,Dallas Mavericks,L,,106,108,42,35,S. Curry · D. Green · T. Jackson-Davis · M. Moody · K. Thompson
+78,2024-04-07,,,Box Score,,Utah Jazz,W,,118,110,43,35,D. Green · T. Jackson-Davis · C. Paul · B. Podziemski · K. Thompson
+79,2024-04-09,,,Box Score,@,Los Angeles Lakers,W,,134,120,44,35,S. Curry · D. Green · T. Jackson-Davis · K. Thompson · A. Wiggins
+80,2024-04-11,,,Box Score,@,Portland Trail Blazers,W,,100,92,45,35,S. Curry · T. Jackson-Davis · J. Kuminga · C. Paul · A. Wiggins
+81,2024-04-12,,,Box Score,,New Orleans Pelicans,L,,109,114,45,36,S. Curry · D. Green · T. Jackson-Davis · K. Thompson · A. Wiggins
+82,2024-04-14,,,Box Score,,Utah Jazz,W,,123,116,46,36,T. Jackson-Davis · J. Kuminga · C. Paul · K. Thompson · A. Wiggins

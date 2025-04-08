@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-24,,,Box Score,,Los Angeles Lakers,W,,119,107,1,0,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+2,2023-10-27,,,Box Score,@,Memphis Grizzlies,W,,108,104,2,0,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+3,2023-10-29,,,Box Score,@,Oklahoma City Thunder,W,,128,95,3,0,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+4,2023-10-30,,,Box Score,,Utah Jazz,W,,110,102,4,0,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+5,2023-11-01,,,Box Score,@,Minnesota Timberwolves,L,,89,110,4,1,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+6,2023-11-03,,,Box Score,,Dallas Mavericks,W,,125,114,5,1,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+7,2023-11-04,,,Box Score,,Chicago Bulls,W,,123,101,6,1,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+8,2023-11-06,,,Box Score,,New Orleans Pelicans,W,,134,116,7,1,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+9,2023-11-08,,,Box Score,,Golden State Warriors,W,,108,105,8,1,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+10,2023-11-12,,,Box Score,@,Houston Rockets,L,,104,107,8,2,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+11,2023-11-14,,,Box Score,,Los Angeles Clippers,W,,111,108,9,2,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+12,2023-11-17,,,Box Score,@,New Orleans Pelicans,L,,110,115,9,3,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+13,2023-11-19,,,Box Score,@,Cleveland Cavaliers,L,,109,121,9,4,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+14,2023-11-20,,,Box Score,@,Detroit Pistons,W,,107,103,10,4,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+15,2023-11-22,,,Box Score,@,Orlando Magic,L,,119,124,10,5,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+16,2023-11-24,,,Box Score,@,Houston Rockets,L,,86,105,10,6,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+17,2023-11-26,,,Box Score,,San Antonio Spurs,W,,132,120,11,6,K. Caldwell-Pope · J. Holiday · R. Jackson · N. Jokić · M. Porter
+18,2023-11-27,,,Box Score,@,Los Angeles Clippers,W,,113,104,12,6,K. Caldwell-Pope · J. Holiday · R. Jackson · D. Jordan · M. Porter
+19,2023-11-29,,,Box Score,,Houston Rockets,W,,134,124,13,6,K. Caldwell-Pope · J. Holiday · N. Jokić · J. Murray · M. Porter
+20,2023-12-01,,,Box Score,@,Phoenix Suns,W,,119,111,14,6,K. Caldwell-Pope · J. Holiday · R. Jackson · N. Jokić · M. Porter
+21,2023-12-02,,,Box Score,@,Sacramento Kings,L,,117,123,14,7,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+22,2023-12-06,,,Box Score,@,Los Angeles Clippers,L,,102,111,14,8,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+23,2023-12-08,,,Box Score,,Houston Rockets,L,,106,114,14,9,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+24,2023-12-11,,,Box Score,@,Atlanta Hawks,W,,129,122,15,9,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+25,2023-12-12,,,Box Score,@,Chicago Bulls,W,,114,106,16,9,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+26,2023-12-14,,,Box Score,,Brooklyn Nets,W,,124,101,17,9,A. Gordon · J. Holiday · N. Jokić · J. Murray · M. Porter
+27,2023-12-16,,,Box Score,,Oklahoma City Thunder,L,,117,118,17,10,A. Gordon · J. Holiday · N. Jokić · J. Murray · M. Porter
+28,2023-12-18,,,Box Score,,Dallas Mavericks,W,,130,104,18,10,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+29,2023-12-20,,,Box Score,@,Toronto Raptors,W,,113,104,19,10,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+30,2023-12-22,,,Box Score,@,Brooklyn Nets,W,,122,117,20,10,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+31,2023-12-23,,,Box Score,@,Charlotte Hornets,W,,102,95,21,10,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+32,2023-12-25,,,Box Score,,Golden State Warriors,W,,120,114,22,10,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+33,2023-12-28,,,Box Score,,Memphis Grizzlies,W,,142,105,23,10,K. Caldwell-Pope · N. Jokić · J. Murray · M. Porter · P. Watson
+34,2023-12-29,,,Box Score,,Oklahoma City Thunder,L,,93,119,23,11,K. Caldwell-Pope · N. Jokić · J. Murray · M. Porter · P. Watson
+35,2024-01-01,,,Box Score,,Charlotte Hornets,W,,111,93,24,11,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+36,2024-01-04,,,Box Score,@,Golden State Warriors,W,,130,127,25,11,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+37,2024-01-05,,,Box Score,,Orlando Magic,L,,120,122,25,12,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+38,2024-01-07,,,Box Score,,Detroit Pistons,W,,131,114,26,12,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+39,2024-01-10,,,Box Score,@,Utah Jazz,L,,111,124,26,13,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+40,2024-01-12,,,Box Score,,New Orleans Pelicans,W,,125,113,27,13,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+41,2024-01-14,,,Box Score,,Indiana Pacers,W,,117,109,28,13,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+42,2024-01-16,,,Box Score,@,Philadelphia 76ers,L,,121,126,28,14,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+43,2024-01-19,,,Box Score,@,Boston Celtics,W,,102,100,29,14,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+44,2024-01-21,,,Box Score,@,Washington Wizards,W,,113,104,30,14,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+45,2024-01-23,,,Box Score,@,Indiana Pacers,W,,114,109,31,14,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+46,2024-01-25,,,Box Score,@,New York Knicks,L,,84,122,31,15,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+47,2024-01-27,,,Box Score,,Philadelphia 76ers,W,,111,105,32,15,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+48,2024-01-29,,,Box Score,,Milwaukee Bucks,W,,113,107,33,15,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+49,2024-01-31,,,Box Score,@,Oklahoma City Thunder,L,,100,105,33,16,K. Caldwell-Pope · A. Gordon · J. Murray · M. Porter · P. Watson
+50,2024-02-02,,,Box Score,,Portland Trail Blazers,W,,120,108,34,16,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+51,2024-02-04,,,Box Score,,Portland Trail Blazers,W,,112,103,35,16,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+52,2024-02-08,,,Box Score,@,Los Angeles Lakers,W,,114,106,36,16,A. Gordon · J. Holiday · N. Jokić · J. Murray · M. Porter
+53,2024-02-09,,,Box Score,@,Sacramento Kings,L,,106,135,36,17,A. Gordon · J. Holiday · N. Jokić · J. Murray · P. Watson
+54,2024-02-12,,,Box Score,@,Milwaukee Bucks,L,,95,112,36,18,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+55,2024-02-14,,,Box Score,,Sacramento Kings,L,,98,102,36,19,A. Gordon · J. Holiday · R. Jackson · N. Jokić · M. Porter
+56,2024-02-22,,,Box Score,,Washington Wizards,W,,130,110,37,19,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+57,2024-02-23,,,Box Score,@,Portland Trail Blazers,W,,127,112,38,19,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+58,2024-02-25,,,Box Score,@,Golden State Warriors,W,,119,103,39,19,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+59,2024-02-28,,,Box Score,,Sacramento Kings,W,,117,96,40,19,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+60,2024-02-29,,,Box Score,,Miami Heat,W,,103,97,41,19,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+61,2024-03-02,,,Box Score,@,Los Angeles Lakers,W,,124,114,42,19,C. Braun · A. Gordon · N. Jokić · J. Murray · M. Porter
+62,2024-03-05,,,Box Score,,Phoenix Suns,L,OT,107,117,42,20,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+63,2024-03-07,,,Box Score,,Boston Celtics,W,,115,109,43,20,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+64,2024-03-09,,,Box Score,,Utah Jazz,W,,142,121,44,20,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+65,2024-03-11,,,Box Score,,Toronto Raptors,W,,125,119,45,20,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+66,2024-03-13,,,Box Score,@,Miami Heat,W,,100,88,46,20,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+67,2024-03-15,,,Box Score,@,San Antonio Spurs,W,,117,106,47,20,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+68,2024-03-17,,,Box Score,@,Dallas Mavericks,L,,105,107,47,21,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+69,2024-03-19,,,Box Score,@,Minnesota Timberwolves,W,,115,112,48,21,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+70,2024-03-21,,,Box Score,,New York Knicks,W,,113,100,49,21,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+71,2024-03-23,,,Box Score,@,Portland Trail Blazers,W,,114,111,50,21,K. Caldwell-Pope · A. Gordon · R. Jackson · D. Jordan · M. Porter
+72,2024-03-25,,,Box Score,,Memphis Grizzlies,W,,128,103,51,21,C. Braun · K. Caldwell-Pope · R. Jackson · N. Jokić · M. Porter
+73,2024-03-27,,,Box Score,,Phoenix Suns,L,,97,104,51,22,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+74,2024-03-29,,,Box Score,,Minnesota Timberwolves,L,,98,111,51,23,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+75,2024-03-31,,,Box Score,,Cleveland Cavaliers,W,,130,101,52,23,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+76,2024-04-02,,,Box Score,,San Antonio Spurs,W,,110,105,53,23,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+77,2024-04-04,,,Box Score,@,Los Angeles Clippers,L,,100,102,53,24,K. Caldwell-Pope · A. Gordon · R. Jackson · N. Jokić · M. Porter
+78,2024-04-06,,,Box Score,,Atlanta Hawks,W,,142,110,54,24,C. Braun · K. Caldwell-Pope · N. Jokić · J. Murray · M. Porter
+79,2024-04-09,,,Box Score,@,Utah Jazz,W,,111,95,55,24,C. Braun · K. Caldwell-Pope · N. Jokić · J. Murray · M. Porter
+80,2024-04-10,,,Box Score,,Minnesota Timberwolves,W,,116,107,56,24,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+81,2024-04-12,,,Box Score,@,San Antonio Spurs,L,,120,121,56,25,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter
+82,2024-04-14,,,Box Score,@,Memphis Grizzlies,W,,126,111,57,25,K. Caldwell-Pope · A. Gordon · N. Jokić · J. Murray · M. Porter

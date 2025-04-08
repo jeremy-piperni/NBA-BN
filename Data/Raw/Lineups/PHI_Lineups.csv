@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-26,,,Box Score,@,Milwaukee Bucks,L,,117,118,0,1,J. Embiid · T. Harris · T. Maxey · D. Melton · P. Tucker
+2,2023-10-28,,,Box Score,@,Toronto Raptors,W,,114,107,1,1,J. Embiid · T. Harris · T. Maxey · D. Melton · P. Tucker
+3,2023-10-29,,,Box Score,,Portland Trail Blazers,W,,126,98,2,1,J. Embiid · T. Harris · T. Maxey · D. Melton · P. Tucker
+4,2023-11-02,,,Box Score,,Toronto Raptors,W,,114,99,3,1,J. Embiid · T. Harris · T. Maxey · D. Melton · K. Oubre
+5,2023-11-04,,,Box Score,,Phoenix Suns,W,,112,100,4,1,J. Embiid · T. Harris · T. Maxey · D. Melton · K. Oubre
+6,2023-11-06,,,Box Score,,Washington Wizards,W,,146,128,5,1,J. Embiid · T. Harris · T. Maxey · D. Melton · K. Oubre
+7,2023-11-08,,,Box Score,,Boston Celtics,W,,106,103,6,1,J. Embiid · T. Harris · T. Maxey · D. Melton · K. Oubre
+8,2023-11-10,,,Box Score,@,Detroit Pistons,W,,114,106,7,1,J. Embiid · T. Harris · T. Maxey · D. Melton · K. Oubre
+9,2023-11-12,,,Box Score,,Indiana Pacers,W,,137,126,8,1,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+10,2023-11-14,,,Box Score,,Indiana Pacers,L,,126,132,8,2,R. Covington · J. Embiid · T. Harris · T. Maxey · D. Melton
+11,2023-11-15,,,Box Score,,Boston Celtics,L,,107,117,8,3,R. Covington · J. Embiid · T. Harris · T. Maxey · D. Melton
+12,2023-11-17,,,Box Score,@,Atlanta Hawks,W,,126,116,9,3,R. Covington · J. Embiid · T. Harris · T. Maxey · D. Melton
+13,2023-11-19,,,Box Score,@,Brooklyn Nets,W,,121,99,10,3,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+14,2023-11-21,,,Box Score,,Cleveland Cavaliers,L,OT,119,122,10,4,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+15,2023-11-22,,,Box Score,@,Minnesota Timberwolves,L,,99,112,10,5,N. Batum · T. Harris · T. Maxey · D. Melton · M. Morris
+16,2023-11-25,,,Box Score,@,Oklahoma City Thunder,W,,127,123,11,5,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+17,2023-11-27,,,Box Score,,Los Angeles Lakers,W,,138,94,12,5,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+18,2023-11-29,,,Box Score,@,New Orleans Pelicans,L,,114,124,12,6,N. Batum · T. Harris · T. Maxey · D. Melton · M. Morris
+19,2023-12-01,,,Box Score,@,Boston Celtics,L,,119,125,12,7,P. Beverley · T. Harris · D. Melton · M. Morris · P. Reed
+20,2023-12-06,,,Box Score,@,Washington Wizards,W,,131,126,13,7,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+21,2023-12-08,,,Box Score,,Atlanta Hawks,W,,125,114,14,7,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+22,2023-12-11,,,Box Score,,Washington Wizards,W,,146,101,15,7,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+23,2023-12-13,,,Box Score,@,Detroit Pistons,W,,129,111,16,7,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+24,2023-12-15,,,Box Score,,Detroit Pistons,W,,124,92,17,7,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+25,2023-12-16,,,Box Score,@,Charlotte Hornets,W,,135,82,18,7,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+26,2023-12-18,,,Box Score,,Chicago Bulls,L,,104,108,18,8,N. Batum · J. Embiid · T. Harris · T. Maxey · D. Melton
+27,2023-12-20,,,Box Score,,Minnesota Timberwolves,W,,127,113,19,8,J. Embiid · T. Harris · T. Maxey · D. Melton · K. Oubre
+28,2023-12-22,,,Box Score,,Toronto Raptors,W,,121,111,20,8,J. Embiid · T. Harris · T. Maxey · M. Morris · K. Oubre
+29,2023-12-25,,,Box Score,@,Miami Heat,L,,113,119,20,9,T. Harris · T. Maxey · D. Melton · K. Oubre · P. Reed
+30,2023-12-27,,,Box Score,@,Orlando Magic,W,,112,92,21,9,T. Harris · T. Maxey · D. Melton · K. Oubre · P. Reed
+31,2023-12-29,,,Box Score,@,Houston Rockets,W,,131,127,22,9,T. Harris · T. Maxey · D. Melton · K. Oubre · P. Reed
+32,2023-12-30,,,Box Score,@,Chicago Bulls,L,,92,105,22,10,T. Harris · T. Maxey · D. Melton · K. Oubre · P. Reed
+33,2024-01-02,,,Box Score,,Chicago Bulls,W,,110,97,23,10,N. Batum · J. Embiid · T. Harris · T. Maxey · K. Oubre
+34,2024-01-05,,,Box Score,,New York Knicks,L,,92,128,23,11,N. Batum · J. Embiid · T. Harris · T. Maxey · K. Oubre
+35,2024-01-06,,,Box Score,,Utah Jazz,L,,109,120,23,12,N. Batum · T. Maxey · M. Morris · K. Oubre · P. Reed
+36,2024-01-10,,,Box Score,@,Atlanta Hawks,L,OT,132,139,23,13,N. Batum · T. Harris · T. Maxey · D. Melton · P. Reed
+37,2024-01-12,,,Box Score,,Sacramento Kings,W,,112,93,24,13,N. Batum · T. Harris · T. Maxey · D. Melton · P. Reed
+38,2024-01-15,,,Box Score,,Houston Rockets,W,,124,115,25,13,N. Batum · J. Embiid · T. Harris · T. Maxey · K. Oubre
+39,2024-01-16,,,Box Score,,Denver Nuggets,W,,126,121,26,13,N. Batum · J. Embiid · T. Harris · T. Maxey · K. Oubre
+40,2024-01-19,,,Box Score,@,Orlando Magic,W,,124,109,27,13,N. Batum · J. Embiid · T. Harris · T. Maxey · K. Oubre
+41,2024-01-20,,,Box Score,@,Charlotte Hornets,W,,97,89,28,13,N. Batum · J. Embiid · T. Harris · T. Maxey · K. Oubre
+42,2024-01-22,,,Box Score,,San Antonio Spurs,W,,133,123,29,13,N. Batum · J. Embiid · T. Harris · T. Maxey · K. Oubre
+43,2024-01-25,,,Box Score,@,Indiana Pacers,L,,122,134,29,14,N. Batum · P. Beverley · J. Embiid · T. Maxey · K. Oubre
+44,2024-01-27,,,Box Score,@,Denver Nuggets,L,,105,111,29,15,N. Batum · P. Beverley · M. Morris · K. Oubre · P. Reed
+45,2024-01-29,,,Box Score,@,Portland Trail Blazers,L,,104,130,29,16,N. Batum · P. Beverley · T. Harris · K. Oubre · P. Reed
+46,2024-01-30,,,Box Score,@,Golden State Warriors,L,,107,119,29,17,P. Beverley · J. Embiid · T. Harris · D. House · K. Oubre
+47,2024-02-01,,,Box Score,@,Utah Jazz,W,,127,124,30,17,T. Harris · D. House · T. Maxey · K. Oubre · P. Reed
+48,2024-02-03,,,Box Score,,Brooklyn Nets,L,,121,136,30,18,D. House · T. Maxey · M. Morris · K. Oubre · P. Reed
+49,2024-02-05,,,Box Score,,Dallas Mavericks,L,,102,118,30,19,T. Harris · D. House · T. Maxey · K. Oubre · P. Reed
+50,2024-02-07,,,Box Score,,Golden State Warriors,L,,104,127,30,20,T. Harris · T. Maxey · K. Oubre · P. Reed · J. Springer
+51,2024-02-09,,,Box Score,,Atlanta Hawks,L,,121,127,30,21,T. Harris · B. Hield · K. Oubre · C. Payne · P. Reed
+52,2024-02-10,,,Box Score,@,Washington Wizards,W,,119,113,31,21,T. Harris · B. Hield · T. Maxey · K. Oubre · P. Reed
+53,2024-02-12,,,Box Score,@,Cleveland Cavaliers,W,,123,121,32,21,B. Hield · K. Martin · T. Maxey · K. Oubre · P. Reed
+54,2024-02-14,,,Box Score,,Miami Heat,L,,104,109,32,22,B. Hield · K. Martin · T. Maxey · K. Oubre · P. Reed
+55,2024-02-22,,,Box Score,,New York Knicks,L,,96,110,32,23,N. Batum · T. Harris · B. Hield · T. Maxey · P. Reed
+56,2024-02-23,,,Box Score,,Cleveland Cavaliers,W,,104,97,33,23,T. Harris · B. Hield · T. Maxey · K. Oubre · P. Reed
+57,2024-02-25,,,Box Score,,Milwaukee Bucks,L,,98,119,33,24,N. Batum · T. Harris · B. Hield · T. Maxey · P. Reed
+58,2024-02-27,,,Box Score,@,Boston Celtics,L,,99,117,33,25,T. Harris · B. Hield · T. Maxey · K. Oubre · P. Reed
+59,2024-03-01,,,Box Score,,Charlotte Hornets,W,,121,114,34,25,M. Bamba · T. Harris · B. Hield · K. Lowry · T. Maxey
+60,2024-03-03,,,Box Score,@,Dallas Mavericks,W,,120,116,35,25,M. Bamba · T. Harris · B. Hield · K. Lowry · T. Maxey
+61,2024-03-05,,,Box Score,@,Brooklyn Nets,L,,107,112,35,26,M. Bamba · T. Harris · B. Hield · K. Lowry · C. Payne
+62,2024-03-06,,,Box Score,,Memphis Grizzlies,L,,109,115,35,27,N. Batum · T. Harris · B. Hield · C. Payne · P. Reed
+63,2024-03-08,,,Box Score,,New Orleans Pelicans,L,,95,103,35,28,M. Bamba · T. Harris · B. Hield · K. Lowry · K. Oubre
+64,2024-03-10,,,Box Score,@,New York Knicks,W,,79,73,36,28,M. Bamba · T. Harris · K. Lowry · K. Oubre · C. Payne
+65,2024-03-12,,,Box Score,@,New York Knicks,L,,79,106,36,29,M. Bamba · T. Harris · K. Lowry · T. Maxey · K. Oubre
+66,2024-03-14,,,Box Score,@,Milwaukee Bucks,L,,105,114,36,30,M. Bamba · T. Harris · K. Lowry · T. Maxey · K. Oubre
+67,2024-03-16,,,Box Score,,Charlotte Hornets,W,,109,98,37,30,M. Bamba · N. Batum · K. Lowry · T. Maxey · K. Oubre
+68,2024-03-18,,,Box Score,,Miami Heat,W,,98,91,38,30,M. Bamba · N. Batum · K. Lowry · T. Maxey · K. Oubre
+69,2024-03-20,,,Box Score,@,Phoenix Suns,L,,102,115,38,31,M. Bamba · N. Batum · K. Lowry · T. Maxey · K. Oubre
+70,2024-03-22,,,Box Score,@,Los Angeles Lakers,L,,94,101,38,32,M. Bamba · T. Harris · K. Lowry · T. Maxey · K. Oubre
+71,2024-03-24,,,Box Score,@,Los Angeles Clippers,W,,121,107,39,32,M. Bamba · T. Harris · B. Hield · T. Maxey · K. Oubre
+72,2024-03-25,,,Box Score,@,Sacramento Kings,L,,96,108,39,33,M. Bamba · N. Batum · T. Harris · K. Lowry · T. Maxey
+73,2024-03-27,,,Box Score,,Los Angeles Clippers,L,,107,108,39,34,M. Bamba · T. Harris · K. Lowry · T. Maxey · K. Oubre
+74,2024-03-29,,,Box Score,@,Cleveland Cavaliers,L,,114,117,39,35,M. Bamba · T. Harris · K. Lowry · T. Maxey · K. Oubre
+75,2024-03-31,,,Box Score,@,Toronto Raptors,W,,135,120,40,35,M. Bamba · T. Harris · K. Lowry · K. Oubre · C. Payne
+76,2024-04-02,,,Box Score,,Oklahoma City Thunder,W,,109,105,41,35,J. Embiid · T. Harris · K. Lowry · K. Oubre · C. Payne
+77,2024-04-04,,,Box Score,@,Miami Heat,W,,109,105,42,35,N. Batum · J. Embiid · K. Lowry · T. Maxey · K. Oubre
+78,2024-04-06,,,Box Score,@,Memphis Grizzlies,W,,116,96,43,35,N. Batum · J. Embiid · K. Lowry · T. Maxey · K. Oubre
+79,2024-04-07,,,Box Score,@,San Antonio Spurs,W,2OT,133,126,44,35,N. Batum · T. Maxey · K. Oubre · C. Payne · P. Reed
+80,2024-04-09,,,Box Score,,Detroit Pistons,W,,120,102,45,35,N. Batum · J. Embiid · T. Harris · K. Oubre · C. Payne
+81,2024-04-12,,,Box Score,,Orlando Magic,W,,125,113,46,35,J. Embiid · T. Harris · K. Lowry · T. Maxey · K. Oubre
+82,2024-04-14,,,Box Score,,Brooklyn Nets,W,,107,86,47,35,M. Bamba · T. Harris · K. Lowry · T. Maxey · K. Oubre

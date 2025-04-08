@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-24,,,Box Score,@,Golden State Warriors,W,,108,104,1,0,G. Allen · D. Booker · K. Durant · J. Nurkić · J. Okogie
+2,2023-10-26,,,Box Score,@,Los Angeles Lakers,L,,95,100,1,1,G. Allen · K. Durant · E. Gordon · J. Nurkić · J. Okogie
+3,2023-10-28,,,Box Score,,Utah Jazz,W,,126,104,2,1,G. Allen · K. Durant · E. Gordon · J. Nurkić · J. Okogie
+4,2023-10-31,,,Box Score,,San Antonio Spurs,L,,114,115,2,2,G. Allen · K. Durant · E. Gordon · J. Nurkić · J. Okogie
+5,2023-11-02,,,Box Score,,San Antonio Spurs,L,,121,132,2,3,G. Allen · D. Booker · K. Durant · J. Nurkić · J. Okogie
+6,2023-11-04,,,Box Score,@,Philadelphia 76ers,L,,100,112,2,4,G. Allen · K. Bates-Diop · K. Durant · E. Gordon · J. Nurkić
+7,2023-11-05,,,Box Score,@,Detroit Pistons,W,,120,106,3,4,G. Allen · K. Bates-Diop · K. Durant · E. Gordon · J. Nurkić
+8,2023-11-08,,,Box Score,@,Chicago Bulls,W,OT,116,115,4,4,G. Allen · K. Bates-Diop · B. Beal · K. Durant · J. Nurkić
+9,2023-11-10,,,Box Score,,Los Angeles Lakers,L,,119,122,4,5,G. Allen · K. Bates-Diop · B. Beal · K. Durant · J. Nurkić
+10,2023-11-12,,,Box Score,,Oklahoma City Thunder,L,,99,111,4,6,G. Allen · B. Beal · K. Durant · J. Nurkić · J. Okogie
+11,2023-11-15,,,Box Score,,Minnesota Timberwolves,W,,133,115,5,6,G. Allen · D. Booker · K. Durant · E. Gordon · J. Nurkić
+12,2023-11-17,,,Box Score,@,Utah Jazz,W,,131,128,6,6,G. Allen · D. Booker · K. Durant · E. Gordon · J. Nurkić
+13,2023-11-19,,,Box Score,@,Utah Jazz,W,2OT,140,137,7,6,G. Allen · D. Booker · K. Durant · E. Gordon · J. Nurkić
+14,2023-11-21,,,Box Score,,Portland Trail Blazers,W,,120,107,8,6,G. Allen · D. Booker · K. Durant · E. Gordon · J. Nurkić
+15,2023-11-22,,,Box Score,,Golden State Warriors,W,,123,115,9,6,G. Allen · D. Booker · K. Durant · E. Gordon · J. Nurkić
+16,2023-11-24,,,Box Score,@,Memphis Grizzlies,W,,110,89,10,6,G. Allen · K. Bates-Diop · D. Booker · E. Gordon · J. Nurkić
+17,2023-11-26,,,Box Score,@,New York Knicks,W,,116,113,11,6,K. Bates-Diop · D. Booker · E. Gordon · J. Nurkić · J. Okogie
+18,2023-11-29,,,Box Score,@,Toronto Raptors,L,,105,112,11,7,D. Booker · K. Durant · E. Gordon · J. Nurkić · J. Okogie
+19,2023-12-01,,,Box Score,,Denver Nuggets,L,,111,119,11,8,G. Allen · K. Bates-Diop · K. Durant · E. Gordon · J. Nurkić
+20,2023-12-02,,,Box Score,,Memphis Grizzlies,W,,116,109,12,8,G. Allen · D. Booker · K. Durant · J. Nurkić · J. Okogie
+21,2023-12-05,,,Box Score,@,Los Angeles Lakers,L,,103,106,12,9,G. Allen · D. Booker · K. Durant · E. Gordon · J. Nurkić
+22,2023-12-08,,,Box Score,,Sacramento Kings,L,,106,114,12,10,K. Bates-Diop · D. Booker · E. Gordon · J. Nurkić · J. Okogie
+23,2023-12-12,,,Box Score,,Golden State Warriors,W,,119,116,13,10,B. Beal · D. Booker · C. Metu · J. Nurkić · J. Okogie
+24,2023-12-13,,,Box Score,,Brooklyn Nets,L,,112,116,13,11,B. Beal · D. Booker · K. Durant · C. Metu · J. Nurkić
+25,2023-12-15,,,Box Score,,New York Knicks,L,,122,139,13,12,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+26,2023-12-17,,,Box Score,,Washington Wizards,W,,112,108,14,12,G. Allen · D. Booker · K. Durant · N. Little · J. Nurkić
+27,2023-12-19,,,Box Score,@,Portland Trail Blazers,L,,104,109,14,13,G. Allen · D. Booker · K. Durant · N. Little · J. Nurkić
+28,2023-12-22,,,Box Score,@,Sacramento Kings,L,,105,120,14,14,G. Allen · D. Booker · K. Durant · D. Eubanks · E. Gordon
+29,2023-12-25,,,Box Score,,Dallas Mavericks,L,,114,128,14,15,G. Allen · D. Booker · K. Durant · D. Eubanks · E. Gordon
+30,2023-12-27,,,Box Score,@,Houston Rockets,W,,129,113,15,15,G. Allen · D. Booker · K. Durant · E. Gordon · J. Nurkić
+31,2023-12-29,,,Box Score,,Charlotte Hornets,W,,133,119,16,15,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+32,2023-12-31,,,Box Score,,Orlando Magic,W,,112,107,17,15,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+33,2024-01-01,,,Box Score,,Portland Trail Blazers,W,,109,88,18,15,G. Allen · B. Beal · D. Booker · C. Metu · J. Nurkić
+34,2024-01-03,,,Box Score,,Los Angeles Clippers,L,,122,131,18,16,G. Allen · B. Beal · D. Booker · C. Metu · J. Nurkić
+35,2024-01-05,,,Box Score,,Miami Heat,W,,113,97,19,16,G. Allen · B. Beal · D. Booker · C. Metu · J. Nurkić
+36,2024-01-07,,,Box Score,,Memphis Grizzlies,L,,115,121,19,17,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+37,2024-01-08,,,Box Score,@,Los Angeles Clippers,L,,111,138,19,18,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+38,2024-01-11,,,Box Score,@,Los Angeles Lakers,W,,127,109,20,18,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+39,2024-01-14,,,Box Score,@,Portland Trail Blazers,W,,127,116,21,18,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+40,2024-01-16,,,Box Score,,Sacramento Kings,W,,119,117,22,18,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+41,2024-01-19,,,Box Score,@,New Orleans Pelicans,W,,123,109,23,18,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+42,2024-01-21,,,Box Score,,Indiana Pacers,W,,117,110,24,18,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+43,2024-01-22,,,Box Score,,Chicago Bulls,W,,115,113,25,18,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+44,2024-01-24,,,Box Score,@,Dallas Mavericks,W,,132,109,26,18,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+45,2024-01-26,,,Box Score,@,Indiana Pacers,L,,131,133,26,19,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+46,2024-01-28,,,Box Score,@,Orlando Magic,L,,98,113,26,20,G. Allen · B. Beal · D. Booker · K. Durant · D. Eubanks
+47,2024-01-29,,,Box Score,@,Miami Heat,W,,118,105,27,20,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+48,2024-01-31,,,Box Score,@,Brooklyn Nets,W,,136,120,28,20,B. Beal · D. Booker · K. Durant · E. Gordon · J. Nurkić
+49,2024-02-02,,,Box Score,@,Atlanta Hawks,L,,120,129,28,21,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+50,2024-02-04,,,Box Score,@,Washington Wizards,W,,140,112,29,21,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+51,2024-02-06,,,Box Score,,Milwaukee Bucks,W,,114,106,30,21,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+52,2024-02-08,,,Box Score,,Utah Jazz,W,,129,115,31,21,G. Allen · B. Beal · K. Durant · E. Gordon · J. Nurkić
+53,2024-02-10,,,Box Score,@,Golden State Warriors,L,,112,113,31,22,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+54,2024-02-13,,,Box Score,,Sacramento Kings,W,,130,125,32,22,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+55,2024-02-14,,,Box Score,,Detroit Pistons,W,,116,100,33,22,G. Allen · D. Booker · K. Durant · E. Gordon · J. Nurkić
+56,2024-02-22,,,Box Score,@,Dallas Mavericks,L,,113,123,33,23,G. Allen · D. Booker · K. Durant · E. Gordon · J. Nurkić
+57,2024-02-23,,,Box Score,@,Houston Rockets,L,,110,114,33,24,G. Allen · D. Booker · K. Durant · D. Eubanks · E. Gordon
+58,2024-02-25,,,Box Score,,Los Angeles Lakers,W,,123,113,34,24,G. Allen · D. Booker · K. Durant · J. Nurkić · R. O'Neale
+59,2024-02-29,,,Box Score,,Houston Rockets,W,,110,105,35,24,G. Allen · D. Booker · K. Durant · J. Nurkić · R. O'Neale
+60,2024-03-02,,,Box Score,,Houston Rockets,L,,109,118,35,25,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+61,2024-03-03,,,Box Score,,Oklahoma City Thunder,L,,110,118,35,26,G. Allen · B. Beal · K. Durant · J. Nurkić · R. O'Neale
+62,2024-03-05,,,Box Score,@,Denver Nuggets,W,OT,117,107,36,26,G. Allen · B. Beal · K. Durant · J. Nurkić · R. O'Neale
+63,2024-03-07,,,Box Score,,Toronto Raptors,W,,120,113,37,26,G. Allen · B. Beal · K. Durant · J. Nurkić · R. O'Neale
+64,2024-03-09,,,Box Score,,Boston Celtics,L,,107,117,37,27,G. Allen · B. Beal · K. Durant · J. Nurkić · R. O'Neale
+65,2024-03-11,,,Box Score,@,Cleveland Cavaliers,W,,117,111,38,27,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+66,2024-03-14,,,Box Score,@,Boston Celtics,L,,112,127,38,28,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+67,2024-03-15,,,Box Score,@,Charlotte Hornets,W,,107,96,39,28,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+68,2024-03-17,,,Box Score,@,Milwaukee Bucks,L,,129,140,39,29,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+69,2024-03-20,,,Box Score,,Philadelphia 76ers,W,,115,102,40,29,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+70,2024-03-21,,,Box Score,,Atlanta Hawks,W,,128,115,41,29,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+71,2024-03-23,,,Box Score,@,San Antonio Spurs,W,,131,106,42,29,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+72,2024-03-25,,,Box Score,@,San Antonio Spurs,L,,102,104,42,30,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+73,2024-03-27,,,Box Score,@,Denver Nuggets,W,,104,97,43,30,G. Allen · B. Beal · D. Booker · K. Durant · D. Eubanks
+74,2024-03-29,,,Box Score,@,Oklahoma City Thunder,L,,103,128,43,31,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+75,2024-04-01,,,Box Score,@,New Orleans Pelicans,W,,124,111,44,31,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+76,2024-04-03,,,Box Score,,Cleveland Cavaliers,W,,122,101,45,31,B. Beal · D. Booker · K. Durant · J. Nurkić · R. O'Neale
+77,2024-04-05,,,Box Score,,Minnesota Timberwolves,W,,97,87,46,31,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+78,2024-04-07,,,Box Score,,New Orleans Pelicans,L,,105,113,46,32,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+79,2024-04-09,,,Box Score,,Los Angeles Clippers,L,,92,105,46,33,G. Allen · B. Beal · D. Booker · K. Durant · D. Eubanks
+80,2024-04-10,,,Box Score,@,Los Angeles Clippers,W,,124,108,47,33,B. Beal · D. Booker · K. Durant · J. Nurkić · R. O'Neale
+81,2024-04-12,,,Box Score,@,Sacramento Kings,W,,108,107,48,33,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić
+82,2024-04-14,,,Box Score,@,Minnesota Timberwolves,W,,125,106,49,33,G. Allen · B. Beal · D. Booker · K. Durant · J. Nurkić

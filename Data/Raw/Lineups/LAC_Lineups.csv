@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-25,,,Box Score,,Portland Trail Blazers,W,,123,111,1,0,R. Covington · P. George · K. Leonard · R. Westbrook · I. Zubac
+2,2023-10-27,,,Box Score,@,Utah Jazz,L,,118,120,1,1,R. Covington · P. George · K. Leonard · R. Westbrook · I. Zubac
+3,2023-10-29,,,Box Score,,San Antonio Spurs,W,,123,83,2,1,R. Covington · P. George · K. Leonard · R. Westbrook · I. Zubac
+4,2023-10-31,,,Box Score,,Orlando Magic,W,,118,102,3,1,P. George · B. Hyland · K. Leonard · R. Westbrook · I. Zubac
+5,2023-11-01,,,Box Score,@,Los Angeles Lakers,L,OT,125,130,3,2,P. George · B. Hyland · K. Leonard · R. Westbrook · I. Zubac
+6,2023-11-06,,,Box Score,@,New York Knicks,L,,97,111,3,3,P. George · J. Harden · K. Leonard · R. Westbrook · I. Zubac
+7,2023-11-08,,,Box Score,@,Brooklyn Nets,L,,93,100,3,4,P. George · J. Harden · K. Leonard · R. Westbrook · I. Zubac
+8,2023-11-10,,,Box Score,@,Dallas Mavericks,L,,126,144,3,5,P. George · J. Harden · K. Leonard · R. Westbrook · I. Zubac
+9,2023-11-12,,,Box Score,,Memphis Grizzlies,L,,101,105,3,6,P. George · J. Harden · K. Leonard · R. Westbrook · I. Zubac
+10,2023-11-14,,,Box Score,@,Denver Nuggets,L,,108,111,3,7,P. George · J. Harden · K. Leonard · R. Westbrook · I. Zubac
+11,2023-11-17,,,Box Score,,Houston Rockets,W,,106,100,4,7,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+12,2023-11-20,,,Box Score,@,San Antonio Spurs,W,,124,99,5,7,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+13,2023-11-22,,,Box Score,@,San Antonio Spurs,W,,109,102,6,7,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+14,2023-11-24,,,Box Score,,New Orleans Pelicans,L,,106,116,6,8,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+15,2023-11-25,,,Box Score,,Dallas Mavericks,W,,107,88,7,8,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+16,2023-11-27,,,Box Score,,Denver Nuggets,L,,104,113,7,9,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+17,2023-11-29,,,Box Score,@,Sacramento Kings,W,,131,117,8,9,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+18,2023-11-30,,,Box Score,@,Golden State Warriors,L,,114,120,8,10,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+19,2023-12-02,,,Box Score,,Golden State Warriors,W,,113,112,9,10,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+20,2023-12-06,,,Box Score,,Denver Nuggets,W,,111,102,10,10,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+21,2023-12-08,,,Box Score,@,Utah Jazz,W,,117,103,11,10,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+22,2023-12-11,,,Box Score,,Portland Trail Blazers,W,,132,127,12,10,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+23,2023-12-12,,,Box Score,,Sacramento Kings,W,,119,99,13,10,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+24,2023-12-14,,,Box Score,,Golden State Warriors,W,,121,113,14,10,A. Coffey · J. Harden · K. Leonard · T. Mann · I. Zubac
+25,2023-12-16,,,Box Score,,New York Knicks,W,,144,122,15,10,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+26,2023-12-18,,,Box Score,@,Indiana Pacers,W,,151,127,16,10,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+27,2023-12-20,,,Box Score,@,Dallas Mavericks,W,,120,111,17,10,A. Coffey · J. Harden · K. Leonard · T. Mann · I. Zubac
+28,2023-12-21,,,Box Score,@,Oklahoma City Thunder,L,,115,134,17,11,A. Coffey · P. George · J. Harden · T. Mann · I. Zubac
+29,2023-12-23,,,Box Score,,Boston Celtics,L,,108,145,17,12,A. Coffey · P. George · J. Harden · T. Mann · I. Zubac
+30,2023-12-26,,,Box Score,,Charlotte Hornets,W,,113,104,18,12,A. Coffey · P. George · J. Harden · T. Mann · I. Zubac
+31,2023-12-29,,,Box Score,,Memphis Grizzlies,W,,117,106,19,12,A. Coffey · P. George · J. Harden · T. Mann · I. Zubac
+32,2024-01-01,,,Box Score,,Miami Heat,W,,121,104,20,12,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+33,2024-01-03,,,Box Score,@,Phoenix Suns,W,,131,122,21,12,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+34,2024-01-05,,,Box Score,@,New Orleans Pelicans,W,,111,95,22,12,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+35,2024-01-07,,,Box Score,@,Los Angeles Lakers,L,,103,106,22,13,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+36,2024-01-08,,,Box Score,,Phoenix Suns,W,,138,111,23,13,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+37,2024-01-10,,,Box Score,,Toronto Raptors,W,,126,120,24,13,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+38,2024-01-12,,,Box Score,@,Memphis Grizzlies,W,,128,119,25,13,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+39,2024-01-14,,,Box Score,@,Minnesota Timberwolves,L,,105,109,25,14,P. George · J. Harden · K. Leonard · T. Mann · D. Theis
+40,2024-01-16,,,Box Score,,Oklahoma City Thunder,W,,128,117,26,14,P. George · J. Harden · K. Leonard · T. Mann · M. Plumlee
+41,2024-01-21,,,Box Score,,Brooklyn Nets,W,,125,114,27,14,P. George · J. Harden · K. Leonard · T. Mann · M. Plumlee
+42,2024-01-23,,,Box Score,,Los Angeles Lakers,W,,127,116,28,14,P. George · J. Harden · K. Leonard · T. Mann · M. Plumlee
+43,2024-01-26,,,Box Score,@,Toronto Raptors,W,,127,107,29,14,P. George · J. Harden · K. Leonard · T. Mann · M. Plumlee
+44,2024-01-27,,,Box Score,@,Boston Celtics,W,,115,96,30,14,P. George · J. Harden · K. Leonard · T. Mann · M. Plumlee
+45,2024-01-29,,,Box Score,@,Cleveland Cavaliers,L,,108,118,30,15,P. George · J. Harden · K. Leonard · T. Mann · M. Plumlee
+46,2024-01-31,,,Box Score,@,Washington Wizards,W,,125,109,31,15,A. Coffey · J. Harden · K. Leonard · T. Mann · M. Plumlee
+47,2024-02-02,,,Box Score,@,Detroit Pistons,W,,136,125,32,15,P. George · J. Harden · K. Leonard · T. Mann · M. Plumlee
+48,2024-02-04,,,Box Score,@,Miami Heat,W,,103,95,33,15,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+49,2024-02-05,,,Box Score,@,Atlanta Hawks,W,,149,144,34,15,P. George · J. Harden · K. Leonard · T. Mann · M. Plumlee
+50,2024-02-07,,,Box Score,,New Orleans Pelicans,L,,106,117,34,16,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+51,2024-02-10,,,Box Score,,Detroit Pistons,W,,112,106,35,16,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+52,2024-02-12,,,Box Score,,Minnesota Timberwolves,L,,100,121,35,17,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+53,2024-02-14,,,Box Score,@,Golden State Warriors,W,,130,125,36,17,A. Coffey · P. George · J. Harden · T. Mann · I. Zubac
+54,2024-02-22,,,Box Score,@,Oklahoma City Thunder,L,,107,129,36,18,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+55,2024-02-23,,,Box Score,@,Memphis Grizzlies,W,,101,95,37,18,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+56,2024-02-25,,,Box Score,,Sacramento Kings,L,,107,123,37,19,J. Harden · K. Leonard · T. Mann · N. Powell · I. Zubac
+57,2024-02-28,,,Box Score,,Los Angeles Lakers,L,,112,116,37,20,A. Coffey · J. Harden · K. Leonard · T. Mann · D. Theis
+58,2024-03-01,,,Box Score,,Washington Wizards,W,,140,115,38,20,P. George · J. Harden · K. Leonard · T. Mann · D. Theis
+59,2024-03-03,,,Box Score,@,Minnesota Timberwolves,W,,89,88,39,20,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+60,2024-03-04,,,Box Score,@,Milwaukee Bucks,L,,106,113,39,21,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+61,2024-03-06,,,Box Score,@,Houston Rockets,W,,122,116,40,21,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+62,2024-03-09,,,Box Score,,Chicago Bulls,W,,112,102,41,21,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+63,2024-03-10,,,Box Score,,Milwaukee Bucks,L,,117,124,41,22,A. Coffey · J. Harden · T. Mann · P. Tucker · I. Zubac
+64,2024-03-12,,,Box Score,,Minnesota Timberwolves,L,,100,118,41,23,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+65,2024-03-14,,,Box Score,@,Chicago Bulls,W,,126,111,42,23,P. George · B. Hyland · K. Leonard · T. Mann · I. Zubac
+66,2024-03-15,,,Box Score,@,New Orleans Pelicans,L,,104,112,42,24,P. George · B. Hyland · K. Leonard · T. Mann · I. Zubac
+67,2024-03-17,,,Box Score,,Atlanta Hawks,L,,93,110,42,25,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+68,2024-03-20,,,Box Score,@,Portland Trail Blazers,W,,116,103,43,25,A. Coffey · P. George · J. Harden · K. Leonard · I. Zubac
+69,2024-03-22,,,Box Score,@,Portland Trail Blazers,W,,125,117,44,25,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+70,2024-03-24,,,Box Score,,Philadelphia 76ers,L,,107,121,44,26,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+71,2024-03-25,,,Box Score,,Indiana Pacers,L,,116,133,44,27,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+72,2024-03-27,,,Box Score,@,Philadelphia 76ers,W,,108,107,45,27,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+73,2024-03-29,,,Box Score,@,Orlando Magic,W,,100,97,46,27,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+74,2024-03-31,,,Box Score,@,Charlotte Hornets,W,,130,118,47,27,P. George · J. Harden · K. Leonard · T. Mann · I. Zubac
+75,2024-04-02,,,Box Score,@,Sacramento Kings,L,,95,109,47,28,P. George · J. Harden · T. Mann · N. Powell · I. Zubac
+76,2024-04-04,,,Box Score,,Denver Nuggets,W,,102,100,48,28,P. George · J. Harden · T. Mann · P. Tucker · I. Zubac
+77,2024-04-05,,,Box Score,,Utah Jazz,W,,131,102,49,28,P. George · J. Harden · T. Mann · P. Tucker · I. Zubac
+78,2024-04-07,,,Box Score,,Cleveland Cavaliers,W,,120,118,50,28,P. George · J. Harden · T. Mann · P. Tucker · I. Zubac
+79,2024-04-09,,,Box Score,@,Phoenix Suns,W,,105,92,51,28,P. George · T. Mann · N. Powell · R. Westbrook · I. Zubac
+80,2024-04-10,,,Box Score,,Phoenix Suns,L,,108,124,51,29,A. Coffey · B. Hyland · T. Mann · M. Plumlee · P. Tucker
+81,2024-04-12,,,Box Score,,Utah Jazz,L,,109,110,51,30,P. George · J. Harden · T. Mann · P. Tucker · I. Zubac
+82,2024-04-14,,,Box Score,,Houston Rockets,L,,105,116,51,31,A. Coffey · T. Mann · X. Moon · M. Plumlee · P. Tucker

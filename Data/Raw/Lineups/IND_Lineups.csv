@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-25,,,Box Score,,Washington Wizards,W,,143,120,1,0,B. Brown · T. Haliburton · B. Mathurin · O. Toppin · M. Turner
+2,2023-10-28,,,Box Score,@,Cleveland Cavaliers,W,,125,113,2,0,B. Brown · T. Haliburton · B. Mathurin · O. Toppin · M. Turner
+3,2023-10-30,,,Box Score,,Chicago Bulls,L,,105,112,2,1,B. Brown · T. Haliburton · B. Mathurin · O. Toppin · M. Turner
+4,2023-11-01,,,Box Score,@,Boston Celtics,L,,104,155,2,2,B. Brown · B. Mathurin · A. Nembhard · O. Toppin · M. Turner
+5,2023-11-03,,,Box Score,,Cleveland Cavaliers,W,,121,116,3,2,B. Brown · T. Haliburton · B. Mathurin · O. Toppin · M. Turner
+6,2023-11-04,,,Box Score,,Charlotte Hornets,L,,124,125,3,3,B. Brown · T. Haliburton · B. Mathurin · O. Toppin · M. Turner
+7,2023-11-06,,,Box Score,,San Antonio Spurs,W,,152,111,4,3,B. Brown · T. Haliburton · B. Mathurin · O. Toppin · M. Turner
+8,2023-11-08,,,Box Score,,Utah Jazz,W,,134,118,5,3,B. Brown · T. Haliburton · B. Mathurin · O. Toppin · M. Turner
+9,2023-11-09,,,Box Score,,Milwaukee Bucks,W,,126,124,6,3,B. Brown · T. Haliburton · B. Mathurin · O. Toppin · M. Turner
+10,2023-11-12,,,Box Score,@,Philadelphia 76ers,L,,126,137,6,4,B. Brown · T. Haliburton · B. Mathurin · O. Toppin · M. Turner
+11,2023-11-14,,,Box Score,@,Philadelphia 76ers,W,,132,126,7,4,B. Brown · T. Haliburton · B. Mathurin · O. Toppin · M. Turner
+12,2023-11-19,,,Box Score,,Orlando Magic,L,,116,128,7,5,B. Brown · T. Haliburton · B. Mathurin · O. Toppin · M. Turner
+13,2023-11-21,,,Box Score,@,Atlanta Hawks,W,,157,152,8,5,B. Brown · T. Haliburton · B. Hield · A. Nesmith · M. Turner
+14,2023-11-22,,,Box Score,,Toronto Raptors,L,,131,132,8,6,B. Brown · T. Haliburton · B. Hield · O. Toppin · M. Turner
+15,2023-11-24,,,Box Score,,Detroit Pistons,W,,136,113,9,6,B. Brown · T. Haliburton · B. Hield · O. Toppin · M. Turner
+16,2023-11-27,,,Box Score,,Portland Trail Blazers,L,,110,114,9,7,B. Brown · T. Haliburton · B. Hield · O. Toppin · M. Turner
+17,2023-11-30,,,Box Score,@,Miami Heat,L,,132,142,9,8,B. Brown · T. Haliburton · B. Hield · O. Toppin · M. Turner
+18,2023-12-02,,,Box Score,@,Miami Heat,W,,144,129,10,8,B. Brown · B. Hield · A. Nembhard · O. Toppin · M. Turner
+19,2023-12-04,,,Box Score,,Boston Celtics,W,,122,112,11,8,B. Brown · T. Haliburton · B. Hield · O. Toppin · M. Turner
+20,2023-12-07,,,Box Score,@,Milwaukee Bucks,W,,128,119,12,8,B. Brown · T. Haliburton · B. Hield · O. Toppin · M. Turner
+21,2023-12-11,,,Box Score,@,Detroit Pistons,W,,131,123,13,8,B. Brown · T. Haliburton · B. Hield · O. Toppin · M. Turner
+22,2023-12-13,,,Box Score,@,Milwaukee Bucks,L,,126,140,13,9,B. Brown · T. Haliburton · B. Hield · O. Toppin · M. Turner
+23,2023-12-15,,,Box Score,@,Washington Wizards,L,,123,137,13,10,B. Brown · T. Haliburton · B. Hield · O. Toppin · M. Turner
+24,2023-12-16,,,Box Score,@,Minnesota Timberwolves,L,,109,127,13,11,B. Brown · B. Hield · T. McConnell · O. Toppin · M. Turner
+25,2023-12-18,,,Box Score,,Los Angeles Clippers,L,,127,151,13,12,B. Brown · T. Haliburton · B. Hield · I. Jackson · O. Toppin
+26,2023-12-20,,,Box Score,,Charlotte Hornets,W,,144,113,14,12,B. Brown · T. Haliburton · B. Hield · O. Toppin · M. Turner
+27,2023-12-21,,,Box Score,@,Memphis Grizzlies,L,,103,116,14,13,B. Brown · T. Haliburton · B. Hield · O. Toppin · M. Turner
+28,2023-12-23,,,Box Score,,Orlando Magic,L,,110,117,14,14,T. Haliburton · B. Hield · A. Nembhard · O. Toppin · M. Turner
+29,2023-12-26,,,Box Score,@,Houston Rockets,W,,123,117,15,14,T. Haliburton · A. Nembhard · A. Nesmith · J. Smith · M. Turner
+30,2023-12-28,,,Box Score,@,Chicago Bulls,W,,120,104,16,14,T. Haliburton · A. Nembhard · A. Nesmith · J. Smith · M. Turner
+31,2023-12-30,,,Box Score,,New York Knicks,W,,140,126,17,14,T. Haliburton · A. Nembhard · A. Nesmith · J. Smith · M. Turner
+32,2024-01-01,,,Box Score,@,Milwaukee Bucks,W,,122,113,18,14,T. Haliburton · A. Nembhard · A. Nesmith · J. Smith · M. Turner
+33,2024-01-03,,,Box Score,,Milwaukee Bucks,W,,142,130,19,14,B. Brown · T. Haliburton · A. Nesmith · J. Smith · M. Turner
+34,2024-01-05,,,Box Score,,Atlanta Hawks,W,,150,116,20,14,B. Brown · T. Haliburton · A. Nesmith · J. Smith · M. Turner
+35,2024-01-06,,,Box Score,,Boston Celtics,L,,101,118,20,15,T. Haliburton · B. Hield · A. Nesmith · J. Smith · M. Turner
+36,2024-01-08,,,Box Score,,Boston Celtics,W,,133,131,21,15,B. Brown · T. Haliburton · A. Nesmith · J. Smith · M. Turner
+37,2024-01-10,,,Box Score,,Washington Wizards,W,,112,104,22,15,B. Brown · A. Nembhard · A. Nesmith · O. Toppin · M. Turner
+38,2024-01-12,,,Box Score,@,Atlanta Hawks,W,,126,108,23,15,B. Brown · A. Nembhard · A. Nesmith · J. Smith · M. Turner
+39,2024-01-14,,,Box Score,@,Denver Nuggets,L,,109,117,23,16,B. Brown · B. Hield · A. Nembhard · J. Smith · M. Turner
+40,2024-01-15,,,Box Score,@,Utah Jazz,L,,105,132,23,17,B. Hield · B. Mathurin · A. Nembhard · J. Smith · M. Turner
+41,2024-01-18,,,Box Score,@,Sacramento Kings,W,,126,121,24,17,B. Hield · B. Mathurin · T. McConnell · J. Smith · M. Turner
+42,2024-01-19,,,Box Score,@,Portland Trail Blazers,L,,115,118,24,18,T. Haliburton · B. Hield · A. Nesmith · P. Siakam · M. Turner
+43,2024-01-21,,,Box Score,@,Phoenix Suns,L,,110,117,24,19,B. Hield · T. McConnell · A. Nesmith · P. Siakam · M. Turner
+44,2024-01-23,,,Box Score,,Denver Nuggets,L,,109,114,24,20,B. Hield · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+45,2024-01-25,,,Box Score,,Philadelphia 76ers,W,,134,122,25,20,B. Hield · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+46,2024-01-26,,,Box Score,,Phoenix Suns,W,,133,131,26,20,B. Hield · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+47,2024-01-28,,,Box Score,,Memphis Grizzlies,W,,116,110,27,20,B. Hield · A. Nembhard · A. Nesmith · P. Siakam · J. Smith
+48,2024-01-30,,,Box Score,@,Boston Celtics,L,,124,129,27,21,T. Haliburton · B. Hield · A. Nesmith · P. Siakam · M. Turner
+49,2024-02-01,,,Box Score,@,New York Knicks,L,,105,109,27,22,T. Haliburton · B. Hield · A. Nesmith · P. Siakam · M. Turner
+50,2024-02-02,,,Box Score,,Sacramento Kings,L,,122,133,27,23,I. Jackson · B. Mathurin · T. McConnell · A. Nesmith · P. Siakam
+51,2024-02-04,,,Box Score,@,Charlotte Hornets,W,,115,99,28,23,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+52,2024-02-06,,,Box Score,,Houston Rockets,W,,132,129,29,23,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+53,2024-02-08,,,Box Score,,Golden State Warriors,L,,109,131,29,24,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+54,2024-02-10,,,Box Score,@,New York Knicks,W,,125,111,30,24,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+55,2024-02-12,,,Box Score,@,Charlotte Hornets,L,,102,111,30,25,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+56,2024-02-14,,,Box Score,@,Toronto Raptors,W,,127,125,31,25,T. Haliburton · I. Jackson · A. Nembhard · A. Nesmith · P. Siakam
+57,2024-02-22,,,Box Score,,Detroit Pistons,W,,129,115,32,25,T. Haliburton · B. Mathurin · A. Nembhard · P. Siakam · M. Turner
+58,2024-02-25,,,Box Score,,Dallas Mavericks,W,,133,111,33,25,T. Haliburton · B. Mathurin · A. Nembhard · P. Siakam · M. Turner
+59,2024-02-26,,,Box Score,,Toronto Raptors,L,,122,130,33,26,T. Haliburton · B. Mathurin · A. Nembhard · P. Siakam · M. Turner
+60,2024-02-28,,,Box Score,,New Orleans Pelicans,W,,123,114,34,26,T. Haliburton · B. Mathurin · A. Nembhard · P. Siakam · M. Turner
+61,2024-03-01,,,Box Score,@,New Orleans Pelicans,L,,102,129,34,27,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+62,2024-03-03,,,Box Score,@,San Antonio Spurs,L,,105,117,34,28,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+63,2024-03-05,,,Box Score,@,Dallas Mavericks,W,,137,120,35,28,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+64,2024-03-07,,,Box Score,,Minnesota Timberwolves,L,,111,113,35,29,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+65,2024-03-10,,,Box Score,@,Orlando Magic,W,,111,97,36,29,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+66,2024-03-12,,,Box Score,@,Oklahoma City Thunder,W,,121,111,37,29,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+67,2024-03-13,,,Box Score,,Chicago Bulls,L,OT,129,132,37,30,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+68,2024-03-16,,,Box Score,,Brooklyn Nets,W,,121,100,38,30,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+69,2024-03-18,,,Box Score,,Cleveland Cavaliers,L,,103,108,38,31,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+70,2024-03-20,,,Box Score,@,Detroit Pistons,W,,122,103,39,31,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+71,2024-03-22,,,Box Score,@,Golden State Warriors,W,,123,111,40,31,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+72,2024-03-24,,,Box Score,@,Los Angeles Lakers,L,,145,150,40,32,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+73,2024-03-25,,,Box Score,@,Los Angeles Clippers,W,,133,116,41,32,T. Haliburton · A. Nembhard · B. Sheppard · P. Siakam · M. Turner
+74,2024-03-27,,,Box Score,@,Chicago Bulls,L,,99,125,41,33,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+75,2024-03-29,,,Box Score,,Los Angeles Lakers,W,,109,90,42,33,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+76,2024-04-01,,,Box Score,,Brooklyn Nets,W,,133,111,43,33,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+77,2024-04-03,,,Box Score,@,Brooklyn Nets,L,,111,115,43,34,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · J. Smith
+78,2024-04-05,,,Box Score,,Oklahoma City Thunder,W,,126,112,44,34,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+79,2024-04-07,,,Box Score,,Miami Heat,W,,117,115,45,34,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+80,2024-04-09,,,Box Score,@,Toronto Raptors,W,,140,123,46,34,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+81,2024-04-12,,,Box Score,@,Cleveland Cavaliers,L,,120,129,46,35,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner
+82,2024-04-14,,,Box Score,,Atlanta Hawks,W,,157,115,47,35,T. Haliburton · A. Nembhard · A. Nesmith · P. Siakam · M. Turner

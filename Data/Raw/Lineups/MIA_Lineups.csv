@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-25,,,Box Score,,Detroit Pistons,W,,103,102,1,0,B. Adebayo · J. Butler · T. Herro · K. Love · K. Lowry
+2,2023-10-27,,,Box Score,@,Boston Celtics,L,,111,119,1,1,B. Adebayo · J. Butler · T. Herro · K. Love · K. Lowry
+3,2023-10-28,,,Box Score,@,Minnesota Timberwolves,L,,90,106,1,2,B. Adebayo · T. Herro · J. Jaquez · N. Jović · K. Lowry
+4,2023-10-30,,,Box Score,@,Milwaukee Bucks,L,,114,122,1,3,T. Bryant · J. Butler · T. Herro · K. Love · K. Lowry
+5,2023-11-01,,,Box Score,,Brooklyn Nets,L,,105,109,1,4,B. Adebayo · J. Butler · T. Herro · J. Jaquez · K. Lowry
+6,2023-11-03,,,Box Score,,Washington Wizards,W,,121,114,2,4,B. Adebayo · J. Butler · T. Herro · H. Highsmith · K. Lowry
+7,2023-11-06,,,Box Score,,Los Angeles Lakers,W,,108,107,3,4,B. Adebayo · J. Butler · T. Herro · H. Highsmith · K. Lowry
+8,2023-11-08,,,Box Score,@,Memphis Grizzlies,W,,108,102,4,4,B. Adebayo · J. Butler · T. Herro · H. Highsmith · K. Lowry
+9,2023-11-11,,,Box Score,@,Atlanta Hawks,W,,117,109,5,4,B. Adebayo · H. Highsmith · J. Jaquez · K. Lowry · D. Robinson
+10,2023-11-12,,,Box Score,@,San Antonio Spurs,W,,118,113,6,4,B. Adebayo · J. Butler · H. Highsmith · J. Richardson · D. Robinson
+11,2023-11-14,,,Box Score,@,Charlotte Hornets,W,,111,105,7,4,B. Adebayo · J. Butler · H. Highsmith · K. Lowry · D. Robinson
+12,2023-11-16,,,Box Score,,Brooklyn Nets,W,,122,115,8,4,B. Adebayo · J. Butler · H. Highsmith · K. Lowry · D. Robinson
+13,2023-11-18,,,Box Score,@,Chicago Bulls,L,,97,102,8,5,B. Adebayo · J. Butler · H. Highsmith · K. Lowry · D. Robinson
+14,2023-11-20,,,Box Score,@,Chicago Bulls,W,,118,100,9,5,B. Adebayo · J. Butler · H. Highsmith · K. Lowry · D. Robinson
+15,2023-11-22,,,Box Score,@,Cleveland Cavaliers,W,,129,96,10,5,T. Bryant · J. Butler · H. Highsmith · K. Lowry · D. Robinson
+16,2023-11-24,,,Box Score,@,New York Knicks,L,,98,100,10,6,B. Adebayo · J. Butler · H. Highsmith · K. Lowry · J. Richardson
+17,2023-11-25,,,Box Score,@,Brooklyn Nets,L,,97,112,10,7,T. Bryant · H. Highsmith · J. Jaquez · K. Lowry · J. Richardson
+18,2023-11-28,,,Box Score,,Milwaukee Bucks,L,,124,131,10,8,B. Adebayo · K. Love · K. Lowry · J. Richardson · D. Robinson
+19,2023-11-30,,,Box Score,,Indiana Pacers,W,,142,132,11,8,B. Adebayo · J. Butler · H. Highsmith · K. Lowry · D. Robinson
+20,2023-12-02,,,Box Score,,Indiana Pacers,L,,129,144,11,9,J. Butler · H. Highsmith · K. Lowry · D. Robinson · O. Robinson
+21,2023-12-06,,,Box Score,@,Toronto Raptors,W,,112,103,12,9,J. Butler · K. Lowry · C. Martin · D. Robinson · O. Robinson
+22,2023-12-08,,,Box Score,,Cleveland Cavaliers,L,,99,111,12,10,J. Butler · K. Lowry · C. Martin · D. Robinson · O. Robinson
+23,2023-12-11,,,Box Score,@,Charlotte Hornets,W,,116,114,13,10,J. Butler · K. Lowry · C. Martin · D. Robinson · O. Robinson
+24,2023-12-13,,,Box Score,,Charlotte Hornets,W,,115,104,14,10,J. Butler · K. Lowry · C. Martin · D. Robinson · O. Robinson
+25,2023-12-14,,,Box Score,,Chicago Bulls,L,,116,124,14,11,J. Butler · K. Lowry · C. Martin · D. Robinson · O. Robinson
+26,2023-12-16,,,Box Score,,Chicago Bulls,W,,118,116,15,11,J. Butler · K. Lowry · C. Martin · D. Robinson · O. Robinson
+27,2023-12-18,,,Box Score,,Minnesota Timberwolves,L,,108,112,15,12,B. Adebayo · J. Butler · T. Herro · K. Love · C. Martin
+28,2023-12-20,,,Box Score,@,Orlando Magic,W,,115,106,16,12,B. Adebayo · T. Herro · J. Jaquez · K. Lowry · C. Martin
+29,2023-12-22,,,Box Score,,Atlanta Hawks,W,,122,113,17,12,B. Adebayo · T. Herro · J. Jaquez · K. Lowry · C. Martin
+30,2023-12-25,,,Box Score,,Philadelphia 76ers,W,,119,113,18,12,B. Adebayo · T. Herro · J. Jaquez · K. Lowry · C. Martin
+31,2023-12-28,,,Box Score,@,Golden State Warriors,W,,114,102,19,12,B. Adebayo · R. Hampton · T. Herro · H. Highsmith · J. Jaquez
+32,2023-12-30,,,Box Score,@,Utah Jazz,L,,109,117,19,13,B. Adebayo · J. Butler · R. Hampton · T. Herro · N. Jović
+33,2024-01-01,,,Box Score,@,Los Angeles Clippers,L,,104,121,19,14,B. Adebayo · J. Cain · T. Herro · J. Jaquez · K. Lowry
+34,2024-01-03,,,Box Score,@,Los Angeles Lakers,W,,110,96,20,14,B. Adebayo · T. Herro · J. Jaquez · N. Jović · K. Lowry
+35,2024-01-05,,,Box Score,@,Phoenix Suns,L,,97,113,20,15,B. Adebayo · T. Herro · J. Jaquez · N. Jović · K. Lowry
+36,2024-01-08,,,Box Score,,Houston Rockets,W,,120,113,21,15,B. Adebayo · T. Herro · J. Jaquez · N. Jović · K. Lowry
+37,2024-01-10,,,Box Score,,Oklahoma City Thunder,L,,120,128,21,16,B. Adebayo · T. Herro · H. Highsmith · J. Jaquez · N. Jović
+38,2024-01-12,,,Box Score,,Orlando Magic,W,,99,96,22,16,B. Adebayo · H. Highsmith · J. Jaquez · N. Jović · D. Robinson
+39,2024-01-14,,,Box Score,,Charlotte Hornets,W,,104,87,23,16,B. Adebayo · T. Herro · J. Jaquez · N. Jović · K. Lowry
+40,2024-01-15,,,Box Score,@,Brooklyn Nets,W,OT,96,95,24,16,B. Adebayo · J. Butler · T. Herro · N. Jović · K. Lowry
+41,2024-01-17,,,Box Score,@,Toronto Raptors,L,,97,121,24,17,B. Adebayo · J. Butler · T. Herro · N. Jović · K. Lowry
+42,2024-01-19,,,Box Score,,Atlanta Hawks,L,,108,109,24,18,B. Adebayo · J. Butler · T. Herro · N. Jović · C. Martin
+43,2024-01-21,,,Box Score,@,Orlando Magic,L,,87,105,24,19,B. Adebayo · J. Butler · T. Herro · N. Jović · C. Martin
+44,2024-01-24,,,Box Score,,Memphis Grizzlies,L,,96,105,24,20,B. Adebayo · J. Butler · T. Herro · H. Highsmith · J. Richardson
+45,2024-01-25,,,Box Score,,Boston Celtics,L,,110,143,24,21,B. Adebayo · J. Butler · T. Herro · H. Highsmith · T. Rozier
+46,2024-01-27,,,Box Score,@,New York Knicks,L,,109,125,24,22,B. Adebayo · J. Butler · T. Herro · H. Highsmith · T. Rozier
+47,2024-01-29,,,Box Score,,Phoenix Suns,L,,105,118,24,23,B. Adebayo · J. Butler · T. Herro · H. Highsmith · T. Rozier
+48,2024-01-31,,,Box Score,,Sacramento Kings,W,,115,106,25,23,B. Adebayo · J. Butler · T. Herro · H. Highsmith · T. Rozier
+49,2024-02-02,,,Box Score,@,Washington Wizards,W,,110,102,26,23,B. Adebayo · J. Butler · T. Herro · H. Highsmith · T. Rozier
+50,2024-02-04,,,Box Score,,Los Angeles Clippers,L,,95,103,26,24,B. Adebayo · J. Butler · H. Highsmith · J. Richardson · T. Rozier
+51,2024-02-06,,,Box Score,,Orlando Magic,W,,121,95,27,24,B. Adebayo · J. Butler · T. Herro · C. Martin · T. Rozier
+52,2024-02-07,,,Box Score,,San Antonio Spurs,W,,116,104,28,24,B. Adebayo · J. Butler · T. Herro · C. Martin · T. Rozier
+53,2024-02-11,,,Box Score,,Boston Celtics,L,,106,110,28,25,B. Adebayo · T. Herro · J. Jaquez · C. Martin · T. Rozier
+54,2024-02-13,,,Box Score,@,Milwaukee Bucks,W,,123,97,29,25,B. Adebayo · T. Herro · N. Jović · C. Martin · D. Robinson
+55,2024-02-14,,,Box Score,@,Philadelphia 76ers,W,,109,104,30,25,B. Adebayo · T. Herro · N. Jović · C. Martin · D. Robinson
+56,2024-02-23,,,Box Score,@,New Orleans Pelicans,W,,106,95,31,25,B. Adebayo · J. Butler · T. Herro · N. Jović · C. Martin
+57,2024-02-26,,,Box Score,@,Sacramento Kings,W,,121,110,32,25,B. Adebayo · J. Jaquez · C. Martin · D. Robinson · D. Wright
+58,2024-02-27,,,Box Score,@,Portland Trail Blazers,W,,106,96,33,25,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+59,2024-02-29,,,Box Score,@,Denver Nuggets,L,,97,103,33,26,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+60,2024-03-02,,,Box Score,,Utah Jazz,W,,126,120,34,26,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+61,2024-03-05,,,Box Score,,Detroit Pistons,W,,118,110,35,26,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+62,2024-03-07,,,Box Score,@,Dallas Mavericks,L,,108,114,35,27,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+63,2024-03-08,,,Box Score,@,Oklahoma City Thunder,L,,100,107,35,28,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+64,2024-03-10,,,Box Score,,Washington Wizards,L,,108,110,35,29,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+65,2024-03-13,,,Box Score,,Denver Nuggets,L,,88,100,35,30,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+66,2024-03-15,,,Box Score,@,Detroit Pistons,W,,108,95,36,30,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+67,2024-03-17,,,Box Score,@,Detroit Pistons,W,,104,101,37,30,B. Adebayo · H. Highsmith · J. Jaquez · D. Robinson · T. Rozier
+68,2024-03-18,,,Box Score,@,Philadelphia 76ers,L,,91,98,37,31,B. Adebayo · H. Highsmith · J. Jaquez · D. Robinson · T. Rozier
+69,2024-03-20,,,Box Score,@,Cleveland Cavaliers,W,,107,104,38,31,T. Bryant · J. Butler · N. Jović · P. Mills · T. Rozier
+70,2024-03-22,,,Box Score,,New Orleans Pelicans,L,,88,111,38,32,B. Adebayo · J. Butler · N. Jović · P. Mills · T. Rozier
+71,2024-03-24,,,Box Score,,Cleveland Cavaliers,W,,121,84,39,32,B. Adebayo · J. Butler · N. Jović · P. Mills · T. Rozier
+72,2024-03-26,,,Box Score,,Golden State Warriors,L,,92,113,39,33,B. Adebayo · J. Jaquez · N. Jović · P. Mills · T. Rozier
+73,2024-03-29,,,Box Score,,Portland Trail Blazers,W,,142,82,40,33,B. Adebayo · J. Butler · N. Jović · P. Mills · T. Rozier
+74,2024-03-31,,,Box Score,@,Washington Wizards,W,,119,107,41,33,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+75,2024-04-02,,,Box Score,,New York Knicks,W,,109,99,42,33,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+76,2024-04-04,,,Box Score,,Philadelphia 76ers,L,,105,109,42,34,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+77,2024-04-05,,,Box Score,@,Houston Rockets,W,,119,104,43,34,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+78,2024-04-07,,,Box Score,@,Indiana Pacers,L,,115,117,43,35,B. Adebayo · J. Butler · N. Jović · D. Robinson · T. Rozier
+79,2024-04-09,,,Box Score,@,Atlanta Hawks,W,2OT,117,111,44,35,B. Adebayo · J. Butler · T. Herro · N. Jović · C. Martin
+80,2024-04-10,,,Box Score,,Dallas Mavericks,L,,92,111,44,36,B. Adebayo · J. Butler · T. Herro · N. Jović · C. Martin
+81,2024-04-12,,,Box Score,,Toronto Raptors,W,,125,103,45,36,B. Adebayo · J. Butler · T. Herro · N. Jović · C. Martin
+82,2024-04-14,,,Box Score,,Toronto Raptors,W,,118,103,46,36,B. Adebayo · J. Butler · T. Herro · N. Jović · C. Martin

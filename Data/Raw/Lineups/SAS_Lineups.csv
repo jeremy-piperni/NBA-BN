@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-25,,,Box Score,,Dallas Mavericks,L,,119,126,0,1,Z. Collins · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+2,2023-10-27,,,Box Score,,Houston Rockets,W,OT,126,122,1,1,Z. Collins · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+3,2023-10-29,,,Box Score,@,Los Angeles Clippers,L,,83,123,1,2,Z. Collins · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+4,2023-10-31,,,Box Score,@,Phoenix Suns,W,,115,114,2,2,Z. Collins · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+5,2023-11-02,,,Box Score,@,Phoenix Suns,W,,132,121,3,2,Z. Collins · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+6,2023-11-05,,,Box Score,,Toronto Raptors,L,OT,116,123,3,3,M. Branham · Z. Collins · K. Johnson · J. Sochan · V. Wembanyama
+7,2023-11-06,,,Box Score,@,Indiana Pacers,L,,111,152,3,4,M. Branham · Z. Collins · K. Johnson · J. Sochan · V. Wembanyama
+8,2023-11-08,,,Box Score,@,New York Knicks,L,,105,126,3,5,M. Branham · Z. Collins · K. Johnson · J. Sochan · V. Wembanyama
+9,2023-11-10,,,Box Score,,Minnesota Timberwolves,L,,110,117,3,6,Z. Collins · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+10,2023-11-12,,,Box Score,,Miami Heat,L,,113,118,3,7,Z. Collins · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+11,2023-11-14,,,Box Score,@,Oklahoma City Thunder,L,,87,123,3,8,J. Champagnie · Z. Collins · J. Sochan · D. Vassell · V. Wembanyama
+12,2023-11-17,,,Box Score,,Sacramento Kings,L,,120,129,3,9,J. Champagnie · Z. Collins · K. Johnson · J. Sochan · V. Wembanyama
+13,2023-11-18,,,Box Score,,Memphis Grizzlies,L,,108,120,3,10,J. Champagnie · Z. Collins · K. Johnson · J. Sochan · V. Wembanyama
+14,2023-11-20,,,Box Score,,Los Angeles Clippers,L,,99,124,3,11,J. Champagnie · Z. Collins · K. Johnson · J. Sochan · V. Wembanyama
+15,2023-11-22,,,Box Score,,Los Angeles Clippers,L,,102,109,3,12,M. Branham · Z. Collins · K. Johnson · J. Sochan · V. Wembanyama
+16,2023-11-24,,,Box Score,@,Golden State Warriors,L,,112,118,3,13,M. Branham · Z. Collins · K. Johnson · J. Sochan · V. Wembanyama
+17,2023-11-26,,,Box Score,@,Denver Nuggets,L,,120,132,3,14,M. Branham · Z. Collins · K. Johnson · J. Sochan · V. Wembanyama
+18,2023-11-30,,,Box Score,,Atlanta Hawks,L,,135,137,3,15,M. Branham · Z. Collins · K. Johnson · J. Sochan · V. Wembanyama
+19,2023-12-01,,,Box Score,@,New Orleans Pelicans,L,,106,121,3,16,M. Branham · J. Champagnie · Z. Collins · K. Johnson · J. Sochan
+20,2023-12-06,,,Box Score,@,Minnesota Timberwolves,L,,94,102,3,17,Z. Collins · K. Johnson · C. Osman · D. Vassell · V. Wembanyama
+21,2023-12-08,,,Box Score,,Chicago Bulls,L,,112,121,3,18,M. Branham · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+22,2023-12-11,,,Box Score,@,Houston Rockets,L,,82,93,3,19,M. Branham · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+23,2023-12-13,,,Box Score,,Los Angeles Lakers,L,,119,122,3,20,M. Branham · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+24,2023-12-15,,,Box Score,,Los Angeles Lakers,W,,129,115,4,20,M. Branham · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+25,2023-12-17,,,Box Score,,New Orleans Pelicans,L,,110,146,4,21,M. Branham · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+26,2023-12-19,,,Box Score,@,Milwaukee Bucks,L,,119,132,4,22,M. Branham · Z. Collins · K. Johnson · J. Sochan · D. Vassell
+27,2023-12-21,,,Box Score,@,Chicago Bulls,L,,95,114,4,23,M. Branham · K. Johnson · J. Sochan · D. Vassell · V. Wembanyama
+28,2023-12-23,,,Box Score,@,Dallas Mavericks,L,,119,144,4,24,M. Branham · J. Champagnie · Z. Collins · J. Sochan · D. Vassell
+29,2023-12-26,,,Box Score,,Utah Jazz,L,,118,130,4,25,M. Branham · J. Champagnie · J. Sochan · D. Vassell · V. Wembanyama
+30,2023-12-28,,,Box Score,@,Portland Trail Blazers,W,,118,105,5,25,M. Branham · J. Champagnie · J. Sochan · D. Vassell · V. Wembanyama
+31,2023-12-29,,,Box Score,@,Portland Trail Blazers,L,,128,134,5,26,M. Branham · J. Champagnie · Z. Collins · J. Sochan · D. Vassell
+32,2023-12-31,,,Box Score,,Boston Celtics,L,,101,134,5,27,M. Branham · J. Champagnie · J. Sochan · D. Vassell · V. Wembanyama
+33,2024-01-02,,,Box Score,@,Memphis Grizzlies,L,,98,106,5,28,M. Branham · J. Champagnie · J. Sochan · D. Vassell · V. Wembanyama
+34,2024-01-04,,,Box Score,,Milwaukee Bucks,L,,121,125,5,29,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+35,2024-01-07,,,Box Score,@,Cleveland Cavaliers,L,,115,117,5,30,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+36,2024-01-10,,,Box Score,@,Detroit Pistons,W,,130,108,6,30,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+37,2024-01-12,,,Box Score,,Charlotte Hornets,W,,135,99,7,30,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+38,2024-01-13,,,Box Score,,Chicago Bulls,L,,116,122,7,31,D. Barlow · J. Champagnie · T. Jones · J. Sochan · D. Vassell
+39,2024-01-15,,,Box Score,@,Atlanta Hawks,L,,99,109,7,32,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+40,2024-01-17,,,Box Score,@,Boston Celtics,L,,98,117,7,33,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+41,2024-01-19,,,Box Score,@,Charlotte Hornets,L,,120,124,7,34,J. Champagnie · Z. Collins · T. Jones · J. Sochan · D. Vassell
+42,2024-01-20,,,Box Score,@,Washington Wizards,W,,131,127,8,34,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+43,2024-01-22,,,Box Score,@,Philadelphia 76ers,L,,123,133,8,35,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+44,2024-01-24,,,Box Score,,Oklahoma City Thunder,L,,114,140,8,36,J. Champagnie · J. Sochan · D. Vassell · V. Wembanyama · B. Wesley
+45,2024-01-26,,,Box Score,,Portland Trail Blazers,W,,116,100,9,36,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+46,2024-01-27,,,Box Score,,Minnesota Timberwolves,W,,113,112,10,36,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+47,2024-01-29,,,Box Score,,Washington Wizards,L,,113,118,10,37,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+48,2024-01-31,,,Box Score,,Orlando Magic,L,,98,108,10,38,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+49,2024-02-02,,,Box Score,,New Orleans Pelicans,L,,113,114,10,39,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+50,2024-02-03,,,Box Score,,Cleveland Cavaliers,L,,101,117,10,40,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+51,2024-02-07,,,Box Score,@,Miami Heat,L,,104,116,10,41,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+52,2024-02-08,,,Box Score,@,Orlando Magic,L,,111,127,10,42,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+53,2024-02-10,,,Box Score,@,Brooklyn Nets,L,,103,123,10,43,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+54,2024-02-12,,,Box Score,@,Toronto Raptors,W,,122,99,11,43,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+55,2024-02-14,,,Box Score,@,Dallas Mavericks,L,,93,116,11,44,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+56,2024-02-22,,,Box Score,@,Sacramento Kings,L,,122,127,11,45,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+57,2024-02-23,,,Box Score,@,Los Angeles Lakers,L,,118,123,11,46,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+58,2024-02-25,,,Box Score,@,Utah Jazz,L,,109,128,11,47,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+59,2024-02-27,,,Box Score,@,Minnesota Timberwolves,L,,105,114,11,48,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+60,2024-02-29,,,Box Score,,Oklahoma City Thunder,W,,132,118,12,48,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+61,2024-03-03,,,Box Score,,Indiana Pacers,W,,117,105,13,48,M. Branham · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+62,2024-03-05,,,Box Score,@,Houston Rockets,L,,101,114,13,49,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+63,2024-03-07,,,Box Score,@,Sacramento Kings,L,,129,131,13,50,J. Champagnie · Z. Collins · T. Jones · J. Sochan · D. Vassell
+64,2024-03-09,,,Box Score,@,Golden State Warriors,W,,126,113,14,50,M. Branham · J. Champagnie · Z. Collins · T. Jones · J. Sochan
+65,2024-03-11,,,Box Score,,Golden State Warriors,L,,102,112,14,51,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+66,2024-03-12,,,Box Score,,Houston Rockets,L,,101,103,14,52,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+67,2024-03-15,,,Box Score,,Denver Nuggets,L,,106,117,14,53,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+68,2024-03-17,,,Box Score,,Brooklyn Nets,W,OT,122,115,15,53,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+69,2024-03-19,,,Box Score,,Dallas Mavericks,L,,107,113,15,54,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+70,2024-03-22,,,Box Score,,Memphis Grizzlies,L,,97,99,15,55,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+71,2024-03-23,,,Box Score,,Phoenix Suns,L,,106,131,15,56,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+72,2024-03-25,,,Box Score,,Phoenix Suns,W,,104,102,16,56,J. Champagnie · Z. Collins · T. Jones · J. Sochan · D. Vassell
+73,2024-03-27,,,Box Score,@,Utah Jazz,W,,118,111,17,56,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+74,2024-03-29,,,Box Score,,New York Knicks,W,OT,130,126,18,56,J. Champagnie · T. Jones · J. Sochan · D. Vassell · V. Wembanyama
+75,2024-03-31,,,Box Score,,Golden State Warriors,L,,113,117,18,57,M. Branham · J. Champagnie · T. Jones · C. Osman · V. Wembanyama
+76,2024-04-02,,,Box Score,@,Denver Nuggets,L,,105,110,18,58,M. Branham · J. Champagnie · T. Jones · C. Osman · V. Wembanyama
+77,2024-04-05,,,Box Score,@,New Orleans Pelicans,W,,111,109,19,58,M. Branham · J. Champagnie · T. Jones · S. Mamukelashvili · V. Wembanyama
+78,2024-04-07,,,Box Score,,Philadelphia 76ers,L,2OT,126,133,19,59,M. Branham · J. Champagnie · K. Johnson · T. Jones · V. Wembanyama
+79,2024-04-09,,,Box Score,@,Memphis Grizzlies,W,,102,87,20,59,M. Branham · J. Champagnie · T. Jones · S. Mamukelashvili · V. Wembanyama
+80,2024-04-10,,,Box Score,@,Oklahoma City Thunder,L,,89,127,20,60,M. Branham · J. Champagnie · Z. Collins · T. Jones · S. Mamukelashvili
+81,2024-04-12,,,Box Score,,Denver Nuggets,W,,121,120,21,60,J. Champagnie · T. Jones · S. Mamukelashvili · V. Wembanyama · B. Wesley
+82,2024-04-14,,,Box Score,,Detroit Pistons,W,,123,95,22,60,J. Champagnie · Z. Collins · T. Jones · S. Mamukelashvili · B. Wesley

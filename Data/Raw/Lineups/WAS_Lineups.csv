@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-25,,,Box Score,@,Indiana Pacers,L,,120,143,0,1,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+2,2023-10-28,,,Box Score,,Memphis Grizzlies,W,,113,106,1,1,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+3,2023-10-30,,,Box Score,,Boston Celtics,L,,107,126,1,2,D. Avdija · B. Coulibaly · T. Jones · K. Kuzma · J. Poole
+4,2023-11-01,,,Box Score,@,Atlanta Hawks,L,,121,130,1,3,D. Avdija · T. Jones · K. Kuzma · M. Muscala · J. Poole
+5,2023-11-03,,,Box Score,@,Miami Heat,L,,114,121,1,4,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+6,2023-11-06,,,Box Score,@,Philadelphia 76ers,L,,128,146,1,5,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+7,2023-11-08,,,Box Score,@,Charlotte Hornets,W,,132,116,2,5,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+8,2023-11-10,,,Box Score,,Charlotte Hornets,L,,117,124,2,6,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+9,2023-11-12,,,Box Score,@,Brooklyn Nets,L,,94,102,2,7,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+10,2023-11-13,,,Box Score,@,Toronto Raptors,L,,107,111,2,8,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+11,2023-11-15,,,Box Score,,Dallas Mavericks,L,,117,130,2,9,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+12,2023-11-17,,,Box Score,,New York Knicks,L,,99,120,2,10,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+13,2023-11-20,,,Box Score,,Milwaukee Bucks,L,,129,142,2,11,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+14,2023-11-22,,,Box Score,@,Charlotte Hornets,L,,114,117,2,12,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+15,2023-11-24,,,Box Score,@,Milwaukee Bucks,L,,128,131,2,13,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+16,2023-11-25,,,Box Score,,Atlanta Hawks,L,,108,136,2,14,D. Avdija · D. Gafford · T. Jones · C. Kispert · K. Kuzma
+17,2023-11-27,,,Box Score,@,Detroit Pistons,W,,126,107,3,14,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+18,2023-11-29,,,Box Score,@,Orlando Magic,L,,120,139,3,15,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+19,2023-12-01,,,Box Score,@,Orlando Magic,L,,125,130,3,16,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+20,2023-12-06,,,Box Score,,Philadelphia 76ers,L,,126,131,3,17,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+21,2023-12-08,,,Box Score,@,Brooklyn Nets,L,,97,124,3,18,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+22,2023-12-11,,,Box Score,@,Philadelphia 76ers,L,,101,146,3,19,D. Avdija · T. Jones · K. Kuzma · M. Muscala · J. Poole
+23,2023-12-13,,,Box Score,,New Orleans Pelicans,L,,122,142,3,20,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+24,2023-12-15,,,Box Score,,Indiana Pacers,W,,137,123,4,20,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+25,2023-12-17,,,Box Score,@,Phoenix Suns,L,,108,112,4,21,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+26,2023-12-18,,,Box Score,@,Sacramento Kings,L,,131,143,4,22,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+27,2023-12-21,,,Box Score,@,Portland Trail Blazers,W,,118,117,5,22,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+28,2023-12-22,,,Box Score,@,Golden State Warriors,L,,118,129,5,23,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+29,2023-12-26,,,Box Score,,Orlando Magic,L,,119,127,5,24,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+30,2023-12-27,,,Box Score,,Toronto Raptors,L,,102,132,5,25,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+31,2023-12-29,,,Box Score,,Brooklyn Nets,W,,110,104,6,25,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+32,2023-12-31,,,Box Score,,Atlanta Hawks,L,,126,130,6,26,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+33,2024-01-03,,,Box Score,@,Cleveland Cavaliers,L,,101,140,6,27,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+34,2024-01-05,,,Box Score,@,Cleveland Cavaliers,L,,90,114,6,28,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+35,2024-01-06,,,Box Score,,New York Knicks,L,,105,121,6,29,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+36,2024-01-08,,,Box Score,,Oklahoma City Thunder,L,,128,136,6,30,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+37,2024-01-10,,,Box Score,@,Indiana Pacers,L,,104,112,6,31,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+38,2024-01-13,,,Box Score,@,Atlanta Hawks,W,,127,99,7,31,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+39,2024-01-15,,,Box Score,,Detroit Pistons,L,,117,129,7,32,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+40,2024-01-18,,,Box Score,@,New York Knicks,L,,109,113,7,33,D. Avdija · M. Bagley · T. Jones · K. Kuzma · J. Poole
+41,2024-01-20,,,Box Score,,San Antonio Spurs,L,,127,131,7,34,D. Avdija · M. Bagley · T. Jones · K. Kuzma · J. Poole
+42,2024-01-21,,,Box Score,,Denver Nuggets,L,,104,113,7,35,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+43,2024-01-24,,,Box Score,,Minnesota Timberwolves,L,,107,118,7,36,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+44,2024-01-25,,,Box Score,,Utah Jazz,L,,108,123,7,37,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+45,2024-01-27,,,Box Score,@,Detroit Pistons,W,,118,104,8,37,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+46,2024-01-29,,,Box Score,@,San Antonio Spurs,W,,118,113,9,37,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+47,2024-01-31,,,Box Score,,Los Angeles Clippers,L,,109,125,9,38,D. Avdija · B. Coulibaly · D. Gafford · T. Jones · K. Kuzma
+48,2024-02-02,,,Box Score,,Miami Heat,L,,102,110,9,39,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+49,2024-02-04,,,Box Score,,Phoenix Suns,L,,112,140,9,40,D. Avdija · B. Coulibaly · D. Gafford · T. Jones · J. Poole
+50,2024-02-07,,,Box Score,,Cleveland Cavaliers,L,,106,114,9,41,D. Avdija · D. Gafford · T. Jones · K. Kuzma · J. Poole
+51,2024-02-09,,,Box Score,@,Boston Celtics,L,,129,133,9,42,D. Avdija · B. Coulibaly · T. Jones · K. Kuzma · J. Poole
+52,2024-02-10,,,Box Score,,Philadelphia 76ers,L,,113,119,9,43,D. Avdija · M. Bagley · T. Jones · K. Kuzma · J. Poole
+53,2024-02-12,,,Box Score,@,Dallas Mavericks,L,,104,112,9,44,D. Avdija · M. Bagley · T. Jones · K. Kuzma · J. Poole
+54,2024-02-14,,,Box Score,@,New Orleans Pelicans,L,,126,133,9,45,D. Avdija · M. Bagley · B. Coulibaly · T. Jones · J. Poole
+55,2024-02-22,,,Box Score,@,Denver Nuggets,L,,110,130,9,46,D. Avdija · M. Bagley · B. Coulibaly · T. Jones · K. Kuzma
+56,2024-02-23,,,Box Score,@,Oklahoma City Thunder,L,,106,147,9,47,M. Bagley · B. Coulibaly · T. Jones · K. Kuzma · L. Shamet
+57,2024-02-25,,,Box Score,,Cleveland Cavaliers,L,,105,114,9,48,M. Bagley · B. Coulibaly · T. Jones · K. Kuzma · L. Shamet
+58,2024-02-27,,,Box Score,,Golden State Warriors,L,,112,123,9,49,M. Bagley · T. Jones · C. Kispert · K. Kuzma · L. Shamet
+59,2024-02-29,,,Box Score,@,Los Angeles Lakers,L,OT,131,134,9,50,D. Avdija · M. Bagley · T. Jones · K. Kuzma · L. Shamet
+60,2024-03-01,,,Box Score,@,Los Angeles Clippers,L,,115,140,9,51,D. Avdija · M. Bagley · T. Jones · K. Kuzma · L. Shamet
+61,2024-03-04,,,Box Score,@,Utah Jazz,L,,115,127,9,52,D. Avdija · M. Bagley · B. Coulibaly · T. Jones · K. Kuzma
+62,2024-03-06,,,Box Score,,Orlando Magic,L,,109,119,9,53,D. Avdija · B. Coulibaly · T. Jones · C. Kispert · K. Kuzma
+63,2024-03-08,,,Box Score,,Charlotte Hornets,W,,112,100,10,53,D. Avdija · B. Coulibaly · R. Holmes · T. Jones · K. Kuzma
+64,2024-03-10,,,Box Score,@,Miami Heat,W,,110,108,11,53,D. Avdija · B. Coulibaly · T. Jones · C. Kispert · K. Kuzma
+65,2024-03-12,,,Box Score,@,Memphis Grizzlies,L,,97,109,11,54,D. Avdija · B. Coulibaly · T. Jones · C. Kispert · K. Kuzma
+66,2024-03-14,,,Box Score,@,Houston Rockets,L,,119,135,11,55,D. Avdija · B. Coulibaly · T. Jones · C. Kispert · K. Kuzma
+67,2024-03-16,,,Box Score,@,Chicago Bulls,L,,98,127,11,56,B. Coulibaly · R. Holmes · C. Kispert · K. Kuzma · J. Poole
+68,2024-03-17,,,Box Score,,Boston Celtics,L,,104,130,11,57,P. Baldwin · J. Champagnie · R. Holmes · C. Kispert · J. Poole
+69,2024-03-19,,,Box Score,,Houston Rockets,L,,114,137,11,58,P. Baldwin · J. Davis · R. Holmes · C. Kispert · J. Poole
+70,2024-03-21,,,Box Score,,Sacramento Kings,W,,109,102,12,58,D. Avdija · R. Holmes · C. Kispert · K. Kuzma · J. Poole
+71,2024-03-23,,,Box Score,,Toronto Raptors,W,,112,109,13,58,D. Avdija · R. Holmes · C. Kispert · K. Kuzma · J. Poole
+72,2024-03-25,,,Box Score,@,Chicago Bulls,W,,107,105,14,58,P. Baldwin · J. Davis · R. Holmes · C. Kispert · J. Poole
+73,2024-03-27,,,Box Score,,Brooklyn Nets,L,OT,119,122,14,59,D. Avdija · R. Holmes · C. Kispert · K. Kuzma · J. Poole
+74,2024-03-29,,,Box Score,,Detroit Pistons,L,,87,96,14,60,D. Avdija · M. Bagley · C. Kispert · K. Kuzma · J. Poole
+75,2024-03-31,,,Box Score,,Miami Heat,L,,107,119,14,61,D. Avdija · M. Bagley · P. Baldwin · C. Kispert · J. Poole
+76,2024-04-02,,,Box Score,,Milwaukee Bucks,W,,117,113,15,61,D. Avdija · M. Bagley · A. Gill · C. Kispert · J. Poole
+77,2024-04-03,,,Box Score,,Los Angeles Lakers,L,,120,125,15,62,D. Avdija · C. Kispert · K. Kuzma · J. Poole · T. Vukcevic
+78,2024-04-05,,,Box Score,,Portland Trail Blazers,L,,102,108,15,63,D. Avdija · J. Davis · C. Kispert · J. Poole · T. Vukcevic
+79,2024-04-07,,,Box Score,@,Toronto Raptors,L,,122,130,15,64,D. Avdija · J. Davis · C. Kispert · J. Poole · T. Vukcevic
+80,2024-04-09,,,Box Score,@,Minnesota Timberwolves,L,,121,130,15,65,D. Avdija · P. Baldwin · A. Gill · C. Kispert · J. Poole
+81,2024-04-12,,,Box Score,,Chicago Bulls,L,,127,129,15,66,D. Avdija · P. Baldwin · J. Davis · C. Kispert · T. Vukcevic
+82,2024-04-14,,,Box Score,@,Boston Celtics,L,,122,132,15,67,D. Avdija · P. Baldwin · J. Davis · A. Gill · C. Kispert

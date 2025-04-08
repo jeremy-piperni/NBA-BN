@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-25,,,Box Score,,Boston Celtics,L,,104,108,0,1,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+2,2023-10-27,,,Box Score,@,Atlanta Hawks,W,,126,120,1,1,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+3,2023-10-28,,,Box Score,@,New Orleans Pelicans,L,,87,96,1,2,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+4,2023-10-31,,,Box Score,@,Cleveland Cavaliers,W,,109,91,2,2,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+5,2023-11-01,,,Box Score,,Cleveland Cavaliers,L,,89,95,2,3,J. Brunson · Q. Grimes · J. Hart · J. Randle · M. Robinson
+6,2023-11-03,,,Box Score,@,Milwaukee Bucks,L,,105,110,2,4,J. Brunson · Q. Grimes · J. Hart · J. Randle · M. Robinson
+7,2023-11-06,,,Box Score,,Los Angeles Clippers,W,,111,97,3,4,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+8,2023-11-08,,,Box Score,,San Antonio Spurs,W,,126,105,4,4,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+9,2023-11-12,,,Box Score,,Charlotte Hornets,W,,129,107,5,4,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+10,2023-11-13,,,Box Score,@,Boston Celtics,L,,98,114,5,5,J. Brunson · Q. Grimes · J. Hart · J. Randle · M. Robinson
+11,2023-11-15,,,Box Score,@,Atlanta Hawks,W,,116,114,6,5,J. Brunson · Q. Grimes · J. Hart · J. Randle · M. Robinson
+12,2023-11-17,,,Box Score,@,Washington Wizards,W,,120,99,7,5,J. Brunson · D. DiVincenzo · J. Hart · J. Randle · M. Robinson
+13,2023-11-18,,,Box Score,@,Charlotte Hornets,W,,122,108,8,5,R. Barrett · J. Brunson · D. DiVincenzo · J. Randle · M. Robinson
+14,2023-11-20,,,Box Score,@,Minnesota Timberwolves,L,,100,117,8,6,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+15,2023-11-24,,,Box Score,,Miami Heat,W,,100,98,9,6,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+16,2023-11-26,,,Box Score,,Phoenix Suns,L,,113,116,9,7,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+17,2023-11-28,,,Box Score,,Charlotte Hornets,W,,115,91,10,7,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+18,2023-11-30,,,Box Score,,Detroit Pistons,W,,118,112,11,7,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+19,2023-12-01,,,Box Score,@,Toronto Raptors,W,,119,106,12,7,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+20,2023-12-05,,,Box Score,@,Milwaukee Bucks,L,,122,146,12,8,R. Barrett · J. Brunson · Q. Grimes · J. Randle · M. Robinson
+21,2023-12-08,,,Box Score,@,Boston Celtics,L,,123,133,12,9,R. Barrett · J. Brunson · D. DiVincenzo · J. Randle · M. Robinson
+22,2023-12-11,,,Box Score,,Toronto Raptors,W,,136,130,13,9,R. Barrett · J. Brunson · D. DiVincenzo · J. Randle · J. Sims
+23,2023-12-13,,,Box Score,@,Utah Jazz,L,,113,117,13,10,R. Barrett · J. Brunson · D. DiVincenzo · J. Randle · J. Sims
+24,2023-12-15,,,Box Score,@,Phoenix Suns,W,,139,122,14,10,R. Barrett · J. Brunson · D. DiVincenzo · J. Randle · J. Sims
+25,2023-12-16,,,Box Score,@,Los Angeles Clippers,L,,122,144,14,11,R. Barrett · J. Brunson · D. DiVincenzo · J. Randle · J. Sims
+26,2023-12-18,,,Box Score,@,Los Angeles Lakers,W,,114,109,15,11,R. Barrett · J. Brunson · D. DiVincenzo · J. Randle · J. Sims
+27,2023-12-20,,,Box Score,@,Brooklyn Nets,W,,121,102,16,11,R. Barrett · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+28,2023-12-23,,,Box Score,,Milwaukee Bucks,L,,111,130,16,12,R. Barrett · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+29,2023-12-25,,,Box Score,,Milwaukee Bucks,W,,129,122,17,12,R. Barrett · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+30,2023-12-27,,,Box Score,@,Oklahoma City Thunder,L,,120,129,17,13,R. Barrett · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+31,2023-12-29,,,Box Score,@,Orlando Magic,L,,108,117,17,14,R. Barrett · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+32,2023-12-30,,,Box Score,@,Indiana Pacers,L,,126,140,17,15,J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein · J. Randle
+33,2024-01-01,,,Box Score,,Minnesota Timberwolves,W,,112,106,18,15,O. Anunoby · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+34,2024-01-03,,,Box Score,,Chicago Bulls,W,,116,100,19,15,O. Anunoby · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+35,2024-01-05,,,Box Score,@,Philadelphia 76ers,W,,128,92,20,15,O. Anunoby · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+36,2024-01-06,,,Box Score,@,Washington Wizards,W,,121,105,21,15,O. Anunoby · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+37,2024-01-09,,,Box Score,,Portland Trail Blazers,W,,112,84,22,15,O. Anunoby · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+38,2024-01-11,,,Box Score,@,Dallas Mavericks,L,,124,128,22,16,O. Anunoby · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+39,2024-01-13,,,Box Score,@,Memphis Grizzlies,W,,106,94,23,16,O. Anunoby · D. DiVincenzo · I. Hartenstein · M. McBride · J. Randle
+40,2024-01-15,,,Box Score,,Orlando Magic,L,,94,98,23,17,O. Anunoby · D. DiVincenzo · I. Hartenstein · M. McBride · J. Randle
+41,2024-01-17,,,Box Score,,Houston Rockets,W,,109,94,24,17,O. Anunoby · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+42,2024-01-18,,,Box Score,,Washington Wizards,W,,113,109,25,17,O. Anunoby · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+43,2024-01-20,,,Box Score,,Toronto Raptors,W,,126,100,26,17,O. Anunoby · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+44,2024-01-23,,,Box Score,@,Brooklyn Nets,W,,108,103,27,17,O. Anunoby · J. Brunson · D. DiVincenzo · J. Randle · J. Sims
+45,2024-01-25,,,Box Score,,Denver Nuggets,W,,122,84,28,17,O. Anunoby · J. Brunson · D. DiVincenzo · J. Randle · J. Sims
+46,2024-01-27,,,Box Score,,Miami Heat,W,,125,109,29,17,O. Anunoby · J. Brunson · D. DiVincenzo · I. Hartenstein · J. Randle
+47,2024-01-29,,,Box Score,@,Charlotte Hornets,W,,113,92,30,17,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+48,2024-01-30,,,Box Score,,Utah Jazz,W,,118,103,31,17,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+49,2024-02-01,,,Box Score,,Indiana Pacers,W,,109,105,32,17,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+50,2024-02-03,,,Box Score,,Los Angeles Lakers,L,,105,113,32,18,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+51,2024-02-06,,,Box Score,,Memphis Grizzlies,W,,123,113,33,18,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+52,2024-02-08,,,Box Score,,Dallas Mavericks,L,,108,122,33,19,P. Achiuwa · D. DiVincenzo · J. Hart · I. Hartenstein · M. McBride
+53,2024-02-10,,,Box Score,,Indiana Pacers,L,,111,125,33,20,P. Achiuwa · J. Brunson · D. DiVincenzo · T. Gibson · J. Hart
+54,2024-02-12,,,Box Score,@,Houston Rockets,L,,103,105,33,21,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · J. Sims
+55,2024-02-14,,,Box Score,@,Orlando Magic,L,,100,118,33,22,P. Achiuwa · J. Brunson · A. Burks · J. Hart · J. Sims
+56,2024-02-22,,,Box Score,@,Philadelphia 76ers,W,,110,96,34,22,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+57,2024-02-24,,,Box Score,,Boston Celtics,L,,102,116,34,23,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+58,2024-02-26,,,Box Score,,Detroit Pistons,W,,113,111,35,23,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+59,2024-02-27,,,Box Score,,New Orleans Pelicans,L,,92,115,35,24,P. Achiuwa · D. DiVincenzo · J. Hart · M. McBride · J. Sims
+60,2024-02-29,,,Box Score,,Golden State Warriors,L,,99,110,35,25,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+61,2024-03-03,,,Box Score,@,Cleveland Cavaliers,W,,107,98,36,25,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+62,2024-03-05,,,Box Score,,Atlanta Hawks,L,,100,116,36,26,P. Achiuwa · D. DiVincenzo · J. Hart · I. Hartenstein · M. McBride
+63,2024-03-08,,,Box Score,,Orlando Magic,W,,98,74,37,26,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+64,2024-03-10,,,Box Score,,Philadelphia 76ers,L,,73,79,37,27,P. Achiuwa · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+65,2024-03-12,,,Box Score,,Philadelphia 76ers,W,,106,79,38,27,O. Anunoby · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+66,2024-03-14,,,Box Score,@,Portland Trail Blazers,W,,105,93,39,27,O. Anunoby · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+67,2024-03-16,,,Box Score,@,Sacramento Kings,W,,98,91,40,27,O. Anunoby · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+68,2024-03-18,,,Box Score,@,Golden State Warriors,W,,119,112,41,27,J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein · M. McBride
+69,2024-03-21,,,Box Score,@,Denver Nuggets,L,,100,113,41,28,J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein · M. McBride
+70,2024-03-23,,,Box Score,,Brooklyn Nets,W,,105,93,42,28,J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein · M. McBride
+71,2024-03-25,,,Box Score,,Detroit Pistons,W,,124,99,43,28,J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein · M. McBride
+72,2024-03-27,,,Box Score,@,Toronto Raptors,W,,145,101,44,28,J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein · M. McBride
+73,2024-03-29,,,Box Score,@,San Antonio Spurs,L,OT,126,130,44,29,J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein · M. McBride
+74,2024-03-31,,,Box Score,,Oklahoma City Thunder,L,,112,113,44,30,J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein · M. McBride
+75,2024-04-02,,,Box Score,@,Miami Heat,L,,99,109,44,31,J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein · M. McBride
+76,2024-04-04,,,Box Score,,Sacramento Kings,W,,120,109,45,31,J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein · M. McBride
+77,2024-04-05,,,Box Score,@,Chicago Bulls,L,,100,108,45,32,O. Anunoby · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+78,2024-04-07,,,Box Score,@,Milwaukee Bucks,W,,122,109,46,32,O. Anunoby · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+79,2024-04-09,,,Box Score,@,Chicago Bulls,W,,128,117,47,32,O. Anunoby · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+80,2024-04-11,,,Box Score,@,Boston Celtics,W,,118,109,48,32,O. Anunoby · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein
+81,2024-04-12,,,Box Score,,Brooklyn Nets,W,,111,107,49,32,O. Anunoby · J. Brunson · D. DiVincenzo · J. Hart · J. Sims
+82,2024-04-14,,,Box Score,,Chicago Bulls,W,OT,120,119,50,32,O. Anunoby · J. Brunson · D. DiVincenzo · J. Hart · I. Hartenstein

@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-25,,,Box Score,@,Charlotte Hornets,L,,110,116,0,1,S. Bey · C. Capela · D. Hunter · D. Murray · T. Young
+2,2023-10-27,,,Box Score,,New York Knicks,L,,120,126,0,2,S. Bey · C. Capela · D. Hunter · D. Murray · T. Young
+3,2023-10-29,,,Box Score,@,Milwaukee Bucks,W,,127,110,1,2,C. Capela · D. Hunter · J. Johnson · D. Murray · T. Young
+4,2023-10-30,,,Box Score,,Minnesota Timberwolves,W,,127,113,2,2,C. Capela · D. Hunter · J. Johnson · D. Murray · T. Young
+5,2023-11-01,,,Box Score,,Washington Wizards,W,,130,121,3,2,S. Bey · C. Capela · D. Hunter · D. Murray · T. Young
+6,2023-11-04,,,Box Score,@,New Orleans Pelicans,W,,123,105,4,2,C. Capela · D. Hunter · J. Johnson · D. Murray · T. Young
+7,2023-11-06,,,Box Score,@,Oklahoma City Thunder,L,,117,126,4,3,C. Capela · D. Hunter · J. Johnson · D. Murray · T. Young
+8,2023-11-09,,,Box Score,@,Orlando Magic,W,,120,119,5,3,C. Capela · D. Hunter · J. Johnson · D. Murray · T. Young
+9,2023-11-11,,,Box Score,,Miami Heat,L,,109,117,5,4,C. Capela · D. Hunter · J. Johnson · D. Murray · T. Young
+10,2023-11-14,,,Box Score,@,Detroit Pistons,W,,126,120,6,4,B. Bogdanović · C. Capela · D. Hunter · J. Johnson · D. Murray
+11,2023-11-15,,,Box Score,,New York Knicks,L,,114,116,6,5,C. Capela · D. Hunter · J. Johnson · D. Murray · T. Young
+12,2023-11-17,,,Box Score,,Philadelphia 76ers,L,,116,126,6,6,C. Capela · D. Hunter · J. Johnson · D. Murray · T. Young
+13,2023-11-21,,,Box Score,,Indiana Pacers,L,,152,157,6,7,C. Capela · D. Hunter · J. Johnson · D. Murray · T. Young
+14,2023-11-22,,,Box Score,,Brooklyn Nets,W,OT,147,145,7,7,C. Capela · D. Hunter · J. Johnson · D. Murray · T. Young
+15,2023-11-25,,,Box Score,@,Washington Wizards,W,,136,108,8,7,C. Capela · D. Hunter · J. Johnson · D. Murray · T. Young
+16,2023-11-26,,,Box Score,@,Boston Celtics,L,,103,113,8,8,S. Bey · C. Capela · D. Hunter · D. Murray · T. Young
+17,2023-11-28,,,Box Score,@,Cleveland Cavaliers,L,,105,128,8,9,S. Bey · C. Capela · D. Hunter · D. Murray · T. Young
+18,2023-11-30,,,Box Score,@,San Antonio Spurs,W,,137,135,9,9,S. Bey · C. Capela · D. Hunter · D. Murray · T. Young
+19,2023-12-02,,,Box Score,@,Milwaukee Bucks,L,,121,132,9,10,S. Bey · C. Capela · D. Hunter · D. Murray · T. Young
+20,2023-12-06,,,Box Score,,Brooklyn Nets,L,,113,114,9,11,S. Bey · C. Capela · D. Hunter · D. Murray · T. Young
+21,2023-12-08,,,Box Score,@,Philadelphia 76ers,L,,114,125,9,12,S. Bey · B. Bogdanović · C. Capela · D. Hunter · D. Murray
+22,2023-12-11,,,Box Score,,Denver Nuggets,L,,122,129,9,13,S. Bey · C. Capela · G. Mathews · D. Murray · T. Young
+23,2023-12-13,,,Box Score,@,Toronto Raptors,L,,128,135,9,14,S. Bey · C. Capela · W. Matthews · D. Murray · T. Young
+24,2023-12-15,,,Box Score,@,Toronto Raptors,W,,125,104,10,14,S. Bey · C. Capela · D. Murray · O. Okongwu · T. Young
+25,2023-12-16,,,Box Score,@,Cleveland Cavaliers,L,,119,127,10,15,S. Bey · D. Hunter · D. Murray · O. Okongwu · T. Young
+26,2023-12-18,,,Box Score,,Detroit Pistons,W,,130,124,11,15,S. Bey · C. Capela · D. Hunter · D. Murray · T. Young
+27,2023-12-20,,,Box Score,@,Houston Rockets,W,,134,127,12,15,S. Bey · C. Capela · D. Hunter · D. Murray · T. Young
+28,2023-12-22,,,Box Score,@,Miami Heat,L,,113,122,12,16,S. Bey · C. Capela · G. Mathews · D. Murray · T. Young
+29,2023-12-23,,,Box Score,,Memphis Grizzlies,L,,119,125,12,17,S. Bey · C. Capela · G. Mathews · D. Murray · T. Young
+30,2023-12-26,,,Box Score,@,Chicago Bulls,L,,113,118,12,18,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+31,2023-12-29,,,Box Score,,Sacramento Kings,L,,110,117,12,19,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+32,2023-12-31,,,Box Score,@,Washington Wizards,W,,130,126,13,19,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+33,2024-01-03,,,Box Score,,Oklahoma City Thunder,W,,141,138,14,19,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+34,2024-01-05,,,Box Score,@,Indiana Pacers,L,,116,150,14,20,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+35,2024-01-07,,,Box Score,@,Orlando Magic,L,OT,110,117,14,21,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+36,2024-01-10,,,Box Score,,Philadelphia 76ers,W,OT,139,132,15,21,S. Bey · J. Johnson · D. Murray · O. Okongwu · T. Young
+37,2024-01-12,,,Box Score,,Indiana Pacers,L,,108,126,15,22,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+38,2024-01-13,,,Box Score,,Washington Wizards,L,,99,127,15,23,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+39,2024-01-15,,,Box Score,,San Antonio Spurs,W,,109,99,16,23,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+40,2024-01-17,,,Box Score,,Orlando Magic,W,,106,104,17,23,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+41,2024-01-19,,,Box Score,@,Miami Heat,W,,109,108,18,23,S. Bey · B. Bogdanović · C. Capela · J. Johnson · D. Murray
+42,2024-01-20,,,Box Score,,Cleveland Cavaliers,L,,95,116,18,24,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+43,2024-01-22,,,Box Score,@,Sacramento Kings,L,,107,122,18,25,S. Bey · B. Bogdanović · C. Capela · J. Johnson · D. Murray
+44,2024-01-24,,,Box Score,@,Golden State Warriors,L,,112,134,18,26,S. Bey · B. Bogdanović · C. Capela · J. Johnson · D. Murray
+45,2024-01-26,,,Box Score,,Dallas Mavericks,L,,143,148,18,27,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+46,2024-01-28,,,Box Score,,Toronto Raptors,W,,126,125,19,27,S. Bey · B. Bogdanović · C. Capela · J. Johnson · T. Young
+47,2024-01-30,,,Box Score,,Los Angeles Lakers,W,,138,122,20,27,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+48,2024-02-02,,,Box Score,,Phoenix Suns,W,,129,120,21,27,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+49,2024-02-03,,,Box Score,,Golden State Warriors,W,OT,141,134,22,27,C. Capela · J. Johnson · G. Mathews · D. Murray · T. Young
+50,2024-02-05,,,Box Score,,Los Angeles Clippers,L,,144,149,22,28,S. Bey · J. Johnson · D. Murray · O. Okongwu · T. Young
+51,2024-02-07,,,Box Score,@,Boston Celtics,L,,117,125,22,29,S. Bey · B. Bogdanović · J. Johnson · O. Okongwu · T. Young
+52,2024-02-09,,,Box Score,@,Philadelphia 76ers,W,,127,121,23,29,S. Bey · B. Bogdanović · J. Johnson · O. Okongwu · T. Young
+53,2024-02-10,,,Box Score,,Houston Rockets,W,,122,113,24,29,S. Bey · J. Johnson · D. Murray · O. Okongwu · T. Young
+54,2024-02-12,,,Box Score,,Chicago Bulls,L,,126,136,24,30,S. Bey · J. Johnson · D. Murray · O. Okongwu · T. Young
+55,2024-02-14,,,Box Score,@,Charlotte Hornets,L,,99,122,24,31,S. Bey · B. Fernando · J. Johnson · D. Murray · T. Young
+56,2024-02-23,,,Box Score,,Toronto Raptors,L,,121,123,24,32,S. Bey · C. Capela · J. Johnson · D. Murray · T. Young
+57,2024-02-25,,,Box Score,,Orlando Magic,W,,109,92,25,32,S. Bey · B. Bogdanović · C. Capela · J. Johnson · D. Murray
+58,2024-02-27,,,Box Score,,Utah Jazz,W,,124,97,26,32,S. Bey · B. Bogdanović · C. Capela · J. Johnson · D. Murray
+59,2024-02-29,,,Box Score,@,Brooklyn Nets,L,,97,124,26,33,S. Bey · B. Bogdanović · C. Capela · J. Johnson · D. Murray
+60,2024-03-02,,,Box Score,@,Brooklyn Nets,L,,102,114,26,34,S. Bey · B. Bogdanović · C. Capela · J. Johnson · D. Murray
+61,2024-03-05,,,Box Score,@,New York Knicks,W,,116,100,27,34,S. Bey · B. Bogdanović · C. Capela · J. Johnson · D. Murray
+62,2024-03-06,,,Box Score,,Cleveland Cavaliers,W,,112,101,28,34,S. Bey · B. Bogdanović · C. Capela · J. Johnson · D. Murray
+63,2024-03-08,,,Box Score,@,Memphis Grizzlies,W,,99,92,29,34,S. Bey · B. Bogdanović · C. Capela · V. Krejci · D. Murray
+64,2024-03-10,,,Box Score,,New Orleans Pelicans,L,,103,116,29,35,S. Bey · B. Bogdanović · C. Capela · V. Krejci · D. Murray
+65,2024-03-13,,,Box Score,@,Portland Trail Blazers,L,,102,106,29,36,B. Bogdanović · C. Capela · V. Krejci · W. Matthews · D. Murray
+66,2024-03-15,,,Box Score,@,Utah Jazz,L,,122,124,29,37,C. Capela · J. Johnson · V. Krejci · W. Matthews · D. Murray
+67,2024-03-17,,,Box Score,@,Los Angeles Clippers,W,,110,93,30,37,B. Bogdanović · C. Capela · J. Johnson · V. Krejci · D. Murray
+68,2024-03-18,,,Box Score,@,Los Angeles Lakers,L,,105,136,30,38,B. Bogdanović · C. Capela · J. Johnson · V. Krejci · D. Murray
+69,2024-03-21,,,Box Score,@,Phoenix Suns,L,,115,128,30,39,B. Bogdanović · C. Capela · D. Hunter · V. Krejci · D. Murray
+70,2024-03-23,,,Box Score,,Charlotte Hornets,W,,132,91,31,39,B. Bogdanović · C. Capela · D. Hunter · V. Krejci · D. Murray
+71,2024-03-25,,,Box Score,,Boston Celtics,W,,120,118,32,39,B. Bogdanović · C. Capela · D. Hunter · V. Krejci · D. Murray
+72,2024-03-27,,,Box Score,,Portland Trail Blazers,W,,120,106,33,39,B. Bogdanović · C. Capela · D. Hunter · V. Krejci · D. Murray
+73,2024-03-28,,,Box Score,,Boston Celtics,W,OT,123,122,34,39,B. Bogdanović · C. Capela · D. Hunter · V. Krejci · D. Murray
+74,2024-03-30,,,Box Score,,Milwaukee Bucks,L,,113,122,34,40,B. Bogdanović · C. Capela · D. Hunter · V. Krejci · D. Murray
+75,2024-04-01,,,Box Score,@,Chicago Bulls,W,,113,101,35,40,B. Bogdanović · C. Capela · D. Hunter · V. Krejci · D. Murray
+76,2024-04-03,,,Box Score,,Detroit Pistons,W,,121,113,36,40,B. Bogdanović · C. Capela · D. Hunter · J. Johnson · D. Murray
+77,2024-04-04,,,Box Score,@,Dallas Mavericks,L,,95,109,36,41,B. Bogdanović · C. Capela · D. Hunter · J. Johnson · D. Murray
+78,2024-04-06,,,Box Score,@,Denver Nuggets,L,,110,142,36,42,B. Bogdanović · C. Capela · D. Hunter · J. Johnson · D. Murray
+79,2024-04-09,,,Box Score,,Miami Heat,L,2OT,111,117,36,43,B. Bogdanović · C. Capela · D. Hunter · J. Johnson · D. Murray
+80,2024-04-10,,,Box Score,,Charlotte Hornets,L,,114,115,36,44,B. Bogdanović · C. Capela · V. Krejci · G. Mathews · T. Young
+81,2024-04-12,,,Box Score,@,Minnesota Timberwolves,L,,106,109,36,45,B. Bogdanović · C. Capela · D. Hunter · D. Murray · T. Young
+82,2024-04-14,,,Box Score,@,Indiana Pacers,L,,115,157,36,46,B. Bogdanović · B. Fernando · D. Hunter · D. Murray · T. Young

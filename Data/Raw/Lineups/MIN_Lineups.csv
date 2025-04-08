@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-25,,,Box Score,@,Toronto Raptors,L,,94,97,0,1,N. Alexander-Walker · M. Conley · A. Edwards · R. Gobert · K. Towns
+2,2023-10-28,,,Box Score,,Miami Heat,W,,106,90,1,1,N. Alexander-Walker · M. Conley · A. Edwards · R. Gobert · K. Towns
+3,2023-10-30,,,Box Score,@,Atlanta Hawks,L,,113,127,1,2,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+4,2023-11-01,,,Box Score,,Denver Nuggets,W,,110,89,2,2,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+5,2023-11-04,,,Box Score,,Utah Jazz,W,,123,95,3,2,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+6,2023-11-06,,,Box Score,,Boston Celtics,W,OT,114,109,4,2,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+7,2023-11-08,,,Box Score,,New Orleans Pelicans,W,,122,101,5,2,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+8,2023-11-10,,,Box Score,@,San Antonio Spurs,W,,117,110,6,2,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+9,2023-11-12,,,Box Score,@,Golden State Warriors,W,,116,110,7,2,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+10,2023-11-14,,,Box Score,@,Golden State Warriors,W,,104,101,8,2,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+11,2023-11-15,,,Box Score,@,Phoenix Suns,L,,115,133,8,3,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+12,2023-11-18,,,Box Score,@,New Orleans Pelicans,W,,121,120,9,3,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+13,2023-11-20,,,Box Score,,New York Knicks,W,,117,100,10,3,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+14,2023-11-22,,,Box Score,,Philadelphia 76ers,W,,112,99,11,3,N. Alexander-Walker · M. Conley · A. Edwards · R. Gobert · K. Towns
+15,2023-11-24,,,Box Score,,Sacramento Kings,L,,111,124,11,4,N. Alexander-Walker · M. Conley · A. Edwards · R. Gobert · K. Towns
+16,2023-11-26,,,Box Score,@,Memphis Grizzlies,W,,119,97,12,4,N. Alexander-Walker · M. Conley · A. Edwards · R. Gobert · K. Towns
+17,2023-11-28,,,Box Score,,Oklahoma City Thunder,W,,106,103,13,4,N. Alexander-Walker · M. Conley · A. Edwards · R. Gobert · K. Towns
+18,2023-11-30,,,Box Score,,Utah Jazz,W,,101,90,14,4,N. Alexander-Walker · T. Brown · M. Conley · R. Gobert · K. Towns
+19,2023-12-02,,,Box Score,@,Charlotte Hornets,W,,123,117,15,4,N. Alexander-Walker · T. Brown · M. Conley · R. Gobert · K. Towns
+20,2023-12-06,,,Box Score,,San Antonio Spurs,W,,102,94,16,4,N. Alexander-Walker · M. Conley · A. Edwards · R. Gobert · K. Towns
+21,2023-12-08,,,Box Score,@,Memphis Grizzlies,W,,127,103,17,4,N. Alexander-Walker · M. Conley · A. Edwards · R. Gobert · K. Towns
+22,2023-12-11,,,Box Score,@,New Orleans Pelicans,L,,107,121,17,5,N. Alexander-Walker · T. Brown · M. Conley · R. Gobert · K. Towns
+23,2023-12-14,,,Box Score,@,Dallas Mavericks,W,,119,101,18,5,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+24,2023-12-16,,,Box Score,,Indiana Pacers,W,,127,109,19,5,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+25,2023-12-18,,,Box Score,@,Miami Heat,W,,112,108,20,5,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+26,2023-12-20,,,Box Score,@,Philadelphia 76ers,L,,113,127,20,6,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+27,2023-12-21,,,Box Score,,Los Angeles Lakers,W,,118,111,21,6,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+28,2023-12-23,,,Box Score,@,Sacramento Kings,W,,110,98,22,6,K. Anderson · M. Conley · A. Edwards · R. Gobert · J. McDaniels
+29,2023-12-26,,,Box Score,@,Oklahoma City Thunder,L,,106,129,22,7,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+30,2023-12-28,,,Box Score,,Dallas Mavericks,W,,118,110,23,7,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+31,2023-12-30,,,Box Score,,Los Angeles Lakers,W,,108,106,24,7,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+32,2024-01-01,,,Box Score,@,New York Knicks,L,,106,112,24,8,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+33,2024-01-03,,,Box Score,,New Orleans Pelicans,L,,106,117,24,9,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+34,2024-01-05,,,Box Score,@,Houston Rockets,W,,122,95,25,9,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+35,2024-01-07,,,Box Score,@,Dallas Mavericks,L,,108,115,25,10,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+36,2024-01-09,,,Box Score,@,Orlando Magic,W,,113,92,26,10,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+37,2024-01-10,,,Box Score,@,Boston Celtics,L,OT,120,127,26,11,N. Alexander-Walker · K. Anderson · A. Edwards · J. McDaniels · K. Towns
+38,2024-01-12,,,Box Score,,Portland Trail Blazers,W,,116,93,27,11,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+39,2024-01-14,,,Box Score,,Los Angeles Clippers,W,,109,105,28,11,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+40,2024-01-17,,,Box Score,@,Detroit Pistons,W,,124,117,29,11,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+41,2024-01-18,,,Box Score,,Memphis Grizzlies,W,,118,103,30,11,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+42,2024-01-20,,,Box Score,,Oklahoma City Thunder,L,,97,102,30,12,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+43,2024-01-22,,,Box Score,,Charlotte Hornets,L,,125,128,30,13,N. Alexander-Walker · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+44,2024-01-24,,,Box Score,@,Washington Wizards,W,,118,107,31,13,N. Alexander-Walker · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+45,2024-01-25,,,Box Score,@,Brooklyn Nets,W,,96,94,32,13,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+46,2024-01-27,,,Box Score,@,San Antonio Spurs,L,,112,113,32,14,N. Alexander-Walker · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+47,2024-01-29,,,Box Score,@,Oklahoma City Thunder,W,,107,101,33,14,N. Alexander-Walker · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+48,2024-01-31,,,Box Score,,Dallas Mavericks,W,,121,87,34,14,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+49,2024-02-02,,,Box Score,,Orlando Magic,L,,106,108,34,15,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+50,2024-02-04,,,Box Score,,Houston Rockets,W,,111,90,35,15,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+51,2024-02-06,,,Box Score,@,Chicago Bulls,L,OT,123,129,35,16,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+52,2024-02-08,,,Box Score,@,Milwaukee Bucks,W,,129,105,36,16,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+53,2024-02-12,,,Box Score,@,Los Angeles Clippers,W,,121,100,37,16,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+54,2024-02-13,,,Box Score,@,Portland Trail Blazers,W,,121,109,38,16,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+55,2024-02-15,,,Box Score,@,Portland Trail Blazers,W,,128,91,39,16,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+56,2024-02-23,,,Box Score,,Milwaukee Bucks,L,,107,112,39,17,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+57,2024-02-24,,,Box Score,,Brooklyn Nets,W,,101,86,40,17,K. Anderson · M. Conley · A. Edwards · J. McDaniels · K. Towns
+58,2024-02-27,,,Box Score,,San Antonio Spurs,W,,114,105,41,17,K. Anderson · M. Conley · A. Edwards · R. Gobert · J. McDaniels
+59,2024-02-28,,,Box Score,,Memphis Grizzlies,W,,110,101,42,17,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+60,2024-03-01,,,Box Score,,Sacramento Kings,L,OT,120,124,42,18,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+61,2024-03-03,,,Box Score,,Los Angeles Clippers,L,,88,89,42,19,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+62,2024-03-04,,,Box Score,,Portland Trail Blazers,W,,119,114,43,19,N. Alexander-Walker · M. Conley · R. Gobert · J. McDaniels · K. Towns
+63,2024-03-07,,,Box Score,@,Indiana Pacers,W,,113,111,44,19,K. Anderson · M. Conley · A. Edwards · R. Gobert · J. McDaniels
+64,2024-03-08,,,Box Score,@,Cleveland Cavaliers,L,OT,104,113,44,20,K. Anderson · M. Conley · A. Edwards · R. Gobert · J. McDaniels
+65,2024-03-10,,,Box Score,@,Los Angeles Lakers,L,,109,120,44,21,N. Alexander-Walker · M. Conley · A. Edwards · J. McDaniels · N. Reid
+66,2024-03-12,,,Box Score,@,Los Angeles Clippers,W,,118,100,45,21,K. Anderson · M. Conley · A. Edwards · R. Gobert · J. McDaniels
+67,2024-03-16,,,Box Score,@,Utah Jazz,W,,119,100,46,21,K. Anderson · M. Conley · A. Edwards · J. McDaniels · N. Reid
+68,2024-03-18,,,Box Score,@,Utah Jazz,W,,114,104,47,21,K. Anderson · M. Conley · A. Edwards · J. McDaniels · N. Reid
+69,2024-03-19,,,Box Score,,Denver Nuggets,L,,112,115,47,22,N. Alexander-Walker · K. Anderson · M. Conley · A. Edwards · J. McDaniels
+70,2024-03-22,,,Box Score,,Cleveland Cavaliers,W,,104,91,48,22,M. Conley · A. Edwards · R. Gobert · J. McDaniels · N. Reid
+71,2024-03-24,,,Box Score,,Golden State Warriors,W,,114,110,49,22,M. Conley · A. Edwards · R. Gobert · J. McDaniels · N. Reid
+72,2024-03-27,,,Box Score,,Detroit Pistons,W,,106,91,50,22,M. Conley · A. Edwards · R. Gobert · J. McDaniels · N. Reid
+73,2024-03-29,,,Box Score,@,Denver Nuggets,W,,111,98,51,22,M. Conley · A. Edwards · R. Gobert · J. McDaniels · N. Reid
+74,2024-03-31,,,Box Score,,Chicago Bulls,L,,101,109,51,23,M. Conley · A. Edwards · R. Gobert · J. McDaniels · N. Reid
+75,2024-04-02,,,Box Score,,Houston Rockets,W,,113,106,52,23,M. Conley · A. Edwards · R. Gobert · J. McDaniels · N. Reid
+76,2024-04-03,,,Box Score,,Toronto Raptors,W,,133,85,53,23,N. Alexander-Walker · A. Edwards · R. Gobert · J. McDaniels · N. Reid
+77,2024-04-05,,,Box Score,@,Phoenix Suns,L,,87,97,53,24,M. Conley · A. Edwards · R. Gobert · J. McDaniels · N. Reid
+78,2024-04-07,,,Box Score,@,Los Angeles Lakers,W,,127,117,54,24,M. Conley · A. Edwards · R. Gobert · J. McDaniels · N. Reid
+79,2024-04-09,,,Box Score,,Washington Wizards,W,,130,121,55,24,M. Conley · A. Edwards · R. Gobert · J. McDaniels · N. Reid
+80,2024-04-10,,,Box Score,@,Denver Nuggets,L,,107,116,55,25,M. Conley · A. Edwards · R. Gobert · J. McDaniels · N. Reid
+81,2024-04-12,,,Box Score,,Atlanta Hawks,W,,109,106,56,25,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns
+82,2024-04-14,,,Box Score,,Phoenix Suns,L,,106,125,56,26,M. Conley · A. Edwards · R. Gobert · J. McDaniels · K. Towns

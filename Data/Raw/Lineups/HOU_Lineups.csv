@@ -1,0 +1,83 @@
+G,Date,,,,,Opponent,,,Tm,Opp,W,L,Starting Lineup
+1,2023-10-25,,,Box Score,@,Orlando Magic,L,,86,116,0,1,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+2,2023-10-27,,,Box Score,@,San Antonio Spurs,L,OT,122,126,0,2,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+3,2023-10-29,,,Box Score,,Golden State Warriors,L,,95,106,0,3,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+4,2023-11-01,,,Box Score,,Charlotte Hornets,W,,128,119,1,3,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+5,2023-11-04,,,Box Score,,Sacramento Kings,W,,107,89,2,3,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+6,2023-11-06,,,Box Score,,Sacramento Kings,W,,122,97,3,3,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+7,2023-11-08,,,Box Score,,Los Angeles Lakers,W,,128,94,4,3,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+8,2023-11-10,,,Box Score,,New Orleans Pelicans,W,,104,101,5,3,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+9,2023-11-12,,,Box Score,,Denver Nuggets,W,,107,104,6,3,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+10,2023-11-17,,,Box Score,@,Los Angeles Clippers,L,,100,106,6,4,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+11,2023-11-19,,,Box Score,@,Los Angeles Lakers,L,,104,105,6,5,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+12,2023-11-20,,,Box Score,@,Golden State Warriors,L,,116,121,6,6,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+13,2023-11-22,,,Box Score,,Memphis Grizzlies,W,,111,91,7,6,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+14,2023-11-24,,,Box Score,,Denver Nuggets,W,,105,86,8,6,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+15,2023-11-28,,,Box Score,@,Dallas Mavericks,L,,115,121,8,7,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+16,2023-11-29,,,Box Score,@,Denver Nuggets,L,,124,134,8,8,D. Brooks · J. Green · A. Holiday · A. Şengün · J. Smith
+17,2023-12-02,,,Box Score,@,Los Angeles Lakers,L,,97,107,8,9,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+18,2023-12-06,,,Box Score,,Oklahoma City Thunder,W,,110,101,9,9,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+19,2023-12-08,,,Box Score,@,Denver Nuggets,W,,114,106,10,9,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+20,2023-12-11,,,Box Score,,San Antonio Spurs,W,,93,82,11,9,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+21,2023-12-13,,,Box Score,,Memphis Grizzlies,W,,117,104,12,9,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+22,2023-12-15,,,Box Score,@,Memphis Grizzlies,W,,103,96,13,9,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+23,2023-12-17,,,Box Score,@,Milwaukee Bucks,L,,119,128,13,10,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+24,2023-12-18,,,Box Score,@,Cleveland Cavaliers,L,OT,130,135,13,11,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+25,2023-12-20,,,Box Score,,Atlanta Hawks,L,,127,134,13,12,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+26,2023-12-22,,,Box Score,,Dallas Mavericks,W,,122,96,14,12,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+27,2023-12-23,,,Box Score,@,New Orleans Pelicans,W,,106,104,15,12,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+28,2023-12-26,,,Box Score,,Indiana Pacers,L,,117,123,15,13,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+29,2023-12-27,,,Box Score,,Phoenix Suns,L,,113,129,15,14,J. Green · A. Şengün · J. Smith · J. Tate · F. VanVleet
+30,2023-12-29,,,Box Score,,Philadelphia 76ers,L,,127,131,15,15,J. Green · J. Green · A. Şengün · J. Tate · F. VanVleet
+31,2024-01-01,,,Box Score,,Detroit Pistons,W,,136,113,16,15,J. Green · A. Şengün · J. Smith · J. Tate · F. VanVleet
+32,2024-01-03,,,Box Score,,Brooklyn Nets,W,,112,101,17,15,J. Green · A. Şengün · J. Smith · J. Tate · F. VanVleet
+33,2024-01-05,,,Box Score,,Minnesota Timberwolves,L,,95,122,17,16,J. Green · A. Şengün · J. Smith · J. Tate · F. VanVleet
+34,2024-01-06,,,Box Score,,Milwaukee Bucks,W,,112,108,18,16,J. Green · A. Şengün · J. Smith · J. Tate · F. VanVleet
+35,2024-01-08,,,Box Score,@,Miami Heat,L,,113,120,18,17,J. Green · A. Şengün · J. Smith · J. Tate · F. VanVleet
+36,2024-01-10,,,Box Score,@,Chicago Bulls,L,OT,119,124,18,18,J. Green · A. Şengün · J. Smith · J. Tate · F. VanVleet
+37,2024-01-12,,,Box Score,@,Detroit Pistons,W,,112,110,19,18,J. Green · A. Şengün · J. Smith · J. Tate · F. VanVleet
+38,2024-01-13,,,Box Score,@,Boston Celtics,L,,113,145,19,19,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+39,2024-01-15,,,Box Score,@,Philadelphia 76ers,L,,115,124,19,20,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+40,2024-01-17,,,Box Score,@,New York Knicks,L,,94,109,19,21,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+41,2024-01-20,,,Box Score,,Utah Jazz,W,OT,127,126,20,21,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+42,2024-01-21,,,Box Score,,Boston Celtics,L,,107,116,20,22,D. Brooks · J. Green · A. Şengün · A. Thompson · C. Whitmore
+43,2024-01-24,,,Box Score,,Portland Trail Blazers,L,OT,131,137,20,23,D. Brooks · J. Green · J. Green · A. Şengün · F. VanVleet
+44,2024-01-26,,,Box Score,@,Charlotte Hornets,W,,138,104,21,23,D. Brooks · J. Green · J. Green · A. Şengün · F. VanVleet
+45,2024-01-27,,,Box Score,@,Brooklyn Nets,L,,104,106,21,24,D. Brooks · J. Green · J. Green · A. Şengün · F. VanVleet
+46,2024-01-29,,,Box Score,,Los Angeles Lakers,W,,135,119,22,24,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+47,2024-01-31,,,Box Score,,New Orleans Pelicans,L,,99,110,22,25,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+48,2024-02-02,,,Box Score,,Toronto Raptors,W,,135,106,23,25,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+49,2024-02-04,,,Box Score,@,Minnesota Timberwolves,L,,90,111,23,26,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+50,2024-02-06,,,Box Score,@,Indiana Pacers,L,,129,132,23,27,D. Brooks · J. Green · A. Şengün · J. Smith · A. Thompson
+51,2024-02-09,,,Box Score,@,Toronto Raptors,L,,104,107,23,28,D. Brooks · J. Green · A. Şengün · J. Smith · A. Thompson
+52,2024-02-10,,,Box Score,@,Atlanta Hawks,L,,113,122,23,29,D. Brooks · J. Green · J. Green · J. Smith · A. Thompson
+53,2024-02-12,,,Box Score,,New York Knicks,W,,105,103,24,29,D. Brooks · J. Green · A. Şengün · J. Smith · A. Thompson
+54,2024-02-14,,,Box Score,@,Memphis Grizzlies,L,,113,121,24,30,D. Brooks · J. Green · A. Şengün · J. Smith · A. Thompson
+55,2024-02-22,,,Box Score,@,New Orleans Pelicans,L,,105,127,24,31,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+56,2024-02-23,,,Box Score,,Phoenix Suns,W,,114,110,25,31,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+57,2024-02-25,,,Box Score,,Oklahoma City Thunder,L,,110,123,25,32,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+58,2024-02-27,,,Box Score,@,Oklahoma City Thunder,L,,95,112,25,33,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+59,2024-02-29,,,Box Score,@,Phoenix Suns,L,,105,110,25,34,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+60,2024-03-02,,,Box Score,@,Phoenix Suns,W,,118,109,26,34,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+61,2024-03-05,,,Box Score,,San Antonio Spurs,W,,114,101,27,34,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+62,2024-03-06,,,Box Score,,Los Angeles Clippers,L,,116,122,27,35,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+63,2024-03-08,,,Box Score,@,Portland Trail Blazers,W,,123,107,28,35,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+64,2024-03-10,,,Box Score,@,Sacramento Kings,W,,112,104,29,35,D. Brooks · J. Green · A. Şengün · J. Smith · F. VanVleet
+65,2024-03-12,,,Box Score,@,San Antonio Spurs,W,,103,101,30,35,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+66,2024-03-14,,,Box Score,,Washington Wizards,W,,135,119,31,35,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+67,2024-03-16,,,Box Score,,Cleveland Cavaliers,W,,117,103,32,35,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+68,2024-03-19,,,Box Score,@,Washington Wizards,W,,137,114,33,35,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+69,2024-03-21,,,Box Score,,Chicago Bulls,W,,127,117,34,35,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+70,2024-03-23,,,Box Score,,Utah Jazz,W,,147,119,35,35,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+71,2024-03-25,,,Box Score,,Portland Trail Blazers,W,,110,92,36,35,D. Brooks · J. Green · J. Landale · A. Thompson · F. VanVleet
+72,2024-03-27,,,Box Score,@,Oklahoma City Thunder,W,OT,132,126,37,35,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+73,2024-03-29,,,Box Score,@,Utah Jazz,W,,101,100,38,35,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+74,2024-03-31,,,Box Score,,Dallas Mavericks,L,,107,125,38,36,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+75,2024-04-02,,,Box Score,@,Minnesota Timberwolves,L,,106,113,38,37,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+76,2024-04-04,,,Box Score,,Golden State Warriors,L,,110,133,38,38,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+77,2024-04-05,,,Box Score,,Miami Heat,L,,104,119,38,39,D. Brooks · J. Green · J. Green · J. Smith · F. VanVleet
+78,2024-04-07,,,Box Score,@,Dallas Mavericks,L,OT,136,147,38,40,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+79,2024-04-09,,,Box Score,,Orlando Magic,W,,118,106,39,40,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+80,2024-04-11,,,Box Score,@,Utah Jazz,L,,121,124,39,41,D. Brooks · J. Green · J. Smith · A. Thompson · F. VanVleet
+81,2024-04-12,,,Box Score,@,Portland Trail Blazers,W,,116,107,40,41,D. Brooks · J. Green · J. Landale · J. Smith · A. Thompson
+82,2024-04-14,,,Box Score,@,Los Angeles Clippers,W,,116,105,41,41,J. Green · J. Landale · J. Smith · A. Thompson · C. Whitmore

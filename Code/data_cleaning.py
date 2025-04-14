@@ -18,7 +18,7 @@ player_mapping = {
     "D. Schröder": "D. Schroder"
 }
 
-files = ["2019-2020_Season.csv", "2020-2021_Season.csv", "2021-2022_Season.csv", "2022-2023_Season.csv"]
+files = ["2017-2018_Season.csv", "2018-2019_Season.csv", "2019-2020_Season.csv", "2020-2021_Season.csv", "2021-2022_Season.csv", "2022-2023_Season.csv"]
 
 def remove_non_ascii(val):
     if isinstance(val, str):
@@ -48,12 +48,40 @@ for file in files:
     df.to_csv(new_path, index=False)
 
 months = ["Oct","Nov","Dec","Jan","Feb","Mar","Apr"]
-df_2023_2024 = pd.DataFrame(columns=["Month","Day","Away","Away_Pts","Home","Home_Pts"])
+years = ["2021-2022_","2022-2023_","2023-2024_"]
+
+for year in years:
+    new_df = pd.DataFrame(columns=["Month","Day","Away","Away_Pts","Home","Home_Pts"])
+    for month in months:
+        # Get the dataset
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        new_path = os.path.join(script_dir, os.pardir, "Data/Raw/Team Stats", year + month + ".csv")
+        new_path = os.path.abspath(new_path)
+        df = pd.read_csv(new_path)
+
+        # Clean the data
+        df = df.iloc[:,0:6]
+        df = df.drop(columns="Start (ET)")
+        df = df.rename(columns={"Visitor/Neutral": "Away", "PTS": "Away_Pts", "Home/Neutral": "Home", "PTS.1": "Home_Pts"})
+        df["Away"] = df["Away"].apply(lambda x: team_mapping.map_team(x))
+        df["Home"] = df["Home"].apply(lambda x: team_mapping.map_team(x))
+        df[["Week_Day", "Month", "Day", "Year"]] = df["Date"].str.split(' ', expand=True)
+        df = df.drop(columns=["Date", "Week_Day", "Year"])
+        new_df = pd.concat([new_df, df])
+        new_df["Game_Outcome"] = new_df.apply(lambda row: "Home" if row["Home_Pts"] > row["Away_Pts"] else "Away", axis=1)
+
+    # Export the cleaned csv
+    new_path = os.path.join(script_dir, os.pardir, "Data/Cleaned/Team Stats", year + "Games.csv")
+    new_path = os.path.abspath(new_path)
+    new_df.to_csv(new_path, index=False)
+
+months = ["Dec","Jan","Feb","Mar","Apr","May"]
+new_df = pd.DataFrame(columns=["Month","Day","Away","Away_Pts","Home","Home_Pts"])
 
 for month in months:
     # Get the dataset
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    new_path = os.path.join(script_dir, os.pardir, "Data/Raw/Team Stats", "2023-2024_" + month + ".csv")
+    new_path = os.path.join(script_dir, os.pardir, "Data/Raw/Team Stats", "2020-2021_" + month + ".csv")
     new_path = os.path.abspath(new_path)
     df = pd.read_csv(new_path)
 
@@ -65,12 +93,13 @@ for month in months:
     df["Home"] = df["Home"].apply(lambda x: team_mapping.map_team(x))
     df[["Week_Day", "Month", "Day", "Year"]] = df["Date"].str.split(' ', expand=True)
     df = df.drop(columns=["Date", "Week_Day", "Year"])
-    df_2023_2024 = pd.concat([df_2023_2024, df])
+    new_df = pd.concat([new_df, df])
+    new_df["Game_Outcome"] = new_df.apply(lambda row: "Home" if row["Home_Pts"] > row["Away_Pts"] else "Away", axis=1)
 
 # Export the cleaned csv
-new_path = os.path.join(script_dir, os.pardir, "Data/Cleaned/Team Stats", "2023-2024_Games.csv")
+new_path = os.path.join(script_dir, os.pardir, "Data/Cleaned/Team Stats", "2020-2021_" + "Games.csv")
 new_path = os.path.abspath(new_path)
-df_2023_2024.to_csv(new_path, index=False)
+new_df.to_csv(new_path, index=False)
 
 teams = ["ATL","BOS","BRK","CHI","CHO","CLE","DAL","DEN","DET","GSW","HOU","IND","LAC","LAL","MEM","MIA","MIL","MIN","NOP","NYK","OKC","ORL","PHI","PHO","POR","SAC","SAS","TOR","UTA","WAS"]
 

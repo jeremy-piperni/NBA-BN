@@ -1,20 +1,7 @@
 import numpy as np
 import pandas as pd
 import os
-
-def bin_wins(wins):
-    if wins < 21:
-        return "Very Low"
-    elif 21 <= wins < 31:
-        return "Low"
-    elif 31 <= wins < 41:
-        return "Medium Low"
-    elif 41 <= wins < 51:
-        return "Medium High"
-    elif 51 <= wins < 61:
-        return "High"
-    else:
-        return "Very High"
+from season_parser import parse_season
 
 # Get the 2018-2019 season dataset
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -88,12 +75,8 @@ df_train_2021 = df_train_2021.rename(columns={
     "Team": "Home",
     "Wins": "Home_Wins_Third_Last"
 })
-df_train_2021 = df_train_2021[["Home_Wins_Last","Away_Wins_Last","Home_Wins_Second_Last","Away_Wins_Second_Last","Home_Wins_Third_Last","Away_Wins_Third_Last","Game_Outcome"]]
+df_train_2021 = df_train_2021[["Home","Away","Home_Wins_Last","Away_Wins_Last","Home_Wins_Second_Last","Away_Wins_Second_Last","Home_Wins_Third_Last","Away_Wins_Third_Last","Game_Outcome"]]
 
 df_train_2021["Game_Outcome"] = df_train_2021.apply(lambda row: 1 if row["Game_Outcome"] == "Home" else 0, axis=1)
-#df_train_2021["Home_Wins_Last"] = df_train_2021["Home_Wins_Last"].apply(bin_wins)
-#df_train_2021["Away_Wins_Last"] = df_train_2021["Away_Wins_Last"].apply(bin_wins)
-#df_train_2021["Home_Wins_Second_Last"] = df_train_2021["Home_Wins_Second_Last"].apply(bin_wins)
-#df_train_2021["Away_Wins_Second_Last"] = df_train_2021["Away_Wins_Second_Last"].apply(bin_wins)
-#df_train_2021["Home_Wins_Third_Last"] = df_train_2021["Home_Wins_Third_Last"].apply(bin_wins)
-#df_train_2021["Away_Wins_Third_Last"] = df_train_2021["Away_Wins_Third_Last"].apply(bin_wins)
+
+df_train_2021 = parse_season(df_train_2021, "2021-2022")

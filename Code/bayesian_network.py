@@ -1,96 +1,165 @@
 import numpy as np
 import pandas as pd
-import os
 from pgmpy.models import DiscreteBayesianNetwork
-from pgmpy.estimators import BayesianEstimator
+from pgmpy.estimators import MaximumLikelihoodEstimator
 from pgmpy.inference import VariableElimination
 from training_2022 import df_train_2022
 from training_2021 import df_train_2021
 from training_2020 import df_train_2020
+from testing_2023 import df_test_2023
 
-'''
-def bin_wins(wins):
-    if wins < 21:
-        return "Very Low"
-    elif 21 <= wins < 31:
-        return "Low"
-    elif 31 <= wins < 41:
-        return "Medium Low"
-    elif 41 <= wins < 51:
-        return "Medium High"
-    elif 51 <= wins < 61:
-        return "High"
-    else:
-        return "Very High"
-'''
-def bin_wins(wins):
-    if wins < 21:
-        return 0
-    elif 21 <= wins < 31:
-        return 1
-    elif 31 <= wins < 41:
-        return 2
-    elif 41 <= wins < 51:
-        return 3
-    elif 51 <= wins < 61:
-        return 4
-    else:
-        return 5
+def bin_previous_wins(wins, bins):
+    if bins == 3:
+        if wins < 35:
+            return "Low"
+        elif 35 <= wins < 49:
+            return "Medium"
+        else:
+            return "High"
 
+def bin_fatigue(days, bins):
+    if bins == 3:
+        if days == 1:
+            return "High"
+        elif days == 2:
+            return "Medium"
+        else:
+            return "Low"
+
+def bin_streak(streak, bins):
+    if bins == 3:
+        if streak < -1:
+            return "Bad"
+        elif -1 <= streak < 2:
+            return "Medium"
+        else:
+            return "Good"
+        
+def bin_head_to_head(win_perc, bins):
+    if bins == 3:
+        if win_perc < .34:
+            return "Bad"
+        elif .33 <= win_perc < .66:
+            return "Medium"
+        else:
+            return "Good"
+        
+def bin_current_wins(win_perc, bins):
+    if bins == 3:
+        if win_perc < 0.448:
+            return "Bad"
+        elif .448 <= win_perc < 0.56:
+            return "Medium"
+        else:
+            return "Good"
+
+num_bins = 3
 
 train_df = pd.concat([df_train_2020, df_train_2021, df_train_2022])
-train_df = train_df.reset_index()
+train_df = train_df.reset_index(drop=True)
 
-'''
-assert set(["Home_Wins_Last", "Home_Wins_Second_Last", "Home_Wins_Third_Last", "Away_Wins_Last", "Away_Wins_Second_Last", "Away_Wins_Third_Last", "Game_Outcome"]).issubset(train_df.columns)
+train_df["Win_Only_Temp"] = train_df.apply(lambda row: 1 if row["Home_Current_Wins"] >= row["Away_Current_Wins"] else 0, axis=1)
+train_df["Win_Only"] = train_df.apply(lambda row: 1 if row["Game_Outcome"] == row["Win_Only_Temp"] else 0, axis=1)
+print("Win only Accuracy: " + str(train_df["Win_Only"].mean() * 100))
 
-train_df["Home_Wins_Last"]= train_df["Home_Wins_Last"].astype(pd.CategoricalDtype(categories=range(83)))
-train_df["Home_Wins_Second_Last"]= train_df["Home_Wins_Second_Last"].astype(pd.CategoricalDtype(categories=range(83)))
-train_df["Home_Wins_Third_Last"]= train_df["Home_Wins_Third_Last"].astype(pd.CategoricalDtype(categories=range(83)))
-train_df["Away_Wins_Last"]= train_df["Away_Wins_Last"].astype(pd.CategoricalDtype(categories=range(83)))
-train_df["Away_Wins_Second_Last"]= train_df["Away_Wins_Second_Last"].astype(pd.CategoricalDtype(categories=range(83)))
-train_df["Away_Wins_Third_Last"]= train_df["Away_Wins_Third_Last"].astype(pd.CategoricalDtype(categories=range(83)))
-train_df["Game_Outcome"] = train_df["Game_Outcome"].astype("category")
-'''
-
-cols_to_transform = train_df.columns[train_df.columns != "Game_Outcome"]
-train_df[cols_to_transform] = train_df[cols_to_transform].applymap(bin_wins)
-
-print(train_df)
-
-state_names = {
-    "Home_Wins_Last": list(range(6)),
-    "Home_Wins_Second_Last": list(range(6)),
-    "Home_Wins_Third_Last": list(range(6)),
-    "Away_Wins_Last": list(range(6)),
-    "Away_Wins_Second_Last": list(range(6)),
-    "Away_Wins_Third_Last": list(range(6)),
-    "Game_Outcome": [0, 1]
-}
+cols_to_map = ["Home_Wins_Last","Away_Wins_Last","Home_Wins_Second_Last","Away_Wins_Second_Last","Home_Wins_Third_Last","Away_Wins_Third_Last"]
+train_df[cols_to_map] = train_df[cols_to_map].map(lambda x: bin_previous_wins(x, num_bins))
+cols_to_map = ["Home_Fatigue", "Away_Fatigue"]
+train_df[cols_to_map] = train_df[cols_to_map].map(lambda x: bin_fatigue(x, num_bins))
+cols_to_map = ["Home_Streak", "Away_Streak"]
+train_df[cols_to_map] = train_df[cols_to_map].map(lambda x: bin_streak(x, num_bins))
+cols_to_map = ["Home_Wins_Against", "Away_Wins_Against"]
+train_df[cols_to_map] = train_df[cols_to_map].map(lambda x: bin_head_to_head(x, num_bins))
+cols_to_map = ["Home_Current_Wins", "Away_Current_Wins"]
+train_df[cols_to_map] = train_df[cols_to_map].map(lambda x: bin_current_wins(x, num_bins))
 
 model = DiscreteBayesianNetwork([
     ("Home_Wins_Last", "Game_Outcome"),
-    ("Home_Wins_Second_Last", "Game_Outcome"),
-    ("Home_Wins_Third_Last", "Game_Outcome"),
     ("Away_Wins_Last", "Game_Outcome"),
+    ("Home_Wins_Second_Last", "Game_Outcome"),
     ("Away_Wins_Second_Last", "Game_Outcome"),
-    ("Away_Wins_Third_Last", "Game_Outcome")
+    ("Home_Wins_Third_Last", "Game_Outcome"),
+    ("Away_Wins_Third_Last", "Game_Outcome"),
+    ("Home_Fatigue", "Game_Outcome"),
+    ("Away_Fatigue", "Game_Outcome"),
+    ("Home_Streak", "Game_Outcome"),
+    ("Away_Streak", "Game_Outcome"),
+    ("Home_Wins_Against", "Game_Outcome"),
+    ("Away_Wins_Against", "Game_Outcome"),
+    ("Home_Current_Wins", "Game_Outcome"),
+    ("Away_Current_Wins", "Game_Outcome")
 ])
 
-model.fit(data=train_df, estimator=BayesianEstimator, prior_type="dirichlet", pseudo_counts=1, state_names=state_names)
+model.fit(data=train_df, estimator=MaximumLikelihoodEstimator)
+results = pd.DataFrame(columns=["Game_Outcome","Probability_Home","Probability_Away"])
 
 infer = VariableElimination(model)
 
-query_result = infer.query(
-    variables=['Game_Outcome'],
-    evidence={
-        "Home_Wins_Last": 5,
-        "Home_Wins_Second_Last": 5,
-        "Home_Wins_Third_Last": 5,
-        "Away_Wins_Last": 2,
-        "Away_Wins_Second_Last": 2,
-        "Away_Wins_Third_Last": 2
-    }
-)
+for index, row in df_test_2023.iterrows():
+    home_wins_last = row["Home_Wins_Last"]
+    home_wins_second_last = row["Home_Wins_Second_Last"]
+    home_wins_third_last = row["Home_Wins_Third_Last"]
+    away_wins_last = row["Away_Wins_Last"]
+    away_wins_second_last = row["Away_Wins_Second_Last"]
+    away_wins_third_last = row["Away_Wins_Third_Last"]
+    home_fatigue = row["Home_Fatigue"]
+    away_fatigue = row["Away_Fatigue"]
+    home_streak = row["Home_Streak"]
+    away_streak = row["Away_Streak"]
+    home_wins_against = row["Home_Wins_Against"]
+    away_wins_against = row["Away_Wins_Against"]
+    home_current_wins = row["Home_Current_Wins"]
+    away_current_wins = row["Away_Current_Wins"]
 
-print(query_result)
+    home_wins_last = bin_previous_wins(home_wins_last,num_bins)
+    away_wins_last = bin_previous_wins(away_wins_last,num_bins)
+    home_wins_second_last = bin_previous_wins(home_wins_second_last,num_bins)
+    away_wins_second_last = bin_previous_wins(away_wins_second_last,num_bins)
+    home_wins_third_last = bin_previous_wins(home_wins_third_last,num_bins)
+    away_wins_third_last = bin_previous_wins(away_wins_third_last,num_bins)
+    home_fatigue = bin_fatigue(home_fatigue, num_bins)
+    away_fatigue = bin_fatigue(away_fatigue, num_bins)
+    home_streak = bin_streak(home_streak, num_bins)
+    away_streak = bin_streak(away_streak, num_bins)
+    home_wins_against = bin_head_to_head(home_wins_against, num_bins)
+    away_wins_against = bin_head_to_head(away_wins_against, num_bins)
+    home_current_wins = bin_current_wins(home_current_wins, num_bins)
+    away_current_wins = bin_current_wins(away_current_wins, num_bins)
+
+    query_result = infer.query(
+        variables=['Game_Outcome'],
+        evidence={
+            "Home_Wins_Last": home_wins_last,
+            "Away_Wins_Last": away_wins_last,
+            "Home_Wins_Second_Last": home_wins_second_last,
+            "Away_Wins_Second_Last": away_wins_second_last,
+            "Home_Wins_Third_Last": home_wins_third_last,
+            "Away_Wins_Third_Last": away_wins_third_last,
+            "Home_Fatigue": home_fatigue,
+            "Away_Fatigue": away_fatigue,
+            "Home_Streak": home_streak,
+            "Away_Streak": away_streak,
+            "Home_Wins_Against": home_wins_against,
+            "Away_Wins_Against": away_wins_against,
+            "Home_Current_Wins": home_current_wins,
+            "Away_Current_Wins": away_current_wins
+        }
+    )
+    probabilities = query_result.values
+    probability_home = probabilities[1]
+    probability_away = probabilities[0]
+    game_outcome = row["Game_Outcome"]
+    new_row = {"Game_Outcome": game_outcome, "Probability_Home": probability_home, "Probability_Away": probability_away}
+    results = pd.concat([results, pd.DataFrame([new_row])], ignore_index=True)
+
+print(results)
+results["Correct_Prediction"] = results.apply(lambda row: 1 if (row["Probability_Home"] >= 0.5 and row["Game_Outcome"] == 1) or (row["Probability_Away"] > 0.5 and row["Game_Outcome"] == 0) else 0, axis=1)
+print("Accuracy: " + str(results["Correct_Prediction"].mean() * 100))
+
+results = results[(results["Probability_Home"] >= 0.55) | (results["Probability_Away"] >= 0.55)]
+print("Accuracy: " + str(results["Correct_Prediction"].mean() * 100))
+
+results = results[(results["Probability_Home"] >= 0.6) | (results["Probability_Away"] >= 0.6)]
+print("Accuracy: " + str(results["Correct_Prediction"].mean() * 100))
+
+print("Home only Accuracy:" + str(results["Game_Outcome"].mean() * 100))

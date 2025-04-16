@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import os
+from datetime import date, datetime
 
 def parse_season(df, year):
     # Get the games dataset
@@ -10,6 +11,12 @@ def parse_season(df, year):
     df_games = pd.read_csv(new_path)
 
     teams = ["ATL","BOS","BRK","CHI","CHO","CLE","DAL","DEN","DET","GSW","HOU","IND","LAC","LAL","MEM","MIA","MIL","MIN","NOP","NYK","OKC","ORL","PHI","PHO","POR","SAC","SAS","TOR","UTA","WAS"]
+
+    month_map = {
+        "Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4,
+        "May": 5, "Jun": 6, "Jul": 7, "Aug": 8,
+        "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12
+    }
 
     streak = {team: [0] for team in df_games["Home"].unique()}
     fatigue = {team: [] for team in df_games["Home"].unique()}
@@ -21,12 +28,24 @@ def parse_season(df, year):
         cur_streak = 0
         for index, row in df_games.iterrows():
             if index == 0:
-                date = row["Day"]
+                day = row["Day"]
+                month = row["Month"]
+                cur_year = year.split('-')
+                if month == "Oct" or month == "Nov" or month == "Dec":
+                    date1 = date(int(cur_year[0]), month_map[month], day)
+                else:
+                    date1 = date(int(cur_year[1]), month_map[month], day)
             else:
-                new_date = row["Day"]
-                if new_date != date:
-                    date = new_date
-                    days_last_game = days_last_game + 1
+                day = row["Day"]
+                month = row["Month"]
+                if month == "Oct" or month == "Nov" or month == "Dec":
+                    date2 = date(int(cur_year[0]), month_map[month], day)
+                else:
+                    date2 = date(int(cur_year[1]), month_map[month], day)
+                if date1 != date2:
+                    delta = date2 - date1
+                    date1 = date2
+                    days_last_game = days_last_game + delta.days
             if row["Home"] == team:
                 fatigue[team].append(days_last_game)
                 days_last_game = 0

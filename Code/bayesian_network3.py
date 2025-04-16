@@ -11,11 +11,6 @@ from testing_2023 import df_test_2023
 num_bins = 3
 
 def bin_previous_wins(wins, bins):
-    if bins == 2:
-        if wins < 40:
-            return "Low"
-        else:
-            return "High"
     if bins == 3:
         if wins < 36:
             return "Low"
@@ -38,31 +33,13 @@ def bin_previous_wins(wins, bins):
             return "Very High"
 
 def bin_current_strength(form_perc, bins):
-    if bins == 2:
-        if form_perc < 0.13:
-            return "Low"
-        else:
-            return "High"
     if bins == 3:
-        if form_perc < 0.387:
+        if form_perc < 0.345:
             return "Low"
-        elif 0.387 <= form_perc < 0.533:
+        elif 0.345 <= form_perc < 0.464:
             return "Medium"
         else:
             return "High"
-    if bins == 6:
-        if form_perc < -0.07:
-            return "Very Low"
-        elif -0.07 <= form_perc < 0.03:
-            return "Low"
-        elif 0.03 <= form_perc < 0.13:
-            return "Medium Low"
-        elif 0.13 <= form_perc < 0.17:
-            return "Medium High"
-        elif 0.17 <= form_perc < 0.31:
-            return "High"
-        else:
-            return "Very High"
 
 def bin_team_form(form, bins):
     if bins == 3:
@@ -76,8 +53,10 @@ def bin_team_form(form, bins):
 def average_wins(w1, w2, w3):
     return round((0.5 * w1) + (0.3 * w2) + (0.2 * w3))
 
-def compute_cur_str(win_perc_current, win_perc_against):
-    return (0.8 * win_perc_current) + (0.2 * win_perc_against)
+def compute_cur_str(win_perc_current, win_perc_against, streak, fatigue):
+    streak = streak / 10
+    fatigue = fatigue / 10
+    return (0.7 * win_perc_current) + (0.1 * win_perc_against) + (0.1 * streak) + (0.1 * fatigue)
 
 def compute_team_form(streak, fatigue):
     streak = streak / 10
@@ -90,13 +69,13 @@ train_df = train_df.reset_index(drop=True)
 train_df["Home_Average_Past_Wins"] = train_df.apply(lambda row: average_wins(row["Home_Wins_Last"], row["Home_Wins_Second_Last"], row["Home_Wins_Third_Last"]), axis=1)
 train_df["Away_Average_Past_Wins"] = train_df.apply(lambda row: average_wins(row["Away_Wins_Last"], row["Away_Wins_Second_Last"], row["Away_Wins_Third_Last"]), axis=1)
 
-train_df["Home_Current_Strength"] = train_df.apply(lambda row: compute_cur_str(row["Home_Current_Wins"], row["Home_Wins_Against"]), axis=1)
-train_df["Away_Current_Strength"] = train_df.apply(lambda row: compute_cur_str(row["Away_Current_Wins"], row["Away_Wins_Against"]), axis=1)
+train_df["Home_Current_Strength"] = train_df.apply(lambda row: compute_cur_str(row["Home_Current_Wins"], row["Home_Wins_Against"], row["Home_Streak"], row["Home_Fatigue"]), axis=1)
+train_df["Away_Current_Strength"] = train_df.apply(lambda row: compute_cur_str(row["Away_Current_Wins"], row["Away_Wins_Against"], row["Away_Streak"], row["Away_Fatigue"]), axis=1)
 
 train_df["Home_Team_Form"] = train_df.apply(lambda row: compute_team_form(row["Home_Streak"], row["Home_Fatigue"]), axis=1)
 train_df["Away_Team_Form"] = train_df.apply(lambda row: compute_team_form(row["Away_Streak"], row["Away_Fatigue"]), axis=1)
 
-bins = pd.qcut(train_df["Home_Average_Past_Wins"], q=2)
+bins = pd.qcut(train_df["Home_Current_Strength"], q=3)
 print(bins)
 
 train_df = train_df[["Game_Outcome","Home_Average_Past_Wins","Away_Average_Past_Wins","Home_Current_Strength","Away_Current_Strength","Home_Team_Form","Away_Team_Form"]]
@@ -141,8 +120,8 @@ for index, row in df_test_2023.iterrows():
 
     home_average_past_wins = average_wins(home_wins_last,home_wins_second_last,home_wins_third_last)
     away_average_past_wins = average_wins(away_wins_last,away_wins_second_last,away_wins_third_last)
-    home_current_strength = compute_cur_str(home_current_wins,home_wins_against)
-    away_current_strength = compute_cur_str(away_current_wins,away_wins_against)
+    home_current_strength = compute_cur_str(home_current_wins,home_wins_against,home_streak,home_fatigue)
+    away_current_strength = compute_cur_str(away_current_wins,away_wins_against,away_streak,away_fatigue)
     home_team_form = compute_team_form(home_streak,home_fatigue)
     away_team_form = compute_team_form(away_streak,away_fatigue)
 
@@ -173,19 +152,10 @@ for index, row in df_test_2023.iterrows():
 
 print(results)
 results["Correct_Prediction"] = results.apply(lambda row: 1 if (row["Probability_Home"] >= 0.5 and row["Game_Outcome"] == 1) or (row["Probability_Away"] > 0.5 and row["Game_Outcome"] == 0) else 0, axis=1)
-print("50% Accuracy: " + str(results["Correct_Prediction"].mean() * 100) + ", Count: " + str(results["Correct_Prediction"].count()))
+print("Accuracy: " + str(results["Correct_Prediction"].mean() * 100))
 
 results = results[(results["Probability_Home"] >= 0.55) | (results["Probability_Away"] >= 0.55)]
-print("55% Accuracy: " + str(results["Correct_Prediction"].mean() * 100) + ", Count: " + str(results["Correct_Prediction"].count()))
+print("Accuracy: " + str(results["Correct_Prediction"].mean() * 100))
 
 results = results[(results["Probability_Home"] >= 0.6) | (results["Probability_Away"] >= 0.6)]
-print("60% Accuracy: " + str(results["Correct_Prediction"].mean() * 100) + ", Count: " + str(results["Correct_Prediction"].count()))
-
-results = results[(results["Probability_Home"] >= 0.65) | (results["Probability_Away"] >= 0.65)]
-print("65% Accuracy: " + str(results["Correct_Prediction"].mean() * 100) + ", Count: " + str(results["Correct_Prediction"].count()))
-
-results = results[(results["Probability_Home"] >= 0.7) | (results["Probability_Away"] >= 0.7)]
-print("70% Accuracy: " + str(results["Correct_Prediction"].mean() * 100) + ", Count: " + str(results["Correct_Prediction"].count()))
-
-results = results[(results["Probability_Home"] >= 0.75) | (results["Probability_Away"] >= 0.75)]
-print("75% Accuracy: " + str(results["Correct_Prediction"].mean() * 100) + ", Count: " + str(results["Correct_Prediction"].count()))
+print("Accuracy: " + str(results["Correct_Prediction"].mean() * 100))

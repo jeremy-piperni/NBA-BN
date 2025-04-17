@@ -8,7 +8,14 @@ from training_2021 import df_train_2021
 from training_2020 import df_train_2020
 from testing_2023 import df_test_2023
 
+num_bins = 2
+
 def bin_previous_wins(wins, bins):
+    if bins == 2:
+        if wins < 43:
+            return "Low"
+        else:
+            return "High"
     if bins == 3:
         if wins < 35:
             return "Low"
@@ -18,6 +25,11 @@ def bin_previous_wins(wins, bins):
             return "High"
 
 def bin_fatigue(days, bins):
+    if bins == 2:
+        if days < 2:
+            return "High"
+        else:
+            return "Low"
     if bins == 3:
         if days == 1:
             return "High"
@@ -27,6 +39,11 @@ def bin_fatigue(days, bins):
             return "Low"
 
 def bin_streak(streak, bins):
+    if bins == 2:
+        if streak < 0:
+            return "Bad"
+        else:
+            return "Good"
     if bins == 3:
         if streak < -1:
             return "Bad"
@@ -36,6 +53,11 @@ def bin_streak(streak, bins):
             return "Good"
         
 def bin_head_to_head(win_perc, bins):
+    if bins == 2:
+        if win_perc < 0.5:
+            return "Bad"
+        else:
+            return "Good"
     if bins == 3:
         if win_perc < .34:
             return "Bad"
@@ -45,6 +67,11 @@ def bin_head_to_head(win_perc, bins):
             return "Good"
         
 def bin_current_wins(win_perc, bins):
+    if bins == 2:
+        if win_perc < 0.5:
+            return "Bad"
+        else:
+            return "Good"
     if bins == 3:
         if win_perc < 0.448:
             return "Bad"
@@ -53,14 +80,8 @@ def bin_current_wins(win_perc, bins):
         else:
             return "Good"
 
-num_bins = 3
-
 train_df = pd.concat([df_train_2020, df_train_2021, df_train_2022])
 train_df = train_df.reset_index(drop=True)
-
-train_df["Win_Only_Temp"] = train_df.apply(lambda row: 1 if row["Home_Current_Wins"] >= row["Away_Current_Wins"] else 0, axis=1)
-train_df["Win_Only"] = train_df.apply(lambda row: 1 if row["Game_Outcome"] == row["Win_Only_Temp"] else 0, axis=1)
-print("Win only Accuracy: " + str(train_df["Win_Only"].mean() * 100))
 
 cols_to_map = ["Home_Wins_Last","Away_Wins_Last","Home_Wins_Second_Last","Away_Wins_Second_Last","Home_Wins_Third_Last","Away_Wins_Third_Last"]
 train_df[cols_to_map] = train_df[cols_to_map].map(lambda x: bin_previous_wins(x, num_bins))
@@ -94,6 +115,7 @@ model.fit(data=train_df, estimator=MaximumLikelihoodEstimator)
 results = pd.DataFrame(columns=["Game_Outcome","Probability_Home","Probability_Away"])
 
 infer = VariableElimination(model)
+
 
 for index, row in df_test_2023.iterrows():
     home_wins_last = row["Home_Wins_Last"]
@@ -154,12 +176,31 @@ for index, row in df_test_2023.iterrows():
 
 print(results)
 results["Correct_Prediction"] = results.apply(lambda row: 1 if (row["Probability_Home"] >= 0.5 and row["Game_Outcome"] == 1) or (row["Probability_Away"] > 0.5 and row["Game_Outcome"] == 0) else 0, axis=1)
-print("Accuracy: " + str(results["Correct_Prediction"].mean() * 100))
+print("50% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))
 
 results = results[(results["Probability_Home"] >= 0.55) | (results["Probability_Away"] >= 0.55)]
-print("Accuracy: " + str(results["Correct_Prediction"].mean() * 100))
+print("55% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))
 
 results = results[(results["Probability_Home"] >= 0.6) | (results["Probability_Away"] >= 0.6)]
-print("Accuracy: " + str(results["Correct_Prediction"].mean() * 100))
+print("60% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))
 
-print("Home only Accuracy:" + str(results["Game_Outcome"].mean() * 100))
+results = results[(results["Probability_Home"] >= 0.65) | (results["Probability_Away"] >= 0.65)]
+print("65% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))
+
+results = results[(results["Probability_Home"] >= 0.7) | (results["Probability_Away"] >= 0.7)]
+print("70% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))
+
+results = results[(results["Probability_Home"] >= 0.75) | (results["Probability_Away"] >= 0.75)]
+print("75% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))
+
+results = results[(results["Probability_Home"] >= 0.80) | (results["Probability_Away"] >= 0.80)]
+print("80% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))
+
+results = results[(results["Probability_Home"] >= 0.85) | (results["Probability_Away"] >= 0.85)]
+print("85% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))
+
+results = results[(results["Probability_Home"] >= 0.90) | (results["Probability_Away"] >= 0.90)]
+print("90% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))
+
+results = results[(results["Probability_Home"] >= 0.95) | (results["Probability_Away"] >= 0.95)]
+print("95% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))

@@ -8,8 +8,8 @@ from training_2021 import df_train_2021
 from training_2020 import df_train_2020
 from testing_2023 import df_test_2023
 
-prev_bins = 5
-cur_bins = 5
+prev_bins = 2
+cur_bins = 4
 
 def bin_previous_wins(wins, bins):
     if bins == 2:
@@ -222,3 +222,49 @@ print("90% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2
 
 results = results[(results["Probability_Home"] >= 0.95) | (results["Probability_Away"] >= 0.95)]
 print("95% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))
+
+
+# Queries
+# Upset Query, if home is currently stronger what are the chances that the away team can cause an upset
+query_result = infer.query(
+        variables=['Game_Outcome'],
+        evidence={
+            "Home_Current_Strength": "High",
+            "Away_Current_Strength": "Low"
+        }
+    )
+print("Upset Query")
+print(query_result)
+
+# Query, how strong is the away team when the home team wins
+query_result = infer.query(
+        variables=['Away_Current_Strength'],
+        evidence={
+            "Game_Outcome": 1
+        }
+    )
+print("Away Current Strength when Home Team Wins Query")
+print(query_result)
+
+# Query, how strong is the home team when the away team wins
+query_result = infer.query(
+        variables=['Home_Current_Strength'],
+        evidence={
+            "Game_Outcome": 0
+        }
+    )
+
+print("Home Current Strength when Away Team Wins Query")
+print(query_result)
+
+# Query, win prediction if the home team was strong in the past, but is currently weak
+query_result = infer.query(
+        variables=['Game_Outcome'],
+        evidence={
+            "Home_Average_Past_Wins": "High",
+            "Home_Current_Strength": "Low"
+        }
+    )
+
+print("Home Team Previously Strong but Currently Weak Query")
+print(query_result)

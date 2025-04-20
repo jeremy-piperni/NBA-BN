@@ -8,7 +8,7 @@ from training_2021 import df_train_2021
 from training_2020 import df_train_2020
 from testing_2023 import df_test_2023
 
-prev_bins = 4
+prev_bins = 3
 cur_bins = 4
 streak_bins = 4
 fatigue_bins = 4
@@ -227,3 +227,11 @@ print("90% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2
 
 results = results[(results["Probability_Home"] >= 0.95) | (results["Probability_Away"] >= 0.95)]
 print("95% Accuracy: " + str(round(results["Correct_Prediction"].mean() * 100, 2)) + ", Count: " + str(results["Correct_Prediction"].count()))
+
+query_result = infer.query(
+        variables=["Dif_Average_Past_Wins","Dif_Current_Strength","Dif_Streak","Dif_Fatigue"],
+        evidence={
+            "Game_Outcome": 1
+        }
+    )
+print(query_result)
